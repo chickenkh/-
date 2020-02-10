@@ -91,7 +91,6 @@ http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/140
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/141
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="SPORT",TSN 5
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/142
-
 #EXTINF:-1 group-title="SPORT",SPORTS MAX 1 (JAMAICA)
 http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/82906
 #EXTINF:-1 group-title="SPORT",SPORTS MAX 2 (JAMAICA)
@@ -361,6 +360,121 @@ http://live.vnanet.vn/720P/playlist.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" tvg-name="VITV" group-title="Việt Nam",VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png" group-title="JAV",Ibiza TV1
+https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png" group-title="JAV",Ibiza TV2
+https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+#EXTINF:-1 group-title="JAV",JAV Happy
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33153
+#EXTINF:-1 group-title="JAV",JAV etv
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
+#EXTINF:-1 group-title="JAV",Pink Shoe
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33155
+#EXTINF:-1 group-title="JAV",JAV Film
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33158
+#EXTINF:-1 group-title="JAV",Pandora Perfect
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33159
+#EXTINF:-1 group-title="JAV",JAV SonSee2
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33156
+#EXTINF:-1 group-title="JAV",SonSee3
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33160
+
+#EXTINF:-1 group-title="XXX",Russian Night
+http://188.35.9.11:21051/udp/071l
+#EXTINF:-1 group-title="XXX",LEGAL PORNO
+http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6573
+#EXTINF:-1 group-title="XXX",XXX Stars
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33077
+#EXTINF:-1 group-title="XXX",VividTV EU
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33074
+#EXTINF:-1 group-title="XXX",Erotic5
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33130
+#EXTINF:-1 group-title="XXX",Venus
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33131
+#EXTINF:-1 group-title="XXX",BHot
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33132
+#EXTINF:-1 group-title="XXX",Balkan
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33138
+#EXTINF:-1 group-title="XXX",XXL
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33143
+#EXTINF:-1 group-title="XXX",Hustler HD
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33144
+#EXTINF:-1 group-title="XXX",Pink O TV
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33139
+#EXTINF:-1 group-title="XXX",XY Mix
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33148
+#EXTINF:-1 group-title="XXX",XY Max
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33149
+#EXTINF:-1 group-title="XXX",XY Plus
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33150
+#EXTINF:-1 group-title="XXX",Sextream
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33151
+#EXTINF:-1 group-title="XXX",Brazzers TV Europe
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33133
+#EXTINF:-1 group-title="XXX",Sextosenso
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33137
+#EXTINF:-1 group-title="XXX,BLUEHUSTLER
+http://178.124.183.15:80/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1 group-title="XXX",Jasmin TV
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33076
+#EXTINF:-1 group-title="XXX",NuArt
+http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_livecams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_bigtits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",adultiptv_massage
+http://cdn.adultiptv.net/massage.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_vintage
+http://live.redtraffic.xyz/vintage.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_bigtits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:- group-title="ADULT IPTV"1,redtraffic_teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_pov
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_bdsm
+http://live.redtraffic.xyz/bdsm.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_bigass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="ADULT IPTV",redtraffic_asian
+http://live.redtraffic.xyz/asian.m3u8
 
 #EXTINF:-1 tvg-logo="https://lezebre.lu/images/detailed/26/65526-JDM-I-Love-VAGinas.png" group-title="MIX USA-A" ,Video A - 1
 http://s1.hdporus.com/content/vod/s1/480/index.m3u8
