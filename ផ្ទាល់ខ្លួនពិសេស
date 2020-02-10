@@ -194,7 +194,7 @@ https://live.mawintv2.com/02_7HD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-mcot.png",MCOT HD
 https://live.mawintv2.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1,group-title="THAI"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD FHD
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT FHD
 http://203.154.243.31:8081/live/tv9/index.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
 https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
@@ -224,7 +224,7 @@ https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_TNN24_480p/chunklist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/nation.png",NATION TV
 https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
-#EXTINF:#EXTINF:-1 group-title="THAI" tvg-logo="https://4.bp.blogspot.com/-y8iyhanqX1Y/WdLYwDUd1EI/AAAAAAAAAHQ/6Nt31oLysEEIKcQAVWTATR-nsthNu9X6wCLcBGAs/s200/025.png",NBT HD 2
+#EXTINF:-1 group-title="THAI" tvg-logo="https://4.bp.blogspot.com/-y8iyhanqX1Y/WdLYwDUd1EI/AAAAAAAAAHQ/6Nt31oLysEEIKcQAVWTATR-nsthNu9X6wCLcBGAs/s200/025.png",NBT HD 2
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
 https://www.livedoomovie.com/02_TPTV_480p/chunklist.m3u8
