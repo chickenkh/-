@@ -140,10 +140,14 @@ http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
 
 #EXTINF:0  tvg-logo="https://www.tvtechnology.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTUzNzQyMDU1MDMzNDgwOTg0/nbc-sports-scores-app-kicks-off-promo-image.jpg" group-title="SPORT",NBC Sport
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/81965
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmDmh6MD/useesport-1.png" group-title="SPORT",Usee Sports 1
-https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBdTtFPG/useesports2.png" group-title="SPORT",Usee Sports 2
-https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/useetv.png", Useesports 1
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/useetv.png", Useesports 2
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/champions1.png", Champions 1 TV
+https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/champions2.png", Champions 2 TV
+https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=BnCg4oKx&v=20200202
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="SPORT",TSN 1
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/138
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" group-title="SPORT",TSN 2
