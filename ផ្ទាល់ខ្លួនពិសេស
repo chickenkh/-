@@ -103,16 +103,41 @@ http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/39680
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="FOX SPORTS",FOX SPORTS 3 HD (LATIN AMERICA)
 http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/39681
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="SPORT",Premier Football HD 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="SPORT",Premier Football HD 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="SPORT",Premier Football HD 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="SPORT",Premier Football HD 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="SPORT",Premier Football HD 5
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True Premier HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",True Premier HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",True Premier HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",True Premier HD4
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",True Premier HD5
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS HD
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://www.doohdbox.com/assets/201707081423451786051871.jpg",T-SPORT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/t-sports/playlist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/smmtv.png",SMM TV
+http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
+http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
+#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis
+http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา3"tvg-logo="https://teevee-hd.com/img/golf.png",Golf
+http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
+
 #EXTINF:0  tvg-logo="https://www.tvtechnology.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTUzNzQyMDU1MDMzNDgwOTg0/nbc-sports-scores-app-kicks-off-promo-image.jpg" group-title="SPORT",NBC Sport
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/81965
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmDmh6MD/useesport-1.png" group-title="SPORT",Usee Sports 1
@@ -209,58 +234,59 @@ https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png" group-title="THAI",ONE 31
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png" group-title="THAI",ONE HD
 https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-pptv.png",PPTV HD
-https://live.mawintv2.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
-https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/pptvfhd.png",PPTV 36-HD
+http://27.254.130.64/feed/chpptvhd/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD 
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
 #EXTINF:0 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3HD
-https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch5.png",5HD
-https://live.mawintv2.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch5.png",5HD
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch5.png",5HD
-https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch7.png",7HD
-https://live.mawintv2.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch7.png",7HD
-https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-mcot.png",MCOT HD
-https://live.mawintv2.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT FHD
-http://203.154.243.31:8081/live/tv9/index.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch3fhd.png",CH3 HD
+http://27.254.130.64/feed/ch3hd/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
+http://27.254.130.64/feed/ch5hd/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch7fhd.png",CH7 HD
+http://27.254.130.64/feed/ch7hd/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/mcot-hd.png",MCOT-HD
+http://27.254.130.64/feed/chmcothd/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
-https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-thairath.png",THAIRATH HD
-https://live.mawintv2.com/02_THAIRATH_720p/chunklist.m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
 https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/amarinfhd.png",AMARIN HD
+http://27.254.130.64/feed/chamarin/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
-https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/thaipbs.png",TPBS HD
 https://www.livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPIONT
 https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+http://122.155.92.8:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-24u.png",TRUE4U
-https://live.mawintv2.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
-https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-gmmchannel.png",GMM25
-https://live.mawintv2.com/02_GMM_720p/chunklist.m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
-https://www.livedoomovie.com/02_GMM_720p/chunklist.m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist_720p.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
-https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
 https://www.livedoomovie.com/02_TNN24_480p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/nation.png",NATION TV
-https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/nation.png",Nation TV 
+http://live.nationtv.tv/hls/ntv_th_hq.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://4.bp.blogspot.com/-y8iyhanqX1Y/WdLYwDUd1EI/AAAAAAAAAHQ/6Nt31oLysEEIKcQAVWTATR-nsthNu9X6wCLcBGAs/s200/025.png",NBT HD 2
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
