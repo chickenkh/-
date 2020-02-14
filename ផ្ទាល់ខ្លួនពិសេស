@@ -71,8 +71,6 @@ http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
 http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://www.doohdbox.com/assets/201707081423451786051871.jpg",T-SPORT
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/t-sports/playlist.m3u8
 #EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/smmtv.png",SMM TV
 http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
@@ -141,7 +139,7 @@ http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1856.rtmp
 http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1857.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="LATIN SPORT",Espn Brazil
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37109
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn Brazil 2
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="LATIN SPORT",Espn Brazil 2
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37110
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="LATIN SPORT",Espn Brasil BR
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37108
