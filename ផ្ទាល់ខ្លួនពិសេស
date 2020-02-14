@@ -327,7 +327,6 @@ https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THAI"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
@@ -360,6 +359,35 @@ https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fdopfeC.jpg" group-title="THAI",13 Siam TV
 http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT7DSVN/CCTV1.png" group-title="CHINA",CCTV1
+http://220.158.149.28:8180/TV00000000000000000101@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nksLbW3/CCTV2.png" group-title="CHINA",CCTV2
+http://220.158.149.14:9999/live/TV00000000000000000007@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMp4BrH/CCTV3.png" group-title="CHINA",CCTV3
+http://220.158.149.28:8180/TV00000000000000000102@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kNRmWR/CCTV4.png" group-title="CHINA",CCTV4
+http://220.158.149.14:9999/live/TV00000000000000000015@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cyfbzx6/CCTV5.png" group-title="CHINA",CCTV5
+http://220.158.149.28:8180/TV00000000000000000104@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ1x25j/CCTV6.png" group-title="CHINA",CCTV6
+http://220.158.149.28:8180/TV00000000000000000105@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3BNRsmp/CCTV8.png" group-title="CHINA",CCTV8
+http://220.158.149.28:8180/TV00000000000000000103@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYZqn0C/CCTV10.png" group-title="CHINA",CCTV10
+http://220.158.149.14:9999/live/TV00000000000000000009@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QHVPNGG/CCTV11.png" group-title="CHINA",CCTV11
+http://220.158.149.14:9999/live/TV00000000000000000010@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6D53f8/CCTV12.png" group-title="CHINA",CCTV12
+http://220.158.149.14:9999/live/TV00000000000000000011@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FskF9cr/CCTV13.png" group-title="CHINA",CCTV13
+http://220.158.149.14:9999/live/TV00000000000000000014@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFRpyyZ/CCTV14.png" group-title="CHINA",CCTV14
+http://220.158.149.14:9999/live/TV00000000000000000013@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M1ZMNgm/CCTV15.png" group-title="CHINA",CCTV15
+http://220.158.149.14:9999/live/TV00000000000000000012@HHZT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ6MKTw/CCTV7.png" group-title="CHINA",CCTV17
+http://220.158.149.14:9999/live/TV00000000000000000008@HHZT
 
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Việt Nam",VTV 1
 http://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
