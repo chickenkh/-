@@ -47,62 +47,6 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="BEIN SPORTS",beIN Sports 1 Asia
-https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="BEIN SPORTS",beIN Sports 2 Asia
-https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 1 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/27
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 2 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/29
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 3 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/31
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 4 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/33
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 5 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/35
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 6 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/37
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 7 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/39
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 8 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/41
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 9 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/43
-#EXTINF:-1 group-title="BEIN SPORTS",AR|Bein Sports 10 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/45
-#EXTINF:-1 group-title="BEIN SPORTS",EN|Bein Sports 11 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/47
-#EXTINF:-1 group-title="BEIN SPORTS",EN|Bein Sports 12 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/49
-#EXTINF:-1 group-title="BEIN SPORTS",EN|Bein Sports 13 HD
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/51
-#EXTINF:-1 group-title="BEIN SPORTS",FR|Bein Sports 1
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/58
-#EXTINF:-1,group-title="BEIN SPORTS"FR|Bein Sports 2
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/59
-#EXTINF:-1 group-title="BEIN SPORTS",FR|Bein Sports 3
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/60
-#EXTINF:-1 group-title="BEIN SPORTS",TR|Bein Sports 1
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/61
-#EXTINF:-1 group-title="BEIN SPORTS",TR|Bein Sports 2
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/62
-#EXTINF:-1 group-title="BEIN SPORTS",TR|Bein Sports 3
-http://vtpii.net:8000/PRM-255415215541522545/PRM-36512452415452488/63
-
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="FOX SPORTS",Fox Sports 1 Asia
-https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="FOX SPORTS",Fox Sports 2 Asia
-https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="FOX SPORTS",Fox Sports 3 Asia
-https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="FOX SPORTS",FOX SPORTS HD (LATIN AMERICA)
-http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/39679
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="FOX SPORTS",FOX SPORTS 2 HD (LATIN AMERICA)
-http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/39680
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="FOX SPORTS",FOX SPORTS 3 HD (LATIN AMERICA)
-http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/39681
-
 #EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True Premier HD1
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",True Premier HD2
@@ -138,8 +82,6 @@ http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #EXTINF:-1 group-title="THAI SPORT"tvg-logo="https://teevee-hd.com/img/golf.png",Golf
 http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
 
-#EXTINF:0  tvg-logo="https://www.tvtechnology.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTUzNzQyMDU1MDMzNDgwOTg0/nbc-sports-scores-app-kicks-off-promo-image.jpg" group-title="SPORT",NBC Sport
-http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/81965
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/useetv.png", Useesports 1
 https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=BnCg4oKx&v=20200202
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/useetv.png", Useesports 2
@@ -148,6 +90,16 @@ https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=BnCg4oKx&v=202
 https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=BnCg4oKx&v=20200202
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/champions2.png", Champions 2 TV
 https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 1 HD
+http://panel.uniforce.club:8080/live/riven/riven/64636.m3u8
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 2 HD
+http://panel.uniforce.club:8080/live/riven/riven/64637.m3u8
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 3 HD
+http://panel.uniforce.club:8080/live/riven/riven/64638.m3u8
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 4 HD
+http://panel.uniforce.club:8080/live/riven/riven/64639.m3u8
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 5 HD
+http://panel.uniforce.club:8080/live/riven/riven/64640.m3u8
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="SPORT",TSN 1
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/138
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" group-title="SPORT",TSN 2
@@ -166,8 +118,6 @@ http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/82905
 http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/82903
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="SPORT",CCTV 5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
-#EXTINF:-1  tvg-logo="" group-title="SPORT",CCTV5+
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="SPORT",ST Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="SPORT",ST Sports Premium
