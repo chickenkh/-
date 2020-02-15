@@ -214,6 +214,8 @@ https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=BnCg4oKx&v=202
 https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=BnCg4oKx&v=20200202
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/champions2.png", Champions 2 TV
 https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="SPORT",CCTV-5+体育
+http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 #EXTINF:-1 group-title="SPORT",Canal+ Sport
 http://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
 #EXTINF:-1 group-title="SPORT",Canal+ Sport Cy
