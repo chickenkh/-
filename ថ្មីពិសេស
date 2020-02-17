@@ -75,20 +75,49 @@ http://lotustv.be:80/charlesgiles/45562819/171566
 #EXTINF:-1 group-title="SUPERSPORT AF",SuperSport 12 | HD
 http://lotustv.be:80/charlesgiles/45562819/171567
 
-#EXTINF:-1,RUSH SPORTS 1
+#EXTINF:-1 group-title="EPL SPORT",RUSH SPORTS 1
 http://lotustv.be:80/charlesgiles/45562819/199951
-#EXTINF:-1,RUSH SPORTS 2
+#EXTINF:-1 group-title="EPL SPORT",RUSH SPORTS 2
 http://lotustv.be:80/charlesgiles/45562819/199948
-#EXTINF:-1,RUSH SPORTS 3
+#EXTINF:-1 group-title="EPL SPORT",RUSH SPORTS 3
 http://lotustv.be:80/charlesgiles/45562819/199945
-#EXTINF:-1,RUSH SPORTS 4
+#EXTINF:-1 group-title="EPL SPORT",RUSH SPORTS 4
 http://lotustv.be:80/charlesgiles/45562819/199942
-#EXTINF:-1,RUSH SPORTS 5
+#EXTINF:-1 group-title="EPL SPORT",RUSH SPORTS 5
 http://lotustv.be:80/charlesgiles/45562819/199939
-#EXTINF:-1,RUSH SPORTS 6
+#EXTINF:-1 group-title="EPL SPORT",RUSH SPORTS 6
 http://lotustv.be:80/charlesgiles/45562819/199936
-#EXTINF:-1,NBCSN | HD
+#EXTINF:-1 group-title="EPL SPORT",NBCSN | HD
 http://lotustv.be:80/charlesgiles/45562819/62411
+
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 1 Asia
+http://103.146.185.235:8888/live/stress/bersama/185.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 2 Asia
+http://103.146.185.235:8888/live/stress/bersama/186.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 1
+http://103.146.185.235:8888/live/stress/bersama/266.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 2
+http://103.146.185.235:8888/live/stress/bersama/267.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 3
+http://103.146.185.235:8888/live/stress/bersama/268.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 4
+http://103.146.185.235:8888/live/stress/bersama/269.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 5
+http://103.146.185.235:8888/live/stress/bersama/270.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 6
+http://103.146.185.235:8888/live/stress/bersama/271.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 7
+http://103.146.185.235:8888/live/stress/bersama/272.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 8
+http://103.146.185.235:8888/live/stress/bersama/273.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 9
+http://103.146.185.235:8888/live/stress/bersama/274.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 10
+http://103.146.185.235:8888/live/stress/bersama/375.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 11
+http://103.146.185.235:8888/live/stress/bersama/275.ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT", Bein Sport 12
+http://103.146.185.235:8888/live/stress/bersama/276.ts
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://macan.live/img/useetv.png", Useesports 1
 https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=BnCg4oKx&v=20200202
