@@ -46,10 +46,6 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="ASIA SPORT",beIN Sports 1 Asia
-https://dl.dropbox.com/s/omttlx53wpraf77/Bein1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="ASIA SPORT",beIN Sports 2 Asia
-https://dl.dropbox.com/s/piieteu6mq49rp3/Bein2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="ASIA SPORT",FOX Sport 1
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="ASIA SPORT",FOX Sport 2
@@ -86,56 +82,27 @@ http://aliwix-t.online:80/live/supersport/aliwix/1231.ts
 #EXTINF:-1 group-title="SUPERSPORT",Supersport Blitz HD
 http://aliwix-t.online:80/live/supersport/aliwix/1230.ts
 
-
-#EXTINF:-1 group-title="SPORT",SKY SPORTS MAIN EVENT HD
-http://beastiptv.tv:25461/live/djsunny22/HSGEUV775gg/4078.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS FOOTBALL HD
-http://beastiptv.tv:25461/live/djsunny22/HSGEUV775gg/4080.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS PREMIER LEAGUE HD
-http://beastiptv.tv:25461/live/djsunny22/HSGEUV775gg/4079.ts
 #EXTINF:-1 group-title="SPORT",Sport Tv TR
 http://skdn.redi-vo.com/iptv/ch2366?code=1701273726237058&key=29705
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="SPORT",CCTV 5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SPORT",M. Liga de Campeones
 http://livegopanel.club:8080/cJKp3FBnCW/xaywNU2EcQ/6491
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="SPORT",ST Sports Arena
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="SPORT",ST Sports Premium
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_650_480x360_197234/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="SPORT",ST SPORTS LIFE 360p
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_976_650_480x360_197206/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="SPORT",ST WORLD FOOTBALL 360p
-http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_996_650_480x360_210854/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="SPORT",MBC Sports
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="SPORT",SBS Sports
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="LATIN SPORT",Espn
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1855.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="LATIN SPORT",Espn 2
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1856.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="LATIN SPORT",Espn 3
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1857.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="LATIN SPORT",Espn Brazil
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37109
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="LATIN SPORT",Espn Brazil 2
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37110
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="LATIN SPORT",Espn Brasil BR
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37108
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="LATIN SPORT",Espn Extra BR
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37055
 #EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="LATIN SPORT",Fox Sports Brazil
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37111
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="LATIN SPORT",Fox Sports 2 Brazil
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37114
-#EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="LATIN SPORT",Fox Sports
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1777.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="LATIN SPORT",Fox Sports 2
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1776.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="LATIN SPORT",Fox Sports 3
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1775.rtmp
 #EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="LATIN SPORT",Fox Sports Premium
 http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1780.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="LATIN SPORT",Sportv
@@ -146,40 +113,6 @@ http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37086
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37083
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="LATIN SPORT",Premiere
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37088
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="LATIN SPORT",GolTV
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1832.rtmp
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="LATIN SPORT",Tigo Sports
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1820.rtmp
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="LATIN SPORT",Tigo Sports 2
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1821.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="LATIN SPORT",Win Sports
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1803.rtmp
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="LATIN SPORT",Win Sports Plus
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/21863.rtmp
-#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="LATIN SPORT",Tnt Sports
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1815.rtmp
-#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="LATIN SPORT",Tudn
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/22258.rtmp
-#EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2019/04/673_tvc-deportes-1.png" group-title="LATIN SPORT",Tvc Deportes
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1813.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="LATIN SPORT",TyC
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/17274.rtmp
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.5ac30d68dee4e_VTVUtuguay.png.821948d652e1b27afa5cf5c7a71dba78.png"LATIN SPORT",VTV Plus
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/17333.rtmp
-#EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="LATIN SPORT",Band Sports
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37103
-#EXTINF:-1 group-title="LATIN SPORT",Cdf Basico
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1841.rtmp
-#EXTINF:-1 group-title="LATIN SPORT",Cdf Premium
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1842.rtmp
-#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="LATIN SPORT",Directv Sports
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1784.rtmp
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/DirecTV_Sports_2_Argentina.png" group-title="LATIN SPORT",Directv Sports 2
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/1789.rtmp
-#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/directv_sports.png" group-title="LATIN SPORT",Directv Sports+
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/5190.rtmp
-#EXTINF:-1 group-title="LATIN SPORT",Deportv
-http://tv-prime.tv:8080/live/SANTIAGOCELI2020/G5QKdrgSZ6/525.rtmp
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="LATIN SPORT",Combate
 http://lista.serverpower.me:80/smart1/smart1/37106
 
