@@ -46,12 +46,26 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="ASIA SPORT",FOX Sport 1
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="ASIA SPORT",FOX Sport 2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="ASIA SPORT",FOX Sport 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8dn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
+#EXTINF:-1 group-title="ASIA SPORT", True Premier 1
+https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", True Premier 2 
+https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", True Premier 3 
+https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", True Premier 4 
+https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", True Premier 5 
+https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", Bein Sport 1
+http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", Bein Sport 2
+http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", Fox Sports 1 Asia
+http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", Fox Sports 2 Asia
+http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", Fox Sports 3 Asia
+http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 group-title="SUPERSPORT",SuperSport 1 HD
 http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
@@ -81,6 +95,17 @@ http://aliwix-t.online:80/live/supersport/aliwix/1229.ts
 http://aliwix-t.online:80/live/supersport/aliwix/1231.ts
 #EXTINF:-1 group-title="SUPERSPORT",Supersport Blitz HD
 http://aliwix-t.online:80/live/supersport/aliwix/1230.ts
+
+#EXTINF:-1 group-title="UK SPORT", Sky Sports Football UK
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 group-title="UK SPORT", Sky Sports Premier League UK
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 group-title="UK SPORT", Sky Sports Main Event UK
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 group-title="UK SPORT", BT Sport 1 UK
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1 group-title="UK SPORT", BT Sport 2 UK
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",Sport Tv TR
 http://skdn.redi-vo.com/iptv/ch2366?code=1701273726237058&key=29705
