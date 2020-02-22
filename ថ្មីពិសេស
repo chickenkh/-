@@ -66,6 +66,10 @@ http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-F
 http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="ASIA SPORT", Fox Sports 3 Asia
 http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="ASIA SPORT",MBC Sports
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="ASIA SPORT",SBS Sports
+http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 
 #EXTINF:-1 group-title="SUPERSPORT",SuperSport 1 HD
 http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
@@ -96,6 +100,36 @@ http://aliwix-t.online:80/live/supersport/aliwix/1231.ts
 #EXTINF:-1 group-title="SUPERSPORT",Supersport Blitz HD
 http://aliwix-t.online:80/live/supersport/aliwix/1230.ts
 
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 1
+http://primeb.fr33.click/live/7524?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 2
+http://primeb.fr33.click/live/6747?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: SKY SPORT 3
+http://prime.fr33.click/live/2962?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 4   During Games only
+http://primeb.fr33.click/live/3070?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 5    During Games only
+http://primeb.fr33.click/live/3071?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 6   During Games only
+http://primeb.fr33.click/live/3072?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 7   During Games only
+http://primeb.fr33.click/live/3073?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 8   During Games only
+http://primeb.fr33.click/live/3074?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 9   During Games only
+http://primeb.fr33.click/live/3075?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 10   During Games only
+http://primeb.fr33.click/live/3076?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 11   During Games only
+http://primeb.fr33.click/live/3077?u=INo1beQm3U&s=dYUeQCJVJL
+
+#EXTINF:-1 group-title="BEIN SPORT",Bein Sport1 FR
+http://world-ipsat.com:8080/aziz31/aziz31/5538
+#EXTINF:-1 group-title="BEIN SPORT",Bein Sport2 FR
+http://world-ipsat.com:8080/aziz31/aziz31/5537
+#EXTINF:-1 group-title="BEIN SPORT",Bein Sport3 FR
+http://world-ipsat.com:8080/aziz31/aziz31/5536
+
 #EXTINF:-1 group-title="UK SPORT", Sky Sports Football UK
 https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 #EXTINF:-1 group-title="UK SPORT", Sky Sports Premier League UK
@@ -106,17 +140,109 @@ https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
 https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1 group-title="UK SPORT", BT Sport 2 UK
 https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1 group-title="UK SPORT", BT Sport ESPN
+http://prime.fr33.click/live/2548?u=INo1beQm3U&s=dYUeQCJVJL
 
-#EXTINF:-1 group-title="SPORT",Sport Tv TR
-http://skdn.redi-vo.com/iptv/ch2366?code=1701273726237058&key=29705
-#EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="SPORT",CCTV 5
-http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SPORT",M. Liga de Campeones
-http://livegopanel.club:8080/cJKp3FBnCW/xaywNU2EcQ/6491
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="SPORT",MBC Sports
-http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="SPORT",SBS Sports
-http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 1
+http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 2
+http://prime.fr33.click/live/2394?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 3
+http://prime.fr33.click/live/2395?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 4
+http://prime.fr33.click/live/2396?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 5
+http://prime.fr33.click/live/2397?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 6
+http://prime.fr33.click/live/2398?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 7
+http://prime.fr33.click/live/2399?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 8
+http://prime.fr33.click/live/2400?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 9
+http://prime.fr33.click/live/2401?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 10
+http://prime.fr33.click/live/2402?u=INo1beQm3U&s=dYUeQCJVJL
+
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 1
+http://prime.fr33.click/live/2342?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 2
+http://prime.fr33.click/live/2343?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 3
+http://prime.fr33.click/live/2344?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 4
+http://prime.fr33.click/live/2345?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 5
+http://prime.fr33.click/live/2346?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 6
+http://prime.fr33.click/live/2347?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 7
+http://prime.fr33.click/live/2348?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 8
+http://prime.fr33.click/live/2349?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 9
+http://prime.fr33.click/live/2350?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 10
+http://prime.fr33.click/live/2351?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 11
+http://prime.fr33.click/live/2352?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 12
+http://prime.fr33.click/live/2353?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 13
+http://prime.fr33.click/live/2354?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 14
+http://prime.fr33.click/live/2355?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 15
+http://prime.fr33.click/live/2356?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 16
+http://prime.fr33.click/live/2357?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 17
+http://prime.fr33.click/live/2358?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 18
+http://prime.fr33.click/live/2359?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 19
+http://prime.fr33.click/live/2360?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 20
+http://prime.fr33.click/live/2361?u=INo1beQm3U&s=dYUeQCJVJL
+
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 1
+http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 2
+http://primeb.fr33.click/live/156?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: FOX Sports 2
+http://primeb.fr33.click/live/5645?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 3
+http://primeb.fr33.click/live/155?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: FOX Sports 3
+http://primeb.fr33.click/live/7474?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 4
+http://primeb.fr33.click/live/154?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 4
+http://primeb.fr33.click/live/7475?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 5
+http://primeb.fr33.click/live/153?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 5
+http://primeb.fr33.click/live/7476?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 6
+http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL : Ziggo Sport.Voetbal
+http://primeb.fr33.click/live/3891?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",NL: Ziggo Sport Select
+http://primeb.fr33.click/live/3892?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",FR: RMC SPORT 1
+http://primeb.fr33.click/live/3715?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",FR: RMC SPORT 2
+http://primeb.fr33.click/live/3713?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",FR: RMC SPORT 3
+http://primeb.fr33.click/live/3714?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",RUS Match Futbol 1
+http://primeb.fr33.click/live/4927?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",RUS Match Futbol 2
+http://primeb.fr33.click/live/4928?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EUROPE SPORT",RUS Match Futbol 3
+http://primeb.fr33.click/live/4929?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1,RUS Match TV
+http://primeb.fr33.click/live/4925?u=INo1beQm3U&s=dYUeQCJVJL
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="LATIN SPORT",Espn Brazil
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37109
