@@ -71,34 +71,30 @@ http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="ASIA SPORT",SBS Sports
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 1 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1218.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 2 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1219.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 3 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1220.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 4 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1221.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 5 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1222.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 6 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1224.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 7 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1223.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 8 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1225.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 9 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1226.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 10 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1227.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 11 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1228.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport 12 HD
-http://aliwix-t.online:80/live/supersport/aliwix/1229.ts
-#EXTINF:-1 group-title="SUPERSPORT",SuperSport MáXimo HD
-http://aliwix-t.online:80/live/supersport/aliwix/1231.ts
-#EXTINF:-1 group-title="SUPERSPORT",Supersport Blitz HD
-http://aliwix-t.online:80/live/supersport/aliwix/1230.ts
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 1
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/502
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 2
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/503
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 3
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/504
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 4
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/505
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 5
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/506
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 6
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/507
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 7
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/508
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 8
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/509
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 9
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/510
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 10
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/511
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 11
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/512
+#EXTINF:-1 group-title="SUPER SPORT",SuperSport 12
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/513
 
 #EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 1
 http://primeb.fr33.click/live/7524?u=INo1beQm3U&s=dYUeQCJVJL
@@ -123,25 +119,10 @@ http://primeb.fr33.click/live/3076?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 11   During Games only
 http://primeb.fr33.click/live/3077?u=INo1beQm3U&s=dYUeQCJVJL
 
-#EXTINF:-1 group-title="BEIN SPORT",Bein Sport1 FR
-http://world-ipsat.com:8080/aziz31/aziz31/5538
-#EXTINF:-1 group-title="BEIN SPORT",Bein Sport2 FR
-http://world-ipsat.com:8080/aziz31/aziz31/5537
-#EXTINF:-1 group-title="BEIN SPORT",Bein Sport3 FR
-http://world-ipsat.com:8080/aziz31/aziz31/5536
-
-#EXTINF:-1 group-title="UK SPORT", Sky Sports Football UK
-https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 group-title="UK SPORT", Sky Sports Premier League UK
-https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 group-title="UK SPORT", Sky Sports Main Event UK
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 group-title="UK SPORT", BT Sport 1 UK
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 group-title="UK SPORT", BT Sport 2 UK
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1 group-title="UK SPORT", BT Sport ESPN
-http://prime.fr33.click/live/2548?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="UK SPORT",SKY SPORTS MAIN EVENT
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/328
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/324
 
 #EXTINF:-1 group-title="EPL LIVE GAMES",EPL 1
 http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
