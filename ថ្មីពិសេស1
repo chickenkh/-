@@ -46,20 +46,26 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ASIA SPORT", True Premier 1
-https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT", True Premier 2 
-https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT", True Premier 3 
-https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT", True Premier 4 
-https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT", True Premier 5 
-https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT", Bein Sport 1
-http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="ASIA SPORT", Bein Sport 2
-http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/t8fr93xzko3xvc5/TruePremier.png" group-title="ASIA SPORT",True EPL
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/jd1d0876s91x6iu/TruePremier2.png" group-title="ASIA SPORT",True EPL2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/11rfoz8bamu8ffx/TruePremier3.png" group-title="ASIA SPORT",True EPL3
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gwzriiu503hryun/TruePremier4.png" group-title="ASIA SPORT",True EPL4
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ai4f16tul2tlx1v/TruePremier5.png" group-title="ASIA SPORT",True EPL5
+https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/exrz83pem4vqonk/TSport.png" group-title="ASIA SPORT",T-Sport
+https://dl.dropboxusercontent.com/s/yldfeadnqjs5xcf/TSport.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ykc44wx8a6awk8s/TrueSport.png" group-title="ASIA SPORT",True Sport HD
+https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/frid3vlu6bv6h0j/TrueSport2.png" group-title="ASIA SPORT",True Sport HD2
+https://dl.dropboxusercontent.com/s/radwkifazgs930b/TSportHD2.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/0tughhlmzb8nb5y/TrueSport3.png" group-title="ASIA SPORT",True Sport HD3
+https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/bgtr82vq0f5nufa/TrueSport4.png" group-title="ASIA SPORT",True Sport HD4
+https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
 #EXTINF:-1 group-title="ASIA SPORT", Fox Sports 1 Asia
 http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="ASIA SPORT", Fox Sports 2 Asia
@@ -96,28 +102,6 @@ http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/512
 #EXTINF:-1 group-title="SUPER SPORT",SuperSport 12
 http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/513
 
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 1
-http://primeb.fr33.click/live/7524?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 2
-http://primeb.fr33.click/live/6747?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: SKY SPORT 3
-http://prime.fr33.click/live/2962?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 4   During Games only
-http://primeb.fr33.click/live/3070?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 5    During Games only
-http://primeb.fr33.click/live/3071?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 6   During Games only
-http://primeb.fr33.click/live/3072?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 7   During Games only
-http://primeb.fr33.click/live/3073?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 8   During Games only
-http://primeb.fr33.click/live/3074?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 9   During Games only
-http://primeb.fr33.click/live/3075?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 10   During Games only
-http://primeb.fr33.click/live/3076?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="SKY SPORT GERMANY",DE: Sky Sport 11   During Games only
-http://primeb.fr33.click/live/3077?u=INo1beQm3U&s=dYUeQCJVJL
 
 #EXTINF:-1 group-title="UK SPORT",SKY SPORTS MAIN EVENT
 http://tanmedia.watch:8880/dean.henderson@mail.com/Nu1fgxWUVd/328
@@ -166,109 +150,6 @@ http://prime.fr33.click/live/2400?u=INo1beQm3U&s=dYUeQCJVJL
 http://prime.fr33.click/live/2401?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="EPL LIVE GAMES",EPL 10
 http://prime.fr33.click/live/2402?u=INo1beQm3U&s=dYUeQCJVJL
-
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 1
-http://prime.fr33.click/live/2342?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 2
-http://prime.fr33.click/live/2343?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 3
-http://prime.fr33.click/live/2344?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 4
-http://prime.fr33.click/live/2345?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 5
-http://prime.fr33.click/live/2346?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 6
-http://prime.fr33.click/live/2347?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 7
-http://prime.fr33.click/live/2348?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 8
-http://prime.fr33.click/live/2349?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 9
-http://prime.fr33.click/live/2350?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 10
-http://prime.fr33.click/live/2351?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 11
-http://prime.fr33.click/live/2352?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 12
-http://prime.fr33.click/live/2353?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 13
-http://prime.fr33.click/live/2354?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 14
-http://prime.fr33.click/live/2355?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 15
-http://prime.fr33.click/live/2356?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 16
-http://prime.fr33.click/live/2357?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 17
-http://prime.fr33.click/live/2358?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 18
-http://prime.fr33.click/live/2359?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 19
-http://prime.fr33.click/live/2360?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="iFollow  EFL",iFollow  EFL 20
-http://prime.fr33.click/live/2361?u=INo1beQm3U&s=dYUeQCJVJL
-
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 1
-http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 2
-http://primeb.fr33.click/live/156?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: FOX Sports 2
-http://primeb.fr33.click/live/5645?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 3
-http://primeb.fr33.click/live/155?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: FOX Sports 3
-http://primeb.fr33.click/live/7474?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 4
-http://primeb.fr33.click/live/154?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 4
-http://primeb.fr33.click/live/7475?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 5
-http://primeb.fr33.click/live/153?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 5
-http://primeb.fr33.click/live/7476?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Fox Sports 6
-http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL : Ziggo Sport.Voetbal
-http://primeb.fr33.click/live/3891?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",NL: Ziggo Sport Select
-http://primeb.fr33.click/live/3892?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",FR: RMC SPORT 1
-http://primeb.fr33.click/live/3715?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",FR: RMC SPORT 2
-http://primeb.fr33.click/live/3713?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",FR: RMC SPORT 3
-http://primeb.fr33.click/live/3714?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",RUS Match Futbol 1
-http://primeb.fr33.click/live/4927?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",RUS Match Futbol 2
-http://primeb.fr33.click/live/4928?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EUROPE SPORT",RUS Match Futbol 3
-http://primeb.fr33.click/live/4929?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1,RUS Match TV
-http://primeb.fr33.click/live/4925?u=INo1beQm3U&s=dYUeQCJVJL
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="LATIN SPORT",Espn Brazil
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37109
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="LATIN SPORT",Espn Brazil 2
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37110
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="LATIN SPORT",Espn Brasil BR
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37108
-#EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="LATIN SPORT",Fox Sports Brazil
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37111
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="LATIN SPORT",Fox Sports 2 Brazil
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37114
-#EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="LATIN SPORT",Fox Sports Premium
-http://tv-prime.tv:8080/live/o2QiLZ1ps9/xneqrrPm3l/1780.m3u8
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="LATIN SPORT",Sportv
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37087
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="LATIN SPORT",Sportv 2
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37086
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="LATIN SPORT",Sportv 3
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37083
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="LATIN SPORT",Premiere
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37088
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="LATIN SPORT",Combate
-http://lista.serverpower.me:80/smart1/smart1/37106
 
 #EXTINF:-1 group-title="LIVE DURING GAMES",Bein Sports HD
 http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
