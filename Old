@@ -107,34 +107,30 @@ http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="ASIA SPORT",SBS Sports
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 1
-http://tvku.live:8888/rs378/2992/2888
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 2
-http://tvku.live:8888/rs378/2992/2889
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 3
-http://tvku.live:8888/rs378/2992/2893
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 4
-http://tvku.live:8888/rs378/2992/2890
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 5
-http://tvku.live:8888/rs378/2992/2891
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 6
-http://tvku.live:8888/rs378/2992/2894
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 7
-http://tvku.live:8888/rs378/2992/2892
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 8
-http://tvku.live:8888/rs378/2992/2895
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 9
-http://tvku.live:8888/rs378/2992/2896
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 10
-http://tvku.live:8888/rs378/2992/2897
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 11
-http://tvku.live:8888/rs378/2992/2898
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport 12
-http://tvku.live:8888/rs378/2992/2899
-#EXTINF:-1 group-title="SUPER SPORT",Supersport Blitz
-http://tvku.live:8888/rs378/2992/2900
-#EXTINF:-1 group-title="SUPER SPORT",SuperSport MáXimo
-http://tvku.live:8888/rs378/2992/2901
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 1
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/825
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 2
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/826
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 3
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/827
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 4
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/828
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 5
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/829
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 6
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/830
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 7
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/831
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 8
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/832
+#EXTINF:-1 group-title="DSTV SUPERSPORT",,SuperSport 9
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/833
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 10
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/834
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 11
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/835
+#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 12
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/836
 
 #EXTINF:-1,BeIN LaLiga
 http://tvku.live:8888/rs378/2992/416
