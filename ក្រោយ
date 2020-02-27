@@ -115,24 +115,48 @@ http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1075
 #EXTINF:-1 group-title="RMC SPORT",|FR| RMC SPORT 4 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1076
 
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-1.png",True Premiere Football1 HD
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-1.png",True Premiere Football HD1
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-2.png",True Premiere Football2 HD
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-2.png",True Premiere Football HD2
 http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-3.png",True Premiere Football3 HD
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-3.png",True Premiere Football HD3
 http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-4.png",True Premiere Football4 HD
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-4.png",True Premiere Football HD4
 http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-5.png",True Premiere Football5 HD
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-5.png",True Premiere Football HD5
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport1.png",True Sport HD1
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD1
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport2.png",True Sport HD2
 http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport3.png",True Sport HD3
 http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport4.png",True Sport HD4
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS HD
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportshd.png",Skynet Sport HD
 http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
