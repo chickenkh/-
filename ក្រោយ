@@ -215,6 +215,36 @@ http://primeb.fr33.click/live/7476?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT NETHERLAND",NL: Fox Sports 6
 http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
 
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK 1 
+http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK 2  
+http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK 3 
+http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK4
+http://185.180.12.34:8080/SK4/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK5
+http://185.180.12.34:8080/SK5/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK6
+http://185.180.12.34:8080/SK6/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK7
+http://185.180.12.34:8080/SK7/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK8
+http://185.180.12.34:8080/SK8/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK9
+http://185.180.12.34:8080/SK9/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK10
+http://185.180.12.34:8080/SK10/video.m3u8?token=test
+
 #EXTINF:-1 group-title="EPL LIVE GAMES",EPL 1
 http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="EPL LIVE GAMES",EPL 2
