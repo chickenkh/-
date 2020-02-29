@@ -64,20 +64,10 @@ http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport4.png",True Sport HD4
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="ASIA SPORT",BeInSports HD 1
-https://edgejt6.useetv.com/joss/17/bein1/chunklist_w523080819_b8128000_sleng.m3u8?enc=D07kuv9QgbkImRk8m2Db5Q&exp=1582820708
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="ASIA SPORT",BeInSports HD 2
-https://edgejt6.useetv.com/joss/17/bein2/chunklist_w115517397_b1344100_sleng.m3u8?enc=dy5mWmKk6NjzkkfRohKNPg&exp=1582821304
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="ASIA SPORT",USee Sport 1
-https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w1916892499_b1344100_sleng.m3u8?enc=CMKmcZUPj7WeRMhakn1-oQ&exp=1582820703
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="ASIA SPORT",USee Sport 2
-https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w843853858_b1344100_sleng.m3u8?enc=Zc_HFFy_uiJ25ILyRrJd6A&exp=1582819206
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="ASIA SPORT",Fox Sport 1
-https://cdnbdsa1.useetv.com/joss/17/foxsport1/chunklist_w651554190_b1344100_sleng.m3u8?enc=tT-_mlE0RkIAyroZmDEV1g&exp=1582820103
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="ASIA SPORT",Fox Sport 2
-https://cdnbal1.useetv.com/joss/17/foxsport2/chunklist_w2130220114_b1344100_sleng.m3u8?enc=Npn2Qb7k1MIL3IJsoukGeg&exp=1582820105
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="ASIA SPORT",Fox Sport 3
-https://edgejt6.useetv.com/joss/17/foxsport3/chunklist_w1427889370_b1344100_sleng.m3u8?enc=Pyo6gTT1pOzg4DCLvcVblw&exp=1582819561
+#EXTINF:-1 group-title="ASIA SPORT",Fox Sport 2
+http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",Fox Sport 3
+http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportshd.png",Skynet Sport HD
 http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
@@ -94,6 +84,8 @@ http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports6.png",Skynet Sport 6
 http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",T Sports Channel
+http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="ASIA SPORT",MBC Sports
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="ASIA SPORT",SBS Sports
@@ -347,30 +339,56 @@ http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-ch5.png",CH5 HD
 http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",CH5 HD
+http://host4.dynns.com/stream/1d92193b11fe490b8c67d0a88bee3fd6.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-ch7.png",CH7 HD
 http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",CH7 HD
+http://host4.dynns.com/stream/ddfa47e726444446864b14e0e819fdde.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-ch8.png",CH8
 http://160.119.77.50/iptv/hd-ch8.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",CH8
+http://host4.dynns.com/stream/15c52eeb21b748319771eb794a6cf242.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-thairath.png",Thairath HD
 http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",Thairath HD
+http://host4.dynns.com/stream/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-pptv.png",PPTV HD
 http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",PPTV HD
+http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nbt.png",NBT HD
 http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",NBT
+http://host4.dynns.com/stream/ce9a1585f45d4379970b95308df3f879.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tpbs.png",ThaiPBS HD
 http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",Thai PBS HD
+http://host4.dynns.com/stream/d7182fae6e9f4d929bdb5ae06059bda8.m3u8
+#EXTINF:-1 group-title="THAI",MCOT HD
+http://host4.dynns.com/stream/3ae2fd6ccaf6499e898de377ed74ea12.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-workpoint.png",Workpoint TV
 http://160.119.77.50/iptv/hd-workpoint.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",Workpoint TV
+http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://images.xtreme4k.com/channels/sd-tptv.png",TNN2
 http://160.119.77.50/iptv/sd-tnn2.stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-tnn24.png",TNN16
 http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-gmmchannel.png",GMM25
 http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",GMM25
+http://host4.dynns.com/stream/ab0b43ef8363438098a94101e93ca138.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-mono.png",Mono29
 http://160.119.77.50/iptv/hd-mono.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",MONO29
+http://host4.dynns.com/stream/fd23603db67344c69a8304a2fca268cd.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-24u.png",True4U
 http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI",TRUE4U
+http://host4.dynns.com/stream/9ece9059930d4331a3d445f96fb30dff.m3u8
+#EXTINF:-1 group-title="THAI",Amarin HD
+http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-new.png",New18 TV
 http://160.119.77.50/iptv/sd-new.stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-tptv.png",TPTV
