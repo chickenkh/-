@@ -46,6 +46,33 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1HD
+http://beryantv.com:25461/33808033945694/99359826590579/1280
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2HD
+http://beryantv.com:25461/33808033945694/99359826590579/1285
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3FullHD*" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3HD
+http://beryantv.com:25461/33808033945694/99359826590579/1324
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 4HD
+http://beryantv.com:25461/33808033945694/99359826590579/1295
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 5HD
+http://beryantv.com:25461/33808033945694/99359826590579/1300
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 6HD
+http://beryantv.com:25461/33808033945694/99359826590579/1305
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 7HD
+http://beryantv.com:25461/33808033945694/99359826590579/1308
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 8HD
+http://beryantv.com:25461/33808033945694/99359826590579/1310
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 9HD
+http://beryantv.com:25461/33808033945694/99359826590579/1312
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 10HD
+http://beryantv.com:25461/33808033945694/99359826590579/1313
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sport 1 HD FR
+http://beryantv.com:25461/33808033945694/99359826590579/1748
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sport 2 HD FR
+http://beryantv.com:25461/33808033945694/99359826590579/1749
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sport 3 HD FR
+http://beryantv.com:25461/33808033945694/99359826590579/1750
+
 #EXTINF:-1 group-title="FOX SPORT NETHERLAND",NL: Fox Sports 1
 http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT NETHERLAND",NL: Fox Sports 2
