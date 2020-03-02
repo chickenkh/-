@@ -46,146 +46,6 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-1.png",True Premiere Football HD1
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-2.png",True Premiere Football HD2
-http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-3.png",True Premiere Football HD3
-http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-4.png",True Premiere Football HD4
-http://160.119.77.50/iptv/epl-4.stream/playlist.m3u
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/epl-5.png",True Premiere Football HD5
-http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport1.png",True Sport HD1
-http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport2.png",True Sport HD2
-http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport3.png",True Sport HD3
-http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-tsport4.png",True Sport HD4
-http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",Fox Sport 2
-http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",Fox Sport 3
-http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportshd.png",Skynet Sport HD
-http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
-http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports1.png",Skynet Sport 1
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports2.png",Skynet Sport 2
-http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports3.png",Skynet Sport 3
-http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports4.png",Skynet Sport 4
-http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports5.png",Skynet Sport 5
-http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsports6.png",Skynet Sport 6
-http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",T Sports Channel
-http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="ASIA SPORT",MBC Sports
-http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="ASIA SPORT",SBS Sports
-http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
-
-
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 France
-http://160.119.77.50/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",Bein Sport 2 France
-http://160.119.77.50/iptv/fr-bein2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 France
-http://160.119.77.50/iptv/fr-bein3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN SPORTS 1 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1077
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN SPORTS 2 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1078
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN SPORTS 3 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1079
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN MAX 4 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1080
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN MAX 5 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1081
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN MAX 6 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1082
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN MAX 7 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1083
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN MAX 8 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1084
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN MAX 9 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1085
-#EXTINF:-1 group-title="BEIN SPORT",|FR| BEIN MAX 10 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1086
-
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",UK Sky Sports EPL
-http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Mainevent
-http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",UK Sky Sports Football
-http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
-http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport3hd.png",UK BT Sport 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png",UK BT Sport Extra 1
-http://160.119.77.50/iptv/uk-btsportextra1.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png",UK BT Sport Extra 2
-http://160.119.77.50/iptv/uk-btsportextra2.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/us-foxsports1.png",FS1
-http://160.119.77.50/iptv/us-foxsports1.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/us-foxsports2.png",FS2
-http://160.119.77.50/iptv/us-foxsports2.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-eurosport.png",UK Euro Sport 1
-http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-eurosport2.png",UK Euro Sport 2
-http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-lfctv.png",UK LFC TV
-http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",UK Chealsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK SPORT" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-mutv.png",UK MU TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="RMC SPORT",|FR| RMC SPORT 1 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1073
-#EXTINF:-1 group-title="RMC SPORT",|FR| RMC SPORT 2 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1074
-#EXTINF:-1 group-title="RMC SPORT",|FR| RMC SPORT 3 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1075
-#EXTINF:-1 group-title="RMC SPORT",|FR| RMC SPORT 4 HD
-http://iptv.allkaicerteam.com:8080/alkaicer_jf83uiqy57/rna4ehfq82/1076
-
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 1
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/825
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 2
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/826
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 3
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/827
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 4
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/828
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 5
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/829
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 6
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/830
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 7
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/831
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 8
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/832
-#EXTINF:-1 group-title="DSTV SUPERSPORT",,SuperSport 9
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/833
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 10
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/834
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 11
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/835
-#EXTINF:-1 group-title="DSTV SUPERSPORT",SuperSport 12
-http://ivtvuk.com:8080/Asadmanzur/IResdX1O/836
-
 #EXTINF:-1 group-title="FOX SPORT NETHERLAND",NL: Fox Sports 1
 http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT NETHERLAND",NL: Fox Sports 2
@@ -206,76 +66,6 @@ http://primeb.fr33.click/live/153?u=INo1beQm3U&s=dYUeQCJVJL
 http://primeb.fr33.click/live/7476?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT NETHERLAND",NL: Fox Sports 6
 http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK 1 
-http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK 2  
-http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK 3 
-http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK4
-http://185.180.12.34:8080/SK4/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK5
-http://185.180.12.34:8080/SK5/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK6
-http://185.180.12.34:8080/SK6/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK7
-http://185.180.12.34:8080/SK7/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK8
-http://185.180.12.34:8080/SK8/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK9
-http://185.180.12.34:8080/SK9/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SK SPORT",SK10
-http://185.180.12.34:8080/SK10/video.m3u8?token=test
-
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 1
-http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 2
-http://prime.fr33.click/live/2394?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 3
-http://prime.fr33.click/live/2395?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 4
-http://prime.fr33.click/live/2396?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 5
-http://prime.fr33.click/live/2397?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 6
-http://prime.fr33.click/live/2398?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 7
-http://prime.fr33.click/live/2399?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 8
-http://prime.fr33.click/live/2400?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 9
-http://prime.fr33.click/live/2401?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 10
-http://prime.fr33.click/live/2402?u=INo1beQm3U&s=dYUeQCJVJL
-
-#EXTINF:-1 group-title="LIVE DURING GAMES",Bein Sports HD
-http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 1 HD
-http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 2 HD
-http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 3 HD
-http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT SPORT ESPN
-tp://weak_spell.carniferou.club/edge/BTESPN/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",NBCSN
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",SKY SPORTS MAIN EVENT
-http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",PREMIER SPORTS
-http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",PREMIER SPORTS 2
-http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
@@ -3755,3 +3545,676 @@ http://s1.hdporus.com/content/vod/s68/480/index.m3u8
 http://s1.hdporus.com/content/vod/s2247/480/index.m3u8
 #EXTINF:-1 group-title="VOD XXX",XXX
 http://s1.hdporus.com/content/vod/s2254/480/index.m3u8
+
+#EXTINF:-1 group-title="XxX CHANNELS",Playboy Latino FHD 
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1348698
+#EXTINF:-1 group-title="XxX CHANNELS",Playboy BR
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347075
+#EXTINF:-1 group-title="XxX CHANNELS",Playboy TV Europe
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332040
+#EXTINF:-1 group-title="XxX CHANNELS",Brazzers TV Europe
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332030
+#EXTINF:-1 group-title="XxX CHANNELS",Brazzers TV Europe 2
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347042
+#EXTINF:-1 group-title="XxX CHANNELS",Erox
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332032
+#EXTINF:-1 group-title="XxX CHANNELS",Erox FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347045
+#EXTINF:-1 group-title="XxX CHANNELS",Fap TV Compilation HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341629
+#EXTINF:-1 group-title="XxX CHANNELS",Fap TV Lesbian HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341628
+#EXTINF:-1 group-title="XxX CHANNELS",Fap TV Parody HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341626
+#EXTINF:-1 group-title="XxX CHANNELS",Fap TV Teens HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341627
+#EXTINF:-1 group-title="XxX CHANNELS",Fap TV XXX HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341625
+#EXTINF:-1 group-title="XxX CHANNELS",FapTV 2 HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332033
+#EXTINF:-1 group-title="XxX CHANNELS",FapTV 3 HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332034
+#EXTINF:-1 group-title="XxX CHANNELS",FapTV 4 HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332035
+#EXTINF:-1 group-title="XxX CHANNELS",CandyTV HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332020
+#EXTINF:-1 group-title="XxX CHANNELS",Dorcel TV FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332021
+#EXTINF:-1 group-title="XxX CHANNELS",Evil Angel HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347064
+#EXTINF:-1 group-title="XxX CHANNELS",Balkan Erotic
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347074
+#EXTINF:-1 group-title="XxX CHANNELS",Barely
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347044
+#EXTINF:-1 group-title="XxX CHANNELS",Blue Hustler
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347076
+#EXTINF:-1 group-title="XxX CHANNELS",Cento X Cento
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332031
+#EXTINF:-1 group-title="XxX CHANNELS",EgoistTV
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341633
+#EXTINF:-1 group-title="XxX CHANNELS",Erotic1 6
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346966
+#EXTINF:-1 group-title="XxX CHANNELS",Erotic4 6
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347038
+#EXTINF:-1 group-title="XxX CHANNELS",Hustler
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332022
+#EXTINF:-1 group-title="XxX CHANNELS",Hustler FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347046
+#EXTINF:-1 group-title="XxX CHANNELS",Hustler TV
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347047
+#EXTINF:-1 group-title="XxX CHANNELS",Jasmin TV HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/13155
+#EXTINF:-1 group-title="XxX CHANNELS",Jasmin TV HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347048
+#EXTINF:-1 group-title="XxX CHANNELS",Nuart TV
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332037
+#EXTINF:-1 group-title="XxX CHANNELS",O-la-la
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332038
+#EXTINF:-1 group-title="XxX CHANNELS",Oh Ah HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341632
+#EXTINF:-1 group-title="XxX CHANNELS",Passie XXX
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347063
+#EXTINF:-1 group-title="XxX CHANNELS",Passion XXX
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332023
+#EXTINF:-1 group-title="XxX CHANNELS",PentHouse 1
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332024
+#EXTINF:-1 group-title="XxX CHANNELS",PentHouse 2 FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332025
+#EXTINF:-1 group-title="XxX CHANNELS",PentHouse Gold FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347049
+#EXTINF:-1 group-title="XxX CHANNELS",Penthouse HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347062
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 1
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346962
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 10
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346964
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 3
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346961
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 4
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346960
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 5
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346959
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 6
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346958
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 8
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346957
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko 9
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346965
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko TV
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332039
+#EXTINF:-1 group-title="XxX CHANNELS",Pinko TV
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347050
+#EXTINF:-1 group-title="XxX CHANNELS",Private 10
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347029
+#EXTINF:-1 group-title="XxX CHANNELS",Private 11
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347028
+#EXTINF:-1 group-title="XxX CHANNELS",Private 12
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347027
+#EXTINF:-1 group-title="XxX CHANNELS",Private 13
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347026
+#EXTINF:-1 group-title="XxX CHANNELS",Private 14
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347025
+#EXTINF:-1 group-title="XxX CHANNELS",Private 2
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347037
+#EXTINF:-1 group-title="XxX CHANNELS",Private 3
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347036
+#EXTINF:-1 group-title="XxX CHANNELS",Private 4
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347035
+#EXTINF:-1 group-title="XxX CHANNELS",Private 5
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347034
+#EXTINF:-1 group-title="XxX CHANNELS",Private 6
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347033
+#EXTINF:-1 group-title="XxX CHANNELS",Private 7
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347032
+#EXTINF:-1 group-title="XxX CHANNELS",Private 8
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347031
+#EXTINF:-1 group-title="XxX CHANNELS",Private 9
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347030
+#EXTINF:-1 group-title="XxX CHANNELS",Private TV FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332026
+#EXTINF:-1 group-title="XxX CHANNELS",Private TV HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347053
+#EXTINF:-1 group-title="XxX CHANNELS",Reality Kings
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347065
+#EXTINF:-1 group-title="XxX CHANNELS",RedLight FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332027
+#EXTINF:-1 group-title="XxX CHANNELS",REDLight FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347054
+#EXTINF:-1 group-title="XxX CHANNELS",Russkaya Noch
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341630
+#EXTINF:-1 group-title="XxX CHANNELS",SCT Classic
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347055
+#EXTINF:-1 group-title="XxX CHANNELS",SctXXX
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332042
+#EXTINF:-1 group-title="XxX CHANNELS",Sext & Senso HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347056
+#EXTINF:-1 group-title="XxX CHANNELS",Sextosenso
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341623
+#EXTINF:-1 group-title="XxX CHANNELS",Sextreme
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347057
+#EXTINF:-1 group-title="XxX CHANNELS",Sextreme 4
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347061
+#EXTINF:-1 group-title="XxX CHANNELS",SexTreme Latino
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1348699
+#EXTINF:-1 group-title="XxX CHANNELS",ShalunTV HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1341624
+#EXTINF:-1 group-title="XxX CHANNELS",Starz FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347058
+#EXTINF:-1 group-title="XxX CHANNELS",Venus 6
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1346963
+#EXTINF:-1 group-title="XxX CHANNELS",Venus TV
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347059
+#EXTINF:-1 group-title="XxX CHANNELS",Vivid Red FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347060
+#EXTINF:-1 group-title="XxX CHANNELS",VividRED FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1332028
+#EXTINF:-1 group-title="XxX CHANNELS",X 1 FHD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347039
+#EXTINF:-1 group-title="XxX CHANNELS",XXL
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347041
+#EXTINF:-1 group-title="XxX CHANNELS",XY Mixx HD
+http://tvla.xyz:80/hjrojtnx/98buJ3N8go/1347040
+#EXTINF:-1 group-title="XxX CHANNELS", XXX PENTHOUSE HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/1922
+#EXTINF:-1 group-title="XxX CHANNELS", XXX PASSIE XXX HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/1514
+#EXTINF:-1 group-title="XxX CHANNELS", XXX DUSK! DELUXE HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/1028
+#EXTINF:-1 group-title="XxX CHANNELS", XXX EVIL ANGEL HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/1515
+#EXTINF:-1 group-title="XxX CHANNELS", XXX MEIDEN VAN HOLLAND HARD HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/1021
+#EXTINF:-1 group-title="XxX CHANNELS", XXX REALITY KINGS
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/18684
+#EXTINF:-1 group-title="XxX CHANNELS", XXX JUNEBUG
+http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", XXX JUNEBUG
+http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", XXX BEATE-UHSE TV
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/44563
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - XY MAX TV FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/132003
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MEIDEN VAN HOLLAND HARD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/132002
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - VIP ADULT TINY 4K 9
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131992
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - VIP ADULT TINY 4K 4
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131987
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -XXX SUPER ADULT 1 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131981
+#EXTINF:-1 group-title="XxX CHANNELS",XXX- ADULT 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131980
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 14 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131979
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 13 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131978
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 12 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131977
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 11 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131976
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 10 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131975
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 9 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131974
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 8 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131973
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 7 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131972
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 6 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131971
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 4 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131969
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB  3 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131968
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 2 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131967
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT CLUB 1 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131966
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -VISIT X TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131965
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - FAKE AGENT 3 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131964
+#EXTINF:-1 group-title="XxX CHANNELS",XXX- FAKE AGENT 2 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131963
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - FAKE AGENT HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131962
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PORN XY PLUS FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131961
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -  FUCK ME TV FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131960
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TUSHY 2 TV FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131959
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BARELY LEGAL TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131958
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MIA KHALIFA FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131957
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BANGERZ
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131956
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MILF TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131955
+#EXTINF:-1 group-title="XxX CHANNELS",XXX XY MIX
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131954
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BUNGA BUNGA
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131952
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BUTGO
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131951
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLATINUM
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131950
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MOMS TEACH
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131949
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TABOO
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131948
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -  OH AH TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131947
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -  O LA LA
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131946
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BABES 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131945
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BABES TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131944
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SIRINA 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131943
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SIRINA 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131942
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SIRINA 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131941
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SIRINA
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131940
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - LESBIAN 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131939
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - LESBIAN 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131938
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - LESBIAN 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131937
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BIG TITS 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131936
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BIG TITS 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131935
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BIG TITS 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131934
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CASTING 5
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131933
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CASTING 4
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131932
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CASTING 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131931
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CASTING 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131930
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CASTING 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131929
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - EBONY 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131928
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - EBONY 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131927
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - EBONY 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131926
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - FAKE TAXI FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131925
+#EXTINF:-1 group-title="XxX CHANNELS",XXX ANAL 3 ADULT TEEN
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131924
+#EXTINF:-1 group-title="XxX CHANNELS",XXX ANAL 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131923
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - ANAL 1 THREESOME
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131922
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - GROUP SEX 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131921
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - GROUP SEX 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131920
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - GROUP SEX 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131919
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TEENS 4
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131918
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TEENS 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131917
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TEENS 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131916
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TEENS 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131915
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MATURE 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131914
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MATURE 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131913
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MATURE 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131912
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MILF 3
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131911
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -XXX MILF 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131910
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -XXX MILF 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131909
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -XXX VIKI
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131908
+#EXTINF:-1 group-title="XxX CHANNELS",XXX JASMIN TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131907
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CANDY
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131906
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SUPER ONE
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131905
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BALKAN EROTIC
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131904
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO EROTIC
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131903
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 9 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131902
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 8 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131901
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 7 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131900
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 6 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131899
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 5 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131898
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 4 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131897
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 3 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131896
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 2 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131895
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PORNO ADULT 1 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131894
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PINK EROTIC 8 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131893
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PINK EROTIC 7 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131892
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PINK EROTIC 6 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131891
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PINK EROTIC 5 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131890
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PINK EROTIC 3 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131889
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PINK EROTIC 2 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131888
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PINK EROTIC 1 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131887
+#EXTINF:-1 group-title="XxX CHANNELS",XXX MAX XXX 2 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131885
+#EXTINF:-1 group-title="XxX CHANNELS",XXX MAX XXX HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131884
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PTV VINTAGE X FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131883
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CENTO X CENTO
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131882
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SEX 65 SENSO
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131881
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - DUSK
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131880
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -XXX DESIRE
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131879
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLAYBOY TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131877
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -XXX BLUE HUSTLER HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131876
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -XXX PINKO TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131875
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - REALITY KINGS TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131874
+#EXTINF:-1 group-title="XxX CHANNELS",XXX XXL
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131873
+#EXTINF:-1 group-title="XxX CHANNELS",XXX  HOT XTRA
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131872
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - VENUS
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131871
+#EXTINF:-1 group-title="XxX CHANNELS",XXX VIVID RED HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131870
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PENTHOUSE QUICKIES FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131869
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PENTHOUSE BLACK
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131868
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PENTHOUSE 2 HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131867
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - NATIONAL PORNOGRAHIC
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131866
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCT HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131865
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - EROX HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131864
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - VIVID PORN HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131863
+#EXTINF:-1 group-title="XxX CHANNELS",XXX -FUCK ME IM FAMOUS
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/131862
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - STARS FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128844
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLUS 24
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128841
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLUS 12
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128840
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLUS 6
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128839
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLUS 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128838
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLUS 1
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128837
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLUS
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128836
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - VIVID REDLIGHT DISTRICT
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128834
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - VINTAGE PORN X
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128833
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TUSHY 2 TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128832
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - TUSHY TV FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128831
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SUPER ONE
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128829
+#EXTINF:-1 group-title="XxX CHANNELS",XXX SCT FHD (18+)
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128826
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCORELAND 7 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128825
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCORELAND 6 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128824
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCORELAND 5 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128823
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCORELAND 4 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128822
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCORELAND 3 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128821
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCORELAND 2 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128820
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SCORELAND 1 FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128819
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - SATISFACTION  (18+)
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128818
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - REDLIGHT FHD (18+)
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128817
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - RED MILF
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128816
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - REALITY SEX
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128815
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - REALITY KINGS TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128814
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PRIVATE  FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128813
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PLAYBOY TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128812
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PENTHOUSE QUICKIES
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128811
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - GOLD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128809
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - PASSION XXX
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128807
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MONSTERS OF COCK
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128801
+#EXTINF:-1 group-title="XxX CHANNELS",XXX Mom is Horny FHD (18+)
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128799
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MIA KHALIFA
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128795
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - MAX
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128794
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - JASMIN
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128793
+#EXTINF:-1 group-title="XxX CHANNELS",XXX HUSTLER 4K
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128792
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HUSTLER 2
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128791
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HUSTLER FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128790
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HUSTLER EUROPE HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128789
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - HOT
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128788
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - GLORYHOLE LOVE
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128787
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - FEMALE FAKE TAXI
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128786
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - FAKE TAXI HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128784
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - EROTIC STAR
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128779
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - EROXXX
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128778
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - EBONY
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128777
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - DUSK PORNO
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128776
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - CUCK OLD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128775
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BIZARE TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128772
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BLUE HUSTLER
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128770
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BLACKED RAW
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128768
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BLACKED  (18+)
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128767
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BDSM (18+)
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128766
+#EXTINF:-1 group-title="XxX CHANNELS",XXX 4 BARELY LEGAL
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128764
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BABES TV FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128761
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BANGBUS FHD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128760
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - BANG BROS 4K UHD [ONLY 4K DEVICES]
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128759
+#EXTINF:-1 group-title="XxX CHANNELS",XXX- ASS PARADE
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/128758
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PENTHOUSE HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/1922
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PASSIE XXX HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/1514
+#EXTINF:-1 group-title="XxX CHANNELS",XXX DUSK! DELUXE HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/1028
+#EXTINF:-1 group-title="XxX CHANNELS",XXX EVIL ANGEL HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/1515
+#EXTINF:-1 group-title="XxX CHANNELS",XXX REALITY KINGS
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/18684
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BEATE-UHSE TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/44563
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BABES TV HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53014
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BARELY LEGAL
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53029
+#EXTINF:-1 group-title="XxX CHANNELS",XXX BRAZZERS TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53049
+#EXTINF:-1 group-title="XxX CHANNELS",XXX DORCEL HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53070
+#EXTINF:-1 group-title="XxX CHANNELS",XXX EROX HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53066
+#EXTINF:-1 group-title="XxX CHANNELS",XXX HUSTLER TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53056
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PENTHOUSE QUICKIES HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53063
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PINK O TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53053
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PLAYBOY
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53032
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PLAYBOY EUROPE
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53031
+#EXTINF:-1 group-title="XxX CHANNELS",XXX PRIVATE TV HD
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53071
+#EXTINF:-1 group-title="XxX CHANNELS",XXX SEXT & SENSO
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53052
+#EXTINF:-1 group-title="XxX CHANNELS",XXX SEXTREME
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53045
+#EXTINF:-1 group-title="XxX CHANNELS",XXX - RUSSIAN NIGHT
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/38247
+#EXTINF:-1 group-title="XxX CHANNELS",XXX VENUS TV
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53046
+#EXTINF:-1 group-title="XxX CHANNELS",XXX X BIZARRE
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53043
+#EXTINF:-1 group-title="XxX CHANNELS",XXX X1 ( 18)
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53034
+#EXTINF:-1 group-title="XxX CHANNELS",XXX XXL
+http://line.yo-ott.com:8000/VFS56PecA4/Z119vkc4Am/53055
+#EXTINF:-1 group-title="XxX CHANNELS", XXX BABES TV HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/53014
+#EXTINF:-1 group-title="XxX CHANNELS", XXX BANGERZ ( 18)
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/53020
+#EXTINF:-1 group-title="XxX CHANNELS", XXX BARELY LEGAL
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/53029
+#EXTINF:-1 group-title="XxX CHANNELS", XXX BLUE HUSTLER
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/53030
+#EXTINF:-1 group-title="XxX CHANNELS", XXX BRAZZERS TV
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/53049
+#EXTINF:-1 group-title="XxX CHANNELS", XXX BRAZZERS TV EUROPE
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/53048
+#EXTINF:-1 group-title="XxX CHANNELS", XXX DORCEL HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/53070
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic RUSAsian
+http://live.redtraffic.xyz/rUSAsian.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS", RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1  group-title="XxX VOD",Amateure Lesbos
+http://iptv.rent:8080/movie/qno7vdte29/cpkn8vkyoe/49623.mp4
+#EXTINF:-1  group-title="XxX VOD",Elegant Angel
+http://iptvw.net:8080/movie/janaarni2/t3ngKe5F71/16657.mp4
+#EXTINF:-1  group-title="XxX VOD",Alina & Sasha
+http://globiptv.com:8000/movie/CLIENTW982/KzqKaK6rwg/4443.mp4
+#EXTINF:-1  group-title="XxX VOD",Facials
+http://iptvworld.nl:2095/movie/fdtw5M4cuw/ZcNrmvzRVR/34530.mp4
+#EXTINF:-1  group-title="XxX VOD",Lust Cinema
+http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4
+#EXTINF:-1 group-title="XxX LIVE",Golden Goddess
+https://edge117.stream.highwebmedia.com/live-hls/amlst:goldengoddessxxx-sd-ff548776ff32f809c6e5c13998fdb6b0bf74e4e31f2c0346c4c8673fbab3fcc7_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",Scarlett Baker
+https://edge214.stream.highwebmedia.com/live-hls/amlst:scarlett__baker-sd-3f8c40fc7af70417ff10bcb45f93e280e7404713f0c94779376d1c818e276b1b_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",Mrs. Jones
+https://edge124.stream.highwebmedia.com/live-edge/amlst:mrs_jones-sd-845cbe737a7ae7119fd7b277590600b892b2381e12368ff29fe07dd891f96ac3_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",Robo_elk
+https://edge176.stream.highwebmedia.com/live-edge/amlst:robo_elk-ws-2f525027f1fca0568e76f72b9ee3f4bf8fa76ea839002db357ed98c2b55d1b9d_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",camilagomezz
+https://edge184.stream.highwebmedia.com/live-edge/amlst:camilagomezz-sd-1ea7a7b1a51a9e823975458f34412ca9283def47b820679a424ac363cafcad23_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",_lili_01
+https://edge117.stream.highwebmedia.com/live-hls/amlst:_lili_01-sd-ff548776ff32f809c6e5c13998fdb6b0bf74e4e31f2c0346c4c8673fbab3fcc7_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",daddysgirl222
+https://edge117.stream.highwebmedia.com/live-hls/amlst:daddysgirl222-sd-ff548776ff32f809c6e5c13998fdb6b0bf74e4e31f2c0346c4c8673fbab3fcc7_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",sirenadoll
+https://edge117.stream.highwebmedia.com/live-hls/amlst:sirenadoll-sd-ff548776ff32f809c6e5c13998fdb6b0bf74e4e31f2c0346c4c8673fbab3fcc7_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",aalliss
+https://edge189.stream.highwebmedia.com/live-hls/amlst:aalliss-sd-633919e0723abd4cff239bc8052d1e2638b54bce00cf2632607d4f0420d80c5f_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",schoolgirl19
+https://edge189.stream.highwebmedia.com/live-hls/amlst:schoolgirl19-sd-633919e0723abd4cff239bc8052d1e2638b54bce00cf2632607d4f0420d80c5f_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",littlelilly69
+https://edge189.stream.highwebmedia.com/live-hls/amlst:littlelilly69-sd-633919e0723abd4cff239bc8052d1e2638b54bce00cf2632607d4f0420d80c5f_trns_h264/playlist.m3u8
+#EXTINF:-1 group-title="XxX LIVE",butterybubblebutt
+https://edge347.stream.highwebmedia.com/live-hls/amlst:butterybubblebutt-sd-8dc60008906212ced2c3c082d8de3d5896939580db23c49cd981ec3b7a474d12_trns_h264/playlist.m3u8
+#cdnt
+                                                       
