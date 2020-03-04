@@ -46,74 +46,17 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 01
-http://web24.live:25461/6337202692/1ZGjUU/10539
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 02
-http://web24.live:25461/6337202692/1ZGjUU/10538
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 03
-http://web24.live:25461/6337202692/1ZGjUU/10537
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 04
-http://web24.live:25461/6337202692/1ZGjUU/10536
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 05
-http://web24.live:25461/6337202692/1ZGjUU/10535
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 06
-http://web24.live:25461/6337202692/1ZGjUU/10534
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 07
-#EXTVLCOPT:program=1
-http://web24.live:25461/6337202692/1ZGjUU/10532
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 08
-http://web24.live:25461/6337202692/1ZGjUU/10531
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 09
-http://web24.live:25461/6337202692/1ZGjUU/10530
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 10
-http://web24.live:25461/6337202692/1ZGjUU/10529
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 11
-http://web24.live:25461/6337202692/1ZGjUU/10528
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT 12
-http://web24.live:25461/6337202692/1ZGjUU/10527
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT BLITZ
-http://web24.live:25461/6337202692/1ZGjUU/6317
-#EXTINF:-1 group-title="SUPERSPORT",AF: DSTV SUPERSPORT MAXIMO
-http://web24.live:25461/6337202692/1ZGjUU/6318
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1HD
-http://beryantv.com:25461/33808033945694/99359826590579/1280
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2HD
-http://beryantv.com:25461/33808033945694/99359826590579/1285
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3FullHD*" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3HD
-http://beryantv.com:25461/33808033945694/99359826590579/1324
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 4HD
-http://beryantv.com:25461/33808033945694/99359826590579/1295
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 5HD
-http://beryantv.com:25461/33808033945694/99359826590579/1300
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 6HD
-http://beryantv.com:25461/33808033945694/99359826590579/1305
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 7HD
-http://beryantv.com:25461/33808033945694/99359826590579/1308
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 8HD
-http://beryantv.com:25461/33808033945694/99359826590579/1310
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 9HD
-http://beryantv.com:25461/33808033945694/99359826590579/1312
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 10HD
-http://beryantv.com:25461/33808033945694/99359826590579/1313
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sport 1 HD FR
-http://beryantv.com:25461/33808033945694/99359826590579/1748
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sport 2 HD FR
-http://beryantv.com:25461/33808033945694/99359826590579/1749
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sport 3 HD FR
-http://beryantv.com:25461/33808033945694/99359826590579/1750
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEIN SPORTS",BEIN SPORT 1 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28401
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEIN SPORTS",BEIN SPORT 2 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xEVZec7.png" group-title="BEIN SPORTS",BEIN SPORT 3 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28399
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEINS PORTS",BEIN SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEIN​SPORTS",BEIN SPORT 4 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28398
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r804cww.png" group-title="BEIN SPORTS",BEIN SPORT 5 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28397
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEINS PORTS",BEIN SPORT 6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEIN​SPORTS",BEIN SPORT 6 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28396
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NkbEhFN.png" group-title="BEIN SPORTS",BEIN SPORT 7 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28395
@@ -142,88 +85,6 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/21352
 http://linux-app.tv:6204/Basimalle/Dezhin2000/21351
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 6
 http://linux-app.tv:6204/Basimalle/Dezhin2000/21350
-
-#EXTINF:-1 group-title="MIX SPORT",AL: SUPER SPORT 1 HD
-http://web24.live:25461/6337202692/1ZGjUU/3554
-#EXTINF:-1 group-title="MIX SPORT",AL: SUPER SPORT 2 HD
-http://web24.live:25461/6337202692/1ZGjUU/3552
-#EXTINF:-1 group-title="MIX SPORT",AL: SUPER SPORT 3 HD
-http://web24.live:25461/6337202692/1ZGjUU/3550
-#EXTINF:-1 group-title="MIX SPORT",AL: SUPER SPORT 4 HD
-http://web24.live:25461/6337202692/1ZGjUU/3549
-#EXTINF:-1 group-title="MIX SPORT",AL: SUPER SPORT 5 HD
-http://web24.live:25461/6337202692/1ZGjUU/3547
-#EXTINF:-1 group-title="MIX SPORT",AL: SUPER SPORT 6 HD
-http://web24.live:25461/6337202692/1ZGjUU/3544
-#EXTINF:-1 group-title="MIX SPORT",AL: SUPER SPORT 7 HD
-http://web24.live:25461/6337202692/1ZGjUU/3543
-
-#EXTINF:-1 group-title="UK SPORT",UK: SKY SPORTS MAIN EVENT
-http://web24.live:25461/6337202692/1ZGjUU/1327
-#EXTINF:-1 group-title="UK SPORT",UK: SKY SPORTS PREMIER LEAGUE
-http://web24.live:25461/6337202692/1ZGjUU/1319
-#EXTINF:-1 group-title="UK SPORT",UK: SKY SPORTS FOOTBALL
-http://web24.live:25461/6337202692/1ZGjUU/1331
-#EXTINF:-1 group-title="UK SPORT",UK: BT SPORT 1
-http://web24.live:25461/6337202692/1ZGjUU/6313
-#EXTINF:-1 group-title="UK SPORT",UK: BT SPORT 2
-http://web24.live:25461/6337202692/1ZGjUU/6314
-#EXTINF:-1 group-title="UK SPORT",UK: BT SPORT 3
-http://web24.live:25461/6337202692/1ZGjUU/6315
-#EXTINF:-1 group-title="UK SPORT",UK: BT SPORT ESPN
-http://web24.live:25461/6337202692/1ZGjUU/6316
-
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 3
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 4
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 5
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 6
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 7
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 1
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 2
-https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 3
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 4
-https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 5
-https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 6
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 7
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 8
-https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 9
-https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 10
-https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 11
-https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 12
-https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 13
-https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 14
-https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 15
-https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 16
-https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 17
-https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="NETFLIX", Netflix LIVE Movies 18
-https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png" group-title="THAI",ONE HD
 https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
