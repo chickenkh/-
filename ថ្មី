@@ -58,6 +58,10 @@ https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 3
 https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ligasatu_small.png?v=2.0.1.13" group-title="ASIA SPORT", Shopee Liga 1 (Vidio)
+https://etslive-2-vidio-com.akamaized.net/exp=1583583965~acl=/hls-p/ingest_102_*/*~hmac=e6c0dd9ede3c40a50fe37daf4ca42287dc105c9df9ed8b6cc80b5a3275d99a99/hls-p/ingest_102_720p/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="ASIA SPORT", Usee Sport 1
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w1618522999_b1344100_sleng.m3u8?enc=upbI2e7bVHfzK3RMwPq6MQ&exp=1583578414
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEIN SPORTS",BEIN SPORT 1 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28401
