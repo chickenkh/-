@@ -46,6 +46,19 @@ https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
+#EXTINF:-1 group-title="ASIA SPORT",TRUE PREMIER FOOTBALL 1
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE PREMIER FOOTBALL 2
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE PREMIER FOOTBALL 3
+https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",FOX SPORTS
+https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD
+https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 3
+https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEIN SPORTS",BEIN SPORT 1 HD
 http://linux-app.tv:6204/Basimalle/Dezhin2000/28401
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEIN SPORTS",BEIN SPORT 2 HD
