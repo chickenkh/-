@@ -62,35 +62,22 @@ https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 3
 https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="ASIA SPORT",BeInSports HD 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/185.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="ASIA SPORT",BeInSports HD 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/186.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="ASIA SPORT",USee Sport HD 1
-https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="ASIA SPORT",USee Sport HD 2
-https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="ASIA SPORT",Fox Sport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/792.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="ASIA SPORT",Fox Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/793.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="ASIA SPORT",Fox Sport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/794.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="ASIA SPORT",FOX Sports FHD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/784.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="ASIA SPORT",FOX Sports 2 FHD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/785.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="ASIA SPORT",FOX Sports 3 FHD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/786.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="" group-title="ASIA SPORT",ASSP 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/614.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="" group-title="ASIA SPORT",ASSP 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/615.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="" group-title="ASIA SPORT",ASSP 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/616.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="" group-title="ASIA SPORT",ASSP 4
-http://mantul.biz.id:8888/live/herry25/herry/617.ts
-
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS HD
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS PLUS
+https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 1
+https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 2
+https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 3
+https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 4
+https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 5
+https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
+https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6Dd1n4/20200227-001046.png" group-title="SUPERSPORT",SuperSport 1
 http://mantul.biz.id:8888/live/herry25/mantulbgt/893.ts
@@ -142,6 +129,11 @@ http://linux-app.tv:6204/Basimalle/Dezhin2000/21352
 http://linux-app.tv:6204/Basimalle/Dezhin2000/21351
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 6
 http://linux-app.tv:6204/Basimalle/Dezhin2000/21350
+
+#EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 1
+http://ws.flv.nimo.tv:80/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
+#EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 2
+https://ws.flv.nimo.tv/live/su1599512427602r14aed1169c6d2d5fea4e25d573fe5f04.flv?needwm=0
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png" group-title="THAI",ONE HD
 https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
