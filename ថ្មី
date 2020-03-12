@@ -56,12 +56,26 @@ https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
 https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",bein 1
+https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",bein 2
+https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",FOX SPORTS
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 2
+https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 3
 https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 2
+https://tv4.chang55.com/live2/tv4ch83.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 5
+https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 6
+https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
+#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 7
+https://tv4.chang55.com/live2/tv4ch86.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS HD
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS PLUS
@@ -79,56 +93,28 @@ https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
 https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6Dd1n4/20200227-001046.png" group-title="SUPERSPORT",SuperSport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/893.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kX3W3rb/20200227-001247.png" group-title="SUPERSPORT",SuperSport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/894.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DMXVgwp/20200227-001425.png" group-title="SUPERSPORT",SuperSport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/895.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwgY78Z/20200227-001558.png" group-title="SUPERSPORT",SuperSport 4
-http://mantul.biz.id:8888/live/herry25/mantulbgt/896.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z2StN4C/20200227-001741.png" group-title="SUPERSPORT",SuperSport 5
-http://mantul.biz.id:8888/live/herry25/mantulbgt/897.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTbqEli.png" group-title="BEIN SPORTS",BEIN SPORT 1 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28401
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am6hF15.png" group-title="BEIN SPORTS",BEIN SPORT 2 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28400
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xEVZec7.png" group-title="BEIN SPORTS",BEIN SPORT 3 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28399
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qglshYZ.png" group-title="BEIN SPORTS",BEIN SPORT 4 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28398
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r804cww.png" group-title="BEIN SPORTS",BEIN SPORT 5 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28397
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGTh1my.png" group-title="BEIN SPORTS",BEIN SPORT 6 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28396
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NkbEhFN.png" group-title="BEIN SPORTS",BEIN SPORT 7 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28395
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xpVvlW1.png" group-title="BEIN SPORTS",BEIN SPORT 8 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28394
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMFk01z.png" group-title="BEIN SPORTS",BEIN SPORT 9 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28393
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsB2Qbp.png" group-title="BEIN SPORTS",BEIN SPORT 10 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28392
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEIN SPORTS",BEIN SPORT 11 HD
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28391
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ooHKBbZ.png" group-title="BEIN SPORTS",BEIN SPORT
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28385
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UXOUNHB.png" group-title="BEIN SPORTS",BEIN SPORT News
-http://linux-app.tv:6204/Basimalle/Dezhin2000/28386
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 1
-http://linux-app.tv:6204/Basimalle/Dezhin2000/21355
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 2
-http://linux-app.tv:6204/Basimalle/Dezhin2000/21354
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 3
-http://linux-app.tv:6204/Basimalle/Dezhin2000/21353
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 4
-http://linux-app.tv:6204/Basimalle/Dezhin2000/21352
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 5
-http://linux-app.tv:6204/Basimalle/Dezhin2000/21351
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0rvAm.png"group-title="FOX SPORT NETHERLAND",FOX sport 6
-http://linux-app.tv:6204/Basimalle/Dezhin2000/21350
+#EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="MOVIES",Hollywood
+http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="MOVIES",FOX Action
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="MOVIES",Warner TV
+http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES",FOX MOVIES
+https://tv4.chang55.com/live2/tv4ch26.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES",AXN HD
+https://tv4.chang55.com/live2/tv4ch31.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES",Universal
+https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES",RIO OF HBO
+https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES",Fox Movies HD
+https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES",Movies hd
+https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES",True Film HD
+https://tv4.chang55.com/live2/tv4ch93.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 1
 http://ws.flv.nimo.tv:80/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
