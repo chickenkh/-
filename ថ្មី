@@ -105,6 +105,28 @@ https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
 https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
 
+#EXTINF:0 group-title="EUROPE SPORT",UK:SKY SPORTS FOOTBALL
+http://bestever.vodiptv.org:83/17152823/76470223/382176
+#EXTINF:0 group-title="EUROPE SPORT",UK:Sports Main Event
+http://bestever.vodiptv.org:83/17152823/76470223/309259
+#EXTINF:0 group-title="EUROPE SPORT",UK:SKY SPORTS PREMIER LEAGUE
+http://bestever.vodiptv.org:83/17152823/76470223/382174
+
+#EXTINF:-1 group-title="LATIN SPORT",BR: FOX SPORTS HD
+http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/89
+#EXTINF:-1 group-title="LATIN SPORT",BR: FOX SPORTS 2 HD
+http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/87
+#EXTINF:-1 group-title="LATIN SPORT",BR: SPORTV HD
+http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/230
+#EXTINF:-1 group-title="LATIN SPORT",BR: SPORTV 2 HD
+http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/226
+#EXTINF:-1 group-title="LATIN SPORT",BR: SPORTV 3 HD
+http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/228
+#EXTINF:-1 group-title="LATIN SPORT",BR: BAND SPORTS HD
+http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/21
+#EXTINF:-1 group-title="LATIN SPORT",BR: ESPN BRASIL HD
+http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/71
+
 #EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="MOVIES",Hollywood
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="MOVIES",FOX Action
