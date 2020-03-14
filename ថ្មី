@@ -104,6 +104,8 @@ https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
 https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
+#EXTINF:-1 ch-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="ASIA SPORT",RTM Sports HD
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:0 group-title="EUROPE SPORT",UK:SKY SPORTS FOOTBALL
 http://bestever.vodiptv.org:83/17152823/76470223/382176
