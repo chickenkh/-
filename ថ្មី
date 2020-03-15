@@ -66,6 +66,14 @@ https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="ASIA SPORT", PremierHD5
 https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 1
+http://iptvhit.live/zalogitv/test/1234/19
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 2
+http://iptvhit.live/zalogitv/test/1234/20
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 3
+http://iptvhit.live/zalogitv/test/1234/21
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 4
+http://iptvhit.live/zalogitv/test/1234/22
 #EXTINF:-1 group-title="ASIA SPORT",bein 1
 https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",bein 2
@@ -104,6 +112,12 @@ https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
 https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="ASIA SPORT",Champion TV 1
+http://iptvhit.live/zalogitv/test/1234/25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champion TV 2
+http://iptvhit.live/zalogitv/test/1234/26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champion TV 3
+http://iptvhit.live/zalogitv/test/1234/27
 #EXTINF:-1 ch-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="ASIA SPORT",RTM Sports HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
@@ -114,20 +128,6 @@ http://bestever.vodiptv.org:83/17152823/76470223/309259
 #EXTINF:0 group-title="EUROPE SPORT",UK:SKY SPORTS PREMIER LEAGUE
 http://bestever.vodiptv.org:83/17152823/76470223/382174
 
-#EXTINF:-1 group-title="LATIN SPORT",BR: FOX SPORTS HD
-http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/89
-#EXTINF:-1 group-title="LATIN SPORT",BR: FOX SPORTS 2 HD
-http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/87
-#EXTINF:-1 group-title="LATIN SPORT",BR: SPORTV HD
-http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/230
-#EXTINF:-1 group-title="LATIN SPORT",BR: SPORTV 2 HD
-http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/226
-#EXTINF:-1 group-title="LATIN SPORT",BR: SPORTV 3 HD
-http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/228
-#EXTINF:-1 group-title="LATIN SPORT",BR: BAND SPORTS HD
-http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/21
-#EXTINF:-1 group-title="LATIN SPORT",BR: ESPN BRASIL HD
-http://painelapp.goldpremium.xyz:25461/GAME_TV_0365/25fmjf7609froge254/71
 
 #EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="MOVIES",Hollywood
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
