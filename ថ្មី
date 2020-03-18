@@ -121,6 +121,29 @@ http://iptvhit.live/zalogitv/test/1234/27
 #EXTINF:-1 ch-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="ASIA SPORT",RTM Sports HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
+#EXTINF:-1 group-title="SUPERSPORT",supersport 1
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48748
+#EXTINF:-1 group-title="SUPERSPORT",supersport 2
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48744
+#EXTINF:-1 group-title="SUPERSPORT",supersport 3
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48743
+#EXTINF:-1 group-title="SUPERSPORT",supersport 4
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48742
+#EXTINF:-1 group-title="SUPERSPORT",supersport 5
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48741
+#EXTINF:-1 group-title="SUPERSPORT",supersport 6
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48740
+#EXTINF:-1 group-title="SUPERSPORT",supersport 7
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48739
+#EXTINF:-1 group-title="SUPERSPORT",supersport 8
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48738
+#EXTINF:-1 group-title="SUPERSPORT",supersport 9
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48737
+#EXTINF:-1 group-title="SUPERSPORT",supersport 10
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48736
+#EXTINF:-1 group-title="SUPERSPORT",supersport MAXIMO
+http://iptv-line.com:7899/tonitvpro/L9o0iVl7xa/48735
+
 #EXTINF:0 group-title="EUROPE SPORT",UK:SKY SPORTS FOOTBALL
 http://bestever.vodiptv.org:83/17152823/76470223/382176
 #EXTINF:0 group-title="EUROPE SPORT",UK:Sports Main Event
