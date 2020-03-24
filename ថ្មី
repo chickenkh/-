@@ -40,7 +40,7 @@ https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVzWrpB/TVK.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TVK
 https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m9TkJ4G/TV5.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV5
-https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1117383940.m3u8?mtvstarttime=0&mtvendtime=1562491049&mtvhash=NwLgk3ofhoBJQD62VwBRkCYmj_ELovm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vHnDdKn/TV9.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTV9
 https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9WFh5G/TV11.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|អប្សារា
