@@ -121,21 +121,21 @@ https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1495705035_b1344100_sleng
 #EXTINF:-1 ch-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="ASIA SPORT",RTM Sports HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:0 group-title="AU SPORT",Fox Sports News 
+#EXTINF:-0 group-title="AU SPORT",Fox Sports News 
 http://bestever.vodiptv.org:83/37898322/77081405/381398
-#EXTINF:0 group-title="AU SPORT",Fox Sports 501
+#EXTINF:-0 group-title="AU SPORT",Fox Sports 501
 http://bestever.vodiptv.org:83/37898322/77081405/381399
-#EXTINF:0 group-title="AU SPORT",Fox Sports 502
+#EXTINF:-0 group-title="AU SPORT",Fox Sports 502
 http://bestever.vodiptv.org:83/37898322/77081405/381400
-#EXTINF:0 group-title="AU SPORT",Fox Sports 503
+#EXTINF:-0 group-title="AU SPORT",Fox Sports 503
 http://bestever.vodiptv.org:83/37898322/77081405/381401
-#EXTINF:0 group-title="AU SPORT",Fox Sports 504
+#EXTINF:-0 group-title="AU SPORT",Fox Sports 504
 http://bestever.vodiptv.org:83/37898322/77081405/381402
-#EXTINF:0 group-title="AU SPORT",Fox Sports 505
+#EXTINF:-0 group-title="AU SPORT",Fox Sports 505
 http://bestever.vodiptv.org:83/37898322/77081405/381403
-#EXTINF:0 group-title="AU SPORT",Fox Sports 506
+#EXTINF:-0 group-title="AU SPORT",Fox Sports 506
 http://bestever.vodiptv.org:83/37898322/77081405/381404
-#EXTINF:0 group-title="AU SPORT",Fox Sports 507
+#EXTINF:-0 group-title="AU SPORT",Fox Sports 507
 http://bestever.vodiptv.org:83/37898322/77081405/381405
 
 #EXTINF:-1 group-title="RUSSIA SPORT",Матч! Футбол 1 HD
@@ -183,19 +183,19 @@ http://dns.clientetv.xyz:8000/31624894496/102130/2195
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="PREMIER SPORT",Premiere 7 HD
 http://dns.clientetv.xyz:8000/31624894496/102130/2197
 
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE
 http://bestever.vodiptv.org:83/37898322/77081405/382174
-#EXTINF:0 group-title="UK SPORT",SKY SPORTS FOOTBALL
+#EXTINF:-0 group-title="UK SPORT",SKY SPORTS FOOTBALL
 http://bestever.vodiptv.org:83/37898322/77081405/382176
-#EXTINF:0 group-title="UK SPORT",Sky Sports Main Event
+#EXTINF:-0 group-title="UK SPORT",Sky Sports Main Event
 http://bestever.vodiptv.org:83/37898322/77081405/366652
-#EXTINF:0 group-title="UK SPORT",BT SPORTS 1 FHD
+#EXTINF:-0 group-title="UK SPORT",BT SPORTS 1 FHD
 http://bestever.vodiptv.org:83/37898322/77081405/309255
-#EXTINF:0 group-title="UK SPORT",BT SPORTS 2 FHD
+#EXTINF:-0 group-title="UK SPORT",BT SPORTS 2 FHD
 http://bestever.vodiptv.org:83/37898322/77081405/382158
-#EXTINF:0 group-title="UK SPORT",BT SPORTS 3 HD
+#EXTINF:-0 group-title="UK SPORT",BT SPORTS 3 HD
 http://bestever.vodiptv.org:83/37898322/77081405/309256
-#EXTINF:0 group-title="UK SPORT",BT SPORTS ESPN HD
+#EXTINF:-0 group-title="UK SPORT",BT SPORTS ESPN HD
 http://bestever.vodiptv.org:83/37898322/77081405/262998
 
 
