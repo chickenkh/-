@@ -68,14 +68,6 @@ https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="ASIA SPORT", PremierHD5
 https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 1
-http://iptvhit.live/zalogitv/test/1234/19
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 2
-http://iptvhit.live/zalogitv/test/1234/20
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 3
-http://iptvhit.live/zalogitv/test/1234/21
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="ASIA SPORT",ASTRO SUPERSPORT 4
-http://iptvhit.live/zalogitv/test/1234/22
 #EXTINF:-1 group-title="ASIA SPORT",bein 1
 https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",bein 2
@@ -133,6 +125,14 @@ http://myott.tv/stream/D944FPT6C4U/142.m3u8
 http://myott.tv/stream/D944FPT6C4U/185.m3u8
 #EXTINF:-1 group-title="RUSSIA SPORT",Матч Премьер HD
 http://myott.tv/stream/D944FPT6C4U/193.m3u8
+#EXTINF:-1 group-title="RUSSIA SPORT",Беларусь 5 HD
+http://myott.tv/stream/D944FPT6C4U/33.m3u8
+#EXTINF:-1 group-title="RUSSIA SPORT",Setanta Sport 1 HD
+http://myott.tv/stream/D944FPT6C4U/234.m3u8
+#EXTINF:-1 group-title="RUSSIA SPORT",Setanta Sport 2 HD
+http://myott.tv/stream/D944FPT6C4U/235.m3u8
+#EXTINF:-1 group-title="RUSSIA SPORT",Setanta Sport HD UA
+http://myott.tv/stream/D944FPT6C4U/313.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",SporTV HD
 http://dns.clientetv.xyz:8000/31624894496/102130/13070
@@ -224,26 +224,6 @@ https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png" group-title="JAV",Ibiza TV2
 https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
-#EXTINF:-1 group-title="JAV",jav1
-http://sywly.xyz/19hd.php?id=1
-#EXTINF:-1 group-title="JAV",jav2
-http://sywly.xyz/19hd.php?id=2
-#EXTINF:-1 group-title="JAV",jav3
-http://sywly.xyz/19hd.php?id=3
-#EXTINF:-1 group-title="JAV",jav4
-http://sywly.xyz/19hd.php?id=4
-#EXTINF:-1 group-title="JAV",jav5
-http://sywly.xyz/19hd.php?id=5
-#EXTINF:-1 group-title="JAV",jav6
-http://sywly.xyz/19hd.php?id=6
-#EXTINF:-1 group-title="JAV",jav7
-http://sywly.xyz/19hd.php?id=7
-#EXTINF:-1 group-title="JAV",jav8
-http://sywly.xyz/19hd.php?id=8
-#EXTINF:-1 group-title="JAV",jav9
-http://sywly.xyz/19hd.php?id=9
-#EXTINF:-1 group-title="JAV",jav10
-http://sywly.xyz/19hd.php?id=10
 
 #EXTINF:-1 group-title="18+MOVIE",1
 https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
