@@ -114,6 +114,10 @@ https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng.m3u8?enc=unlzV2-jpyqX0JrB7DvA6kdnw&exp=unl1584687255&encp=n3vzCW18lEnxaE3Yr0OROg&expp=unl1584695955
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="ASIA SPORT", Usee Sport 2
 https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1787179376_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="ASIA SPORT",Champions TV 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w449622168_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champions TV 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1495705035_b1344100_sleng.m3u8?enc=ADoRyqm8-aGNyqycokU3HQ&exp=1584926475
 #EXTINF:-1 ch-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="ASIA SPORT",RTM Sports HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
@@ -174,6 +178,39 @@ http://bestever.vodiptv.org:83/17152823/76470223/382174
 http://ws.flv.nimo.tv:80/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 2
 https://ws.flv.nimo.tv/live/su1599512427602r14aed1169c6d2d5fea4e25d573fe5f04.flv?needwm=0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-1.png" group-title="CHINA",CCTV1
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-2.png"group-title="CHINA",CCTV2
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-3.png" group-title="CHINA",CCTV3
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-4.png" group-title="CHINA",CCTV4
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-5.png" group-title="CHINA",CCTV5
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-6.png" group-title="CHINA",CCTV6
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-7.png" group-title="CHINA",CCTV7
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-8.png" group-title="CHINA",CCTV8
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-9.png" group-title="CHINA",CCTV9
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-10.png" group-title="CHINA",CCTV10
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-11.png" group-title="CHINA",CCTV11
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-12.png" group-title="CHINA",CCTV12
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-13.png" group-title="CHINA",CCTV13
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-14.png" group-title="CHINA",CCTV14
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-15.png" group-title="CHINA",CCTV15
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-17.png" group-title="CHINA",CCTV17
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ca91ceac-8a1d-43f4-b526-face1db3cd2a.png",CH3 HD
 http://103.75.201.3:1935/live/3hd/playlist.m3u8
