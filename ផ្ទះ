@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="កម្ពុជា|Cambodia",កម្ពុជា|Fresh News
-http://167.99.65.12:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YMffsp/FN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="កម្ពុជា|Cambodia",ភាពយន្ដនិយាយខ្មែរ
@@ -256,7 +254,7 @@ http://live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/c2ec6c93-8b27-4bac-bca9-cfbc0a16c27d.png",Nation TV
 http://160.119.77.50/iptv/sd-nation.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",CH8
-http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
+http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9fa53820-435c-4aec-a6d3-e18154d68f72.png",ONE HD
 http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://images.ufoiptv.com/channels/sd-gmmchannel.jpg",GMM25
