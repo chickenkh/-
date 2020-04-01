@@ -82,6 +82,14 @@ http://42.119.194.215:6606/udp/225.1.4.10:30120
 http://42.119.194.215:6606/udp/225.1.4.11:30120
 #EXTINF:-1 group-title="ASIA SPORT",FOX SPORTS 3 HD
 http://42.119.194.215:6606/udp/225.1.4.12:30120
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
+https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro3.png",ASTRO SPORTS 3
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
+https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 2
