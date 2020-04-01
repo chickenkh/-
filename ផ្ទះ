@@ -91,12 +91,14 @@ https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
 https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 2
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="ASIA SPORT",TRUE SPORTS HD 2
 https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORTS HD 3
+#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport3.png" group-title="ASIA SPORT",TRUE SPORTS HD 3
 https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT", TRUE SPORTS HD 4
+http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 2
 https://tv4.chang55.com/live2/tv4ch83.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 5
