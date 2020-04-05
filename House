@@ -83,6 +83,10 @@ https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
 https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png",VTVCab16
+http://cdn1.tvmienphi.tv/live/vtvcab16/index.m3u8?token=S2cDz7UJtkDTAE1bTnOMWg&e=1586098073
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_thao_tv.png", VTVCab3
+http://cdn1.tvmienphi.tv/live/vtvcab3/index.m3u8?token=3CoH-gBd3LhNs3hkWgOZoA&e=1586098179
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="ASIA SPORT",TRUE SPORTS HD 2
