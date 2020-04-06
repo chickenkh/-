@@ -229,10 +229,16 @@ https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0049909.png",Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.pngitem.com/pimgs/m/149-1495070_fox-movies-premium-asi-fox-action-movie-logo.png",Fox Movie Premium
-https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.pngitem.com/pimgs/m/149-1495070_fox-movies-premium-asi-fox-action-movie-logo.png",Fox Movie
+https://tv4.chang55.com/live2/tv4ch26.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+#EXTINF:-0 group-title="MOVIE",HBO
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+
+#EXTINF:-0 group-title="NEWS",CNN
+https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 1
 http://ws.flv.nimo.tv:80/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
