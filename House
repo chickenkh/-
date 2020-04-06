@@ -61,6 +61,9 @@ http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb8c4fba7447b15991047
 http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=me4d886ac3d5f14297193&ct=18257&tsum=7afe0f73d068c61c48760774334590c8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="កម្ពុជា|Cambodia",Discovery Asia
 http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m5466b48d39d215068710&ct=18257&tsum=d29d2772a7f29094c1157be1eb15d1f5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m9TkJ4G/TV5.png" group-title="កម្ពុជា|Cambodia", BBC Earth
+https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
 https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
@@ -232,12 +235,18 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.pngitem.com/pimgs/m/149-1495070_fox-movies-premium-asi-fox-action-movie-logo.png",Fox Movie
 https://tv4.chang55.com/live2/tv4ch26.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+https://tv4.chang55.com/live2/tv4ch91.stream/chunks.m3u8
 #EXTINF:-0 group-title="MOVIE",HBO
 https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+#EXTINF:-0 group-title="MOVIE",Cinemax
+https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
+#EXTINF:-0 group-title="MOVIE",Red
+https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 
 #EXTINF:-0 group-title="NEWS",CNN
 https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
+#EXTINF:-0 group-title="NEWS",BBC World News
+https://tv4.chang55.com/live2/tv4ch28.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 1
