@@ -51,6 +51,16 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="កម្ពុជា|Cambodia",NAT WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="កម្ពុជា|Cambodia",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="កម្ពុជា|Cambodia",History2
+http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m90ad1199a83a15404448&ct=18257&tsum=b50083dae0747d052939a49d69463675
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="កម្ពុជា|Cambodia",History
+http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb8c4fba7447b15991047&ct=18257&tsum=428ba618452a7d8ecaf512c8d2913460
+#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="កម្ពុជា|Cambodia",Discovery Science
+http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=me4d886ac3d5f14297193&ct=18257&tsum=7afe0f73d068c61c48760774334590c8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="កម្ពុជា|Cambodia",Discovery Asia
+http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m5466b48d39d215068710&ct=18257&tsum=d29d2772a7f29094c1157be1eb15d1f5
 
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
 https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
@@ -205,6 +215,25 @@ http://bestever.vodiptv.org:83/37898322/77081405/309256
 #EXTINF:-0 group-title="UK SPORT",BT SPORTS ESPN HD
 http://bestever.vodiptv.org:83/37898322/77081405/262998
 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://img.isuper.tv/live-tv/hollywood-movie-live.jpg",Hollywood Movie
+http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=m2eeeab00aa4e17686788&ct=18257&tsum=8dec86114df7a666049235d933d27514
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/cd/de/32/cdde3210-db4c-de5f-aa0e-e1a72e147972/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",CatchPlay Movie
+http://198.16.106.58:8278/catchplay_twn/playlist.m3u8?tid=mb6ef6515ca1c13770395&ct=18257&tsum=6f8a3c7e53e6eb8dfdad66f7e2014b34
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.pngkey.com/png/detail/254-2544351_cineworld-logo-cineworld-cinema-logo.png",CineWorld Cinema
+http://198.16.106.58:8278/cinemaworld_twn/playlist.m3u8?tid=m759bc2f5e0b913837744&ct=18257&tsum=f8ae499b9e67361083a00873d1bb1e05
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN
+https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",Thrill
+https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.pngkit.com/png/detail/107-1070585_fox-action-movies.png",Fox Action Movies
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0049909.png",Fox Crime
+https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.pngitem.com/pimgs/m/149-1495070_fox-movies-premium-asi-fox-action-movie-logo.png",Fox Movie Premium
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 1
 http://ws.flv.nimo.tv:80/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 2
@@ -250,3 +279,8 @@ http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playli
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg" group-title="THAI",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
+
+#EXTINF:-1 group-title="KPOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",Indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1586103434~acl=/hls-p/ingest_205_*/*~hmac=72bb904d3e6b0187e980eba28577f6371bd629d7ab245624737570f00a0ea7d9/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 group-title="KPOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/RCTI_Logo_2012_New.gif",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1586103593~acl=/hls-p/ingest_665_*/*~hmac=fe13338270f3393e769aee303f2a7ecb95c76339c960a767f2d6ec7bc96c883a/hls-p/ingest_665_720p/index.m3u8
