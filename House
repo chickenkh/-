@@ -43,7 +43,7 @@ https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
 https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9WFh5G/TV11.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|អប្សារា
 https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
-#EXTINF:-0 tvg-logo="https://cambodiaiptvcom.b-cdn.net/wp-content/uploads/2019/12/IPTV--1024x1024.png" group-title="កម្ពុជា|Cambodia", ភាពយន្ដ
+#EXTINF:-1 tvg-logo="https://cambodiaiptvcom.b-cdn.net/wp-content/uploads/2019/12/IPTV--1024x1024.png" group-title="កម្ពុជា|Cambodia", ភាពយន្ដ
 http://broadcast.cambodiaiptv.com:1935/broadcast/smil:live.smil/chunklist_w431404254_b1420000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
