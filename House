@@ -278,9 +278,3 @@ http://160.119.77.50/iptv/sd-tnn2.stream/playlist.m3u8
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg" group-title="THAI",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1586103434~acl=/hls-p/ingest_205_*/*~hmac=72bb904d3e6b0187e980eba28577f6371bd629d7ab245624737570f00a0ea7d9/hls-p/ingest_205_720p/index.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/RCTI_Logo_2012_New.gif",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1586103593~acl=/hls-p/ingest_665_*/*~hmac=fe13338270f3393e769aee303f2a7ecb95c76339c960a767f2d6ec7bc96c883a/hls-p/ingest_665_720p/index.m3u8
