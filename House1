@@ -63,7 +63,16 @@ http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=me4d886ac3d5f1429719
 http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m5466b48d39d215068710&ct=18257&tsum=d29d2772a7f29094c1157be1eb15d1f5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="កម្ពុជា|Cambodia", BBC Earth
 https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
-
+#EXTINF:-1 group-title="កម្ពុជា|Cambodia",កូនប្រសាស្រុកស្រែ ភាគ១
+https://xs7.anavids.com/hls/yh5chz4zohikjnl7533kr2rgx6dcbbmlwrvvrrrfd,pi537tc7txeqxg3plkq,e4537tc7txhb3i2xo6a,.urlset/master.m3u8
+#EXTINF:-1 group-title="កម្ពុជា|Cambodia",កូនប្រសាស្រុកស្រែ ភាគ២
+https://st1.anavids.com/hls/yh5cgee2ohikjnl7533kr7rqxo25bh7fsqbh2bfmf,w6xj46kse37hgcect4a,5wxj46kse3quofpziyq,.urlset/master.m3u8
+#EXTINF:-1 group-title="កម្ពុជា|Cambodia",កូនប្រសាស្រុកស្រែ ភាគ៣
+https://st1.anavids.com/hls/yh5cgem2ohikjnl7533krkbz5hzyexvj2octpewzs,44iq7mtido4ayxggdfa,x2iq7mtidowipiupzla,.urlset/master.m3u8
+#EXTINF:-1 group-title="កម្ពុជា|Cambodia",កូនប្រសាស្រុកស្រែ ភាគ៤
+https://st1.anavids.com/hls/yh5cgfu2ohikjnl7533kr6rk5jav2a4obdm2qhxeh,2yf22sfmul54vv7wxlq,rtv22sfmul4qgl5obta,.urlset/master.m3u8
+#EXTINF:-1 group-title="កម្ពុជា|Cambodia",កូនប្រសាស្រុកស្រែ ភាគ៥
+https://xs4.anavids.com/hls/yh5cgsmpohikjnl75332r4t6vezoknirrvmthw7wh,6pzreu2qzvqb5tsfwga,utjreu2qzvrl2nlbu7q,.urlset/master.m3u8
 
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
 https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
