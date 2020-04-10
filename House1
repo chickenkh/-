@@ -198,19 +198,19 @@ http://dns.clientetv.xyz:8000/31624894496/102130/13082
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil FHD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="LATIN SPORT",ESPN Brasil FHD
 http://dns.clientetv.xyz:8000/31624894496/102130/13084
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="PREMIER SPORT",Premiere HD
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="LATIN SPORT",Premiere HD
 http://dns.clientetv.xyz:8000/31624894496/102130/1277
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="PREMIER SPORT",Premiere 2 HD
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="LATIN SPORT",Premiere 2 HD
 http://dns.clientetv.xyz:8000/31624894496/102130/2187
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="PREMIER SPORT",Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="LATIN SPORT",Premiere 3 HD
 http://dns.clientetv.xyz:8000/31624894496/102130/2189
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="PREMIER SPORT",Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="LATIN SPORT",Premiere 4 HD
 http://dns.clientetv.xyz:8000/31624894496/102130/2191
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="PREMIER SPORT",Premiere 5 HD
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="LATIN SPORT",Premiere 5 HD
 http://dns.clientetv.xyz:8000/31624894496/102130/2193
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="PREMIER SPORT",Premiere 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="LATIN SPORT",Premiere 6 HD
 http://dns.clientetv.xyz:8000/31624894496/102130/2195
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="PREMIER SPORT",Premiere 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="LATIN SPORT",Premiere 7 HD
 http://dns.clientetv.xyz:8000/31624894496/102130/2197
 
 #EXTINF:-0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE
@@ -259,7 +259,18 @@ https://tv4.chang55.com/live2/tv4ch28.stream/chunks.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png" group-title="NEWS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rt.png" group-title="NEWS",RT
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/cgtn.png" group-title="NEWS",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/nhkworldjp.png" group-title="NEWS",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png" group-title="NEWS",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/france24.png" group-title="NEWS",France24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="NEWS",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 1
 http://ws.flv.nimo.tv:80/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
