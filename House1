@@ -257,7 +257,7 @@ https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch28.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="NEWS",CNA (INTERNATIONAL)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-group="NEWS" tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png",Al Jazeera
+#EXTINF:-1 group-title="NEWS"  tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
