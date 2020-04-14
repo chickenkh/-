@@ -80,15 +80,12 @@ https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?CY6m_NEXbRgX6j2coUhb4Q1582823596
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w115517397_b1344100_sleng.m3u8?BXcMrtNJnpCf5bYyw0o_UQ1582823785
-#EXTINF:-1 ch-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="ASIA SPORT",FOX SPORTS
-https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
-#EXTINF:-1 ch-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="ASIA SPORT",FOX Sports
-http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
-#EXTINF:-1 ch-id="Fox Sports 2" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="ASIA SPORT",FOX Sports 2
-http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
-#EXTINF:-1 ch-id="Fox Sports 3" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="ASIA SPORT",FOX Sports 3
-http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
-http://42.119.194.215:6606/udp/225.1.4.12:30120
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT ASIA 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT ASIA 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT ASIA 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
 https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
@@ -215,43 +212,6 @@ http://myott.tv/stream/D944FPT6C4U/235.m3u8
 #EXTINF:-1 group-title="RUSSIA SPORT",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
 
-#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" tvg-country="TR" tvg-url="http://195.154.221.171/epg/guideturkey.xml.gz" group-title="ARAB SPORT",A Spor
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARAB SPORT",Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARAB SPORT",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARAB SPORT",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARAB SPORT",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",SporTV HD
-http://dns.clientetv.xyz:8000/31624894496/102130/13070
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="LATIN SPORT",SporTV 2 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/13073
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="LATIN SPORT",SporTV 3 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/13076
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports FHD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="LATIN SPORT",Fox Sports FHD
-http://dns.clientetv.xyz:8000/31624894496/102130/13078
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FoxSports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="LATIN SPORT",FoxSports 2 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/13082
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil FHD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="LATIN SPORT",ESPN Brasil FHD
-http://dns.clientetv.xyz:8000/31624894496/102130/13084
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="LATIN SPORT",Premiere HD
-http://dns.clientetv.xyz:8000/31624894496/102130/1277
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="LATIN SPORT",Premiere 2 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/2187
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="LATIN SPORT",Premiere 3 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/2189
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="LATIN SPORT",Premiere 4 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/2191
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="LATIN SPORT",Premiere 5 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/2193
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="LATIN SPORT",Premiere 6 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/2195
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="LATIN SPORT",Premiere 7 HD
-http://dns.clientetv.xyz:8000/31624894496/102130/2197
 
 #EXTINF:-0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE
 http://bestever.vodiptv.org:83/37898322/77081405/382174
@@ -268,48 +228,10 @@ http://bestever.vodiptv.org:83/37898322/77081405/309256
 #EXTINF:-0 group-title="UK SPORT",BT SPORTS ESPN HD
 http://bestever.vodiptv.org:83/37898322/77081405/262998
 
-#EXTINF:-1 tvg-ID="BlueAntEntertainment.id" group-title="MOVIE" tvg-logo="https://macan.live/img/blue_ant_entertainment.png", Blue Ant Entertainment
-https://delivery.macan.live/stream/blue_ant_entertainment/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="BlueAntExtreme.id" group-title="MOVIE" tvg-logo="https://macan.live/img/blue_ant_extreme.png", Blue Ant Extreme
-https://delivery.macan.live/stream/blue_ant_extreme/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="AXN.id" group-title="MOVIE" tvg-logo="https://macan.live/img/axn.png", AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="FX.id" group-title="MOVIE" tvg-logo="https://macan.live/img/fx.png", FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="FOX.id" group-title="MOVIE" tvg-logo="https://macan.live/img/fox.jpg", FOX
-https://delivery.macan.live/stream/id_fox/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="FOXCrime.id" group-title="MOVIE" tvg-logo="https://macan.live/img/fox_crime.png", FOX Crime
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="FoxLife.id" group-title="MOVIE" tvg-logo="https://macan.live/img/fox_life.png", FOX Life
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="FOXMoviesPremium.id" group-title="MOVIE" tvg-logo="https://macan.live/img/fox_movies_premium.png", FOX Movies Premium
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="FOXActionMovies.id" group-title="MOVIE" tvg-logo="https://macan.live/img/fox_action_movies.png", FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="MOVIE" tvg-logo="https://macan.live/img/fox_family_movies.png", FOX Family Movies
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="HBO.id" group-title="MOVIE" tvg-logo="https://macan.live/img/hbo.png", HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="HBOFamily.id" group-title="MOVIE" tvg-logo="https://macan.live/img/hbo_family.png", HBO Family
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="HBOHits.id" group-title="MOVIE" tvg-logo="https://macan.live/img/hbo_hits.png", HBO Hits
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="MOVIE" tvg-logo="https://macan.live/img/hbo_signature.png", HBO Signature
-https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="RED.id" group-title="MOVIE" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO
-https://delivery.macan.live/stream/redhbo/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="CineMax.id" group-title="MOVIE" tvg-logo="https://macan.live/img/cinemaxa.png", Cinemax by HBO
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="CrimeInvestigation.id" group-title="MOVIE" tvg-logo="https://macan.live/img/crime_investigation.png", Crime Investigation
-https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="Flik" group-title="MOVIE" tvg-logo="https://macan.live/img/macanlogo.png", Flik
-https://delivery.macan.live/stream/flik/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="Thrill.id" group-title="MOVIE" tvg-logo="https://macan.live/img/thrill.png", Thrill
-https://delivery.macan.live/stream/thrill/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="HITS.id" group-title="MOVIE" tvg-logo="https://macan.live/img/hits.png", HITS
-https://delivery.macan.live/stream/hits/index.m3u8?token=P4g4PpoO&v=20200308
-#EXTINF:-1 tvg-ID="HITSMovies.id" group-title="MOVIE" tvg-logo="https://macan.live/img/hits_movies.png", HITS Movies
-https://delivery.macan.live/stream/hits_movies/index.m3u8?token=P4g4PpoO&v=20200308
+
+
+
+
 
 #EXTINF:-0 tvg-logo="https://i2.wp.com/globalriskinsights.com/wp-content/uploads/2016/03/cnn-logo-square.png?ssl=1" group-title="NEWS",CNN
 https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
