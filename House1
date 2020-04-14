@@ -138,6 +138,49 @@ https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w449622168_b1344100_sleng.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champions TV 2
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1495705035_b1344100_sleng.m3u8?enc=ADoRyqm8-aGNyqycokU3HQ&exp=1584926475
 
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS1.png",SUPERSPORTS 1
+http://00100.co:2086/live/Woody/Woody/90493.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS2.png",SUPERSPORTS 2
+http://00100.co:2086/live/Woody/Woody/90492.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS3.png",SUPERSPORTS 3
+http://00100.co:2086/live/Woody/Woody/90491.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS4.png",SUPERSPORTS 4
+http://00100.co:2086/live/Woody/Woody/90490.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS5.png",SUPERSPORTS 5
+http://00100.co:2086/live/Woody/Woody/90489.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS6.png",SUPERSPORTS 6
+http://00100.co:2086/live/Woody/Woody/90488.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS7.png",SUPERSPORTS 7
+http://00100.co:2086/live/Woody/Woody/90487.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS8.png",SUPERSPORTS 8
+http://00100.co:2086/live/Woody/Woody/90486.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS9.png",SUPERSPORTS 9
+http://00100.co:2086/live/Woody/Woody/90485.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS10.png",SUPERSPORTS 10
+http://00100.co:2086/live/Woody/Woody/90484.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS11.png",SUPERSPORTS 11
+http://00100.co:2086/live/Woody/Woody/90483.ts
+#EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS12.png",SUPERSPORTS 12
+http://00100.co:2086/live/Woody/Woody/90482.ts
+
+
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",RMC 1
+http://00100.co:2086/live/Woody/Woody/92216.ts
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/j520KKTN/RMC-2.png",RMC 2
+http://00100.co:2086/live/Woody/Woody/92217.ts
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/FR6tHqF6/RMC-3.png",RMC 3
+http://00100.co:2086/live/Woody/Woody/92218.ts
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/xdtDW8wn/RMC-4.png",RMC 4
+http://00100.co:2086/live/Woody/Woody/92219.ts
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
+http://00100.co:2086/live/Woody/Woody/92221.ts
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
+http://00100.co:2086/live/Woody/Woody/92222.ts
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/x1gt2QJn/Bein-Sport-HD3fr.png",BEINSPORTS 3 FR
+http://00100.co:2086/live/Woody/Woody/92223.ts
+
+
+
 #EXTINF:-0 group-title="AU SPORT",Fox Sports News 
 http://bestever.vodiptv.org:83/37898322/77081405/381398
 #EXTINF:-0 group-title="AU SPORT",Fox Sports 501
