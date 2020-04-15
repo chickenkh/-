@@ -102,29 +102,29 @@ https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT", TRUE SPORTS HD 4
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 2
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.gizatokyo.com/wp-content/uploads/2019/01/logo_013.png",TRUE SPORT 2
 https://tv4.chang55.com/live2/tv4ch83.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 5
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9c34186a-ebe4-4778-b92e-68addc96987e.png",TRUE SPORT 5
 https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 6
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ccb15664-28dd-43da-ba1d-4f5034ab8e1f.png",TRUE SPORT 6
 https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT",TRUE SPORT 7
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://ผลบอล24.com/images/channel/tsp7.jpg",TRUE SPORT 7
 https://tv4.chang55.com/live2/tv4ch86.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS HD
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/skynetsporthd.png", SKYNETSPORTS HD
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS PLUS
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-767.png", SKYNETSPORTS PLUS
 https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 1
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png", SKYNETSPORTS 1
 https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 2
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png", SKYNETSPORTS 2
 https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 3
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png", SKYNETSPORTS 3
 https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 4
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png", SKYNETSPORTS 4
 https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 5
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png", SKYNETSPORTS 5
 https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://imgur.com/UprzmJT.png", SKYNETSPORTS 6
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png", SKYNETSPORTS 6
 https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng.m3u8?enc=unlzV2-jpyqX0JrB7DvA6kdnw&exp=unl1584687255&encp=n3vzCW18lEnxaE3Yr0OROg&expp=unl1584695955
@@ -178,38 +178,38 @@ http://00100.co:2086/live/Woody/Woody/92223.ts
 
 
 
-#EXTINF:-0 group-title="AU SPORT",Fox Sports News 
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png",Fox Sports News 
 http://bestever.vodiptv.org:83/37898322/77081405/381398
-#EXTINF:-0 group-title="AU SPORT",Fox Sports 501
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png",Fox Sports 501
 http://bestever.vodiptv.org:83/37898322/77081405/381399
-#EXTINF:-0 group-title="AU SPORT",Fox Sports 502
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://i.postimg.cc/LXxgN81g/502.png",Fox Sports 502
 http://bestever.vodiptv.org:83/37898322/77081405/381400
-#EXTINF:-0 group-title="AU SPORT",Fox Sports 503
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6551.1489224386.png",Fox Sports 503
 http://bestever.vodiptv.org:83/37898322/77081405/381401
-#EXTINF:-0 group-title="AU SPORT",Fox Sports 504
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Fox Sports 504
 http://bestever.vodiptv.org:83/37898322/77081405/381402
-#EXTINF:-0 group-title="AU SPORT",Fox Sports 505
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://media.info/i/lf/0/1489224687/6552.png",Fox Sports 505
 http://bestever.vodiptv.org:83/37898322/77081405/381403
-#EXTINF:-0 group-title="AU SPORT",Fox Sports 506
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png",Fox Sports 506
 http://bestever.vodiptv.org:83/37898322/77081405/381404
-#EXTINF:-0 group-title="AU SPORT",Fox Sports 507
+#EXTINF:-0 group-title="AU SPORT" tvg-logo="https://www.pngkit.com/png/full/52-523330_channels-included-in-any-packs-fox-sports-more.png",Fox Sports 507
 http://bestever.vodiptv.org:83/37898322/77081405/381405
 
-#EXTINF:-1 group-title="RUSSIA SPORT",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Матч! Футбол 1 HD
 http://myott.tv/stream/D944FPT6C4U/130.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT",Матч! Футбол 2 HD
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Матч! Футбол 2 HD
 http://myott.tv/stream/D944FPT6C4U/142.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png",Матч! Футбол 3 HD
 http://myott.tv/stream/D944FPT6C4U/185.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT",Матч Премьер HD
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg",Матч Премьер HD
 http://myott.tv/stream/D944FPT6C4U/193.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT",Беларусь 5 HD
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://ifavorite.ru/images/sport7/-5.jpg",Беларусь 5 HD
 http://myott.tv/stream/D944FPT6C4U/33.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT",Setanta Sport 1 HD
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/6b8e3119c068f5bab170.jpg",Setanta Sport 1 HD
 http://myott.tv/stream/D944FPT6C4U/234.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT",Setanta Sport 2 HD
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d.jpg",Setanta Sport 2 HD
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT",Setanta Sport HD UA
+#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
 
 
