@@ -161,20 +161,7 @@ http://00100.co:2086/live/Woody/Woody/90483.ts
 http://00100.co:2086/live/Woody/Woody/90482.ts
 
 
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",RMC 1
-http://00100.co:2086/live/Woody/Woody/92216.ts
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/j520KKTN/RMC-2.png",RMC 2
-http://00100.co:2086/live/Woody/Woody/92217.ts
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/FR6tHqF6/RMC-3.png",RMC 3
-http://00100.co:2086/live/Woody/Woody/92218.ts
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/xdtDW8wn/RMC-4.png",RMC 4
-http://00100.co:2086/live/Woody/Woody/92219.ts
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
-http://00100.co:2086/live/Woody/Woody/92221.ts
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
-http://00100.co:2086/live/Woody/Woody/92222.ts
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://i.postimg.cc/x1gt2QJn/Bein-Sport-HD3fr.png",BEINSPORTS 3 FR
-http://00100.co:2086/live/Woody/Woody/92223.ts
+
 
 
 
@@ -195,63 +182,75 @@ http://bestever.vodiptv.org:83/37898322/77081405/381404
 #EXTINF:-0 group-title="AU SPORT" tvg-logo="https://www.pngkit.com/png/full/52-523330_channels-included-in-any-packs-fox-sports-more.png",Fox Sports 507
 http://bestever.vodiptv.org:83/37898322/77081405/381405
 
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Матч! Футбол 1 HD
 http://myott.tv/stream/D944FPT6C4U/130.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Матч! Футбол 2 HD
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Матч! Футбол 2 HD
 http://myott.tv/stream/D944FPT6C4U/142.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png",Матч! Футбол 3 HD
 http://myott.tv/stream/D944FPT6C4U/185.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg",Матч Премьер HD
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg",Матч Премьер HD
 http://myott.tv/stream/D944FPT6C4U/193.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://ifavorite.ru/images/sport7/-5.jpg",Беларусь 5 HD
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ifavorite.ru/images/sport7/-5.jpg",Беларусь 5 HD
 http://myott.tv/stream/D944FPT6C4U/33.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/6b8e3119c068f5bab170.jpg",Setanta Sport 1 HD
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/6b8e3119c068f5bab170.jpg",Setanta Sport 1 HD
 http://myott.tv/stream/D944FPT6C4U/234.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d.jpg",Setanta Sport 2 HD
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d.jpg",Setanta Sport 2 HD
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
-#EXTINF:-1 group-title="RUSSIA SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
-
-
-#EXTINF:-0 group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/11/sky-premierleague.png",SKY SPORTS PREMIER LEAGUE
 http://bestever.vodiptv.org:83/37898322/77081405/382174
-#EXTINF:-0 group-title="UK SPORT",SKY SPORTS FOOTBALL
+#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",SKY SPORTS FOOTBALL
 http://bestever.vodiptv.org:83/37898322/77081405/382176
-#EXTINF:-0 group-title="UK SPORT",Sky Sports Main Event
+#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/12/sky-mainevent.png",SKY SPORTS MAIN EVENT
 http://bestever.vodiptv.org:83/37898322/77081405/366652
-#EXTINF:-0 group-title="UK SPORT",BT SPORTS 1 FHD
+#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://nonleague.pitchero.com/wp-content/uploads/2015/08/1440583056_original.jpg",BT SPORTS 1
 http://bestever.vodiptv.org:83/37898322/77081405/309255
-#EXTINF:-0 group-title="UK SPORT",BT SPORTS 2 FHD
+#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://www.pngkey.com/png/detail/967-9676257_bt-sport-2-logo.png",BT SPORTS 2
 http://bestever.vodiptv.org:83/37898322/77081405/382158
-#EXTINF:-0 group-title="UK SPORT",BT SPORTS 3 HD
+#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5712.1478917765.png",BT SPORTS 3
 http://bestever.vodiptv.org:83/37898322/77081405/309256
-#EXTINF:-0 group-title="UK SPORT",BT SPORTS ESPN HD
+#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/01/bt-espn.png",BT SPORTS ESPN
 http://bestever.vodiptv.org:83/37898322/77081405/262998
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",RMC 1
+http://00100.co:2086/live/Woody/Woody/92216.ts
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/j520KKTN/RMC-2.png",RMC 2
+http://00100.co:2086/live/Woody/Woody/92217.ts
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/FR6tHqF6/RMC-3.png",RMC 3
+http://00100.co:2086/live/Woody/Woody/92218.ts
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/xdtDW8wn/RMC-4.png",RMC 4
+http://00100.co:2086/live/Woody/Woody/92219.ts
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
+http://00100.co:2086/live/Woody/Woody/92221.ts
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
+http://00100.co:2086/live/Woody/Woody/92222.ts
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/x1gt2QJn/Bein-Sport-HD3fr.png",BEINSPORTS 3 FR
+http://00100.co:2086/live/Woody/Woody/92223.ts
 
 
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV",Marvel Movie
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE",Marvel Movie
 http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV", DC Collection
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", DC Collection
 https://ws.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_high.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV", James Bond Movie
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", James Bond Movie
 http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV", Movie1
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", Movie1
 http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV", Movie2
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", Movie2
 https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV",Movie3
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE",Movie3
 https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV",Mr Bean
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE",Mr Bean
 http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV", Game Of Thrones
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", Game Of Thrones
 http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV", The Black List
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", The Black List
 https://ws.flv.nimo.tv/live/su1599512427618rc421cef9846ced5a2d168c70133b07b0_high.flv
-#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="NIMO-TV", The Flash
+#EXTINF:-1 tvg-logo="https://data.apksum.com/fd/com.huya.nimo/1.8.8/icon.png" group-title="MOVIE", The Flash
 http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="NIMO-TV",Tom & Jerry TV
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjMXQ2d2qv8-AWoxKOWboph0KAwgc6qJ7DWL1AZf6w0mCMqIl1" group-title="MOVIE",Tom & Jerry TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="NIMO-TV",LARVA TV
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="MOVIE",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 
 
