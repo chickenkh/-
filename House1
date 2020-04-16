@@ -105,9 +105,9 @@ http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.gizatokyo.com/wp-content/uploads/2019/01/logo_013.png",TRUE SPORT 2
 https://tv4.chang55.com/live2/tv4ch83.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9c34186a-ebe4-4778-b92e-68addc96987e.png",TRUE SPORT 5
-https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
+https://cdn221.cloud-streaming.com/wrapfootball_t2/2sport5_480p/chunks.m3u8?nimblesessionid=2301367&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIwIDM6MTA6MDggUE0maGFzaF92YWx1ZT1GQXRoZlBPVFJPaFVZZFQ3R1RZTkJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NDg2ODI1
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ccb15664-28dd-43da-ba1d-4f5034ab8e1f.png",TRUE SPORT 6
-https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
+https://cdn221.cloud-streaming.com/wrapfootball_t2/2sport6_480p/chunks.m3u8?nimblesessionid=2301368&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIwIDM6MTI6MzUgUE0maGFzaF92YWx1ZT0zTjNMY1Q1NGVFdCtFY3RLMGE0RjB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTM1OTA2
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.mgm99win.net/wp-content/uploads/2019/02/True-Sport-7-300x195.jpg",TRUE SPORT 7
 https://tv4.chang55.com/live2/tv4ch86.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/skynetsporthd.png", SKYNETSPORTS HD
