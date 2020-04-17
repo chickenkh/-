@@ -43,26 +43,23 @@ https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
 https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9WFh5G/TV11.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|អប្សារា
 https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
-#EXTINF:-1 tvg-logo="https://cambodiaiptvcom.b-cdn.net/wp-content/uploads/2019/12/IPTV--1024x1024.png" group-title="កម្ពុជា|Cambodia", ភាពយន្ដ
-http://broadcast.cambodiaiptv.com:1935/broadcast/smil:live.smil/chunklist_w431404254_b1420000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/N1mCudhbDzw1Jn4GYzrZdA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjUxO2g9MzY2/http://media.zenfs.com/en-US/homerun/variety.com/42a86e26d17e03b99bb64fca9736ce8a" group-title="កម្ពុជា|Cambodia", ឯកសារសត្វ
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="កម្ពុជា|Cambodia",Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="កម្ពុជា|Cambodia",NAT WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="កម្ពុជា|Cambodia",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="កម្ពុជា|Cambodia",History2
-http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m90ad1199a83a15404448&ct=18257&tsum=b50083dae0747d052939a49d69463675
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="កម្ពុជា|Cambodia",History
 http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb8c4fba7447b15991047&ct=18257&tsum=428ba618452a7d8ecaf512c8d2913460
 #EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="កម្ពុជា|Cambodia",Discovery Science
 http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=me4d886ac3d5f14297193&ct=18257&tsum=7afe0f73d068c61c48760774334590c8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="កម្ពុជា|Cambodia",Discovery Asia
 http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m5466b48d39d215068710&ct=18257&tsum=d29d2772a7f29094c1157be1eb15d1f5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="កម្ពុជា|Cambodia", BBC Earth
-https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+
 
 
 
@@ -252,6 +249,20 @@ http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.f
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="MOVIE",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-aBxeL8qqs_g/V1Y94b-28II/AAAAAAAAsxI/bfyCDldmDykXOYNDOroowIPMzO9radldACKgB/s1600/fox%2Baction.PNG" group-title="MOVIE CHANNEL",Fox Action
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",AXN
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",HBO Hits
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578588_fox-crime-lg.png" group-title="MOVIE CHANNEL",Fox Crime
+https://www.livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1546498875_thrill.jpg" group-title="MOVIE CHANNEL",Thrill
+https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 
 
 
