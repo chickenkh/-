@@ -164,8 +164,12 @@ http://00100.co:2086/live/Woody/Woody/90482.ts
 
 
 
-
-
+#EXTINF:-1 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" ,AU: BeIN SPORTS HD 1
+http://104.243.41.74:25461/Ian90912/byrad2457/4465
+#EXTINF:-1 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6591.1491350441.png",AU: beIN SPORTS HD 2
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40907
+#EXTINF:-1 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png",AU: beIN SPORTS HD 3
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40906
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png",Fox Sports News 
 http://bestever.vodiptv.org:83/37898322/77081405/381398
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png",Fox Sports 501
