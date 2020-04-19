@@ -241,6 +241,32 @@ http://00100.co:2086/live/Woody/Woody/92221.ts
 http://00100.co:2086/live/Woody/Woody/92222.ts
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/x1gt2QJn/Bein-Sport-HD3fr.png",BEINSPORTS 3 FR
 http://00100.co:2086/live/Woody/Woody/92223.ts
+#EXTINF:-1 group-title="EUROPE SPORT" ,Sky Sport Bundesliga 1
+http://fr01.spr24.net/17215/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT" ,Sky Sport Bundesliga 2 (ONLY ON MATCHDAY)
+http://fr01.spr24.net/17243/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT",Sky Sport Austria
+http://fr01.spr24.net/10043/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT",DAZN 1 Bar
+http://fr01.spr24.net/966/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT",DAZN 2 Bar
+http://fr01.spr24.net/967/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT",SportDigital
+http://fr01.spr24.net/14112/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1group-title="EUROPE SPORT" ,Sport 1 HD
+http://fr01.spr24.net/21522/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT" ,SPORT 2 HD
+http://fr01.spr24.net/21521/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT",Sport 3 HD
+http://fr01.spr24.net/21565/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT",Sport 4 HD
+http://fr01.spr24.net/21566/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT" ,Sport 5 STARS
+http://fr01.spr24.net/21507/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT" ,Sport 5
+http://fr01.spr24.net/21569/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1 group-title="EUROPE SPORT" ,Sport 5 PLUS
+http://fr01.spr24.net/21531/index.m3u8?token=BQF9PmuRpcxUqR
 
 
 
