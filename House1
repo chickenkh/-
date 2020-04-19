@@ -123,6 +123,12 @@ https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png", SKYNETSPORTS 6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-logo="http://i.imgur.com/xspD7UE.png" group-title="ASIA SPORT",KBS N Sports
+http://121.159.183.222:9981/stream/channelid/1400321503
+#EXTINF:-1 tvg-id="126" tvg-logo="http://i.imgur.com/Su21uj3.png" group-title="ASIA SPORT",MBC SPORTS+
+http://121.159.183.222:9981/stream/channelid/791185376
+#EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" group-title="ASIA SPORT",SPOTV
+http://121.159.183.222:9981/stream/channelid/2065308481
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng.m3u8?enc=unlzV2-jpyqX0JrB7DvA6kdnw&exp=unl1584687255&encp=n3vzCW18lEnxaE3Yr0OROg&expp=unl1584695955
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="ASIA SPORT", Usee Sport 2
