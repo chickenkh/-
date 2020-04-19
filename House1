@@ -64,15 +64,15 @@ http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m5466b48d39d2150687
 
 
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
-https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
-https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
-https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
-https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
-https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-bein-sport-1-9743.jpg",Bein 1
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?CY6m_NEXbRgX6j2coUhb4Q1582823596
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2
