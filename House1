@@ -169,6 +169,33 @@ http://00100.co:2086/live/Woody/Woody/90482.ts
 
 
 
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein1
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14980
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein2
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14982
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein3
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14984
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein4
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14986
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein5
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14988
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein6
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14990
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein7
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14992
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein8
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14994
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein9
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14996
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein10
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14998
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein11
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15000
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Bein12
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15002
+
+
+
 
 #EXTINF:-1 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" ,AU: BeIN SPORTS HD 1
 http://104.243.41.74:25461/Ian90912/byrad2457/4465
@@ -192,6 +219,10 @@ http://bestever.vodiptv.org:83/37898322/77081405/381403
 http://bestever.vodiptv.org:83/37898322/77081405/381404
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://www.pngkit.com/png/full/52-523330_channels-included-in-any-packs-fox-sports-more.png",Fox Sports 507
 http://bestever.vodiptv.org:83/37898322/77081405/381405
+
+
+
+
 
 
 
