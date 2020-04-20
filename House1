@@ -167,34 +167,38 @@ http://00100.co:2086/live/Woody/Woody/90483.ts
 #EXTINF:-1 group-title="SUPERSPORT" tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS12.png",SUPERSPORTS 12
 http://00100.co:2086/live/Woody/Woody/90482.ts
 
-
-
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/YGwbD0Rj",Bein1
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/8CXxYTqs/Be-IN-SPORTS-Global-logo-2017.jpg",Bein Global
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/21926
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14980
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/nXXxpSJB",Bein2
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14982
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/dhyf5bFH",Bein3
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/jSgrSTFb/3.png",Bein HD3
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14984
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/MvyRt540",Bein4
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/c4zmx5Bz/4.png",Bein HD4
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14986
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/5XXYYMvt",Bein5
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/nhkvWFhq/5.png",Bein HD5
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14988
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/HrgRjTFw",Bein6
+#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://i.postimg.cc/zGbrtBjc/6.png",Bein HD6
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14990
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/RWgd99mV",Bein7
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/rpkP1FYW/7.png",Bein HD7
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14992
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/YvvRpZC6",Bein8
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/FHZBxQtB/8.png",Bein HD8
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14994
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/PvqZSvLW",Bein9
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/4y65NzsS/9.png",Bein HD9
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14996
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/mcXTQcsf",Bein10
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/B6stfD76/10.png",Bein HD10
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14998
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/G9JdQSrx",Bein11
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/MZgHzhFN/111.png",Bein HD11
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15000
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/7GwQY9cq",Bein12
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein HD12
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15001
-#EXTINF:-0 group-title="BEIN ARAB" tvg-logo="https://postimg.cc/pmMQHT3H",Bein13
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/g2ng3LDn/13.png",Bein HD13
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/21517
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" ,Bein 1 PH
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27938
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/153QzYsG/Logo-be-IN-SPORTS-MAX.png" ,Bein Max PH
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27937
 
 
 
@@ -285,8 +289,6 @@ http://00100.co:2086/live/Woody/Woody/92223.ts
 http://fr01.spr24.net/17215/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 group-title="EUROPE SPORT" ,Sky Sport Bundesliga 2 (ONLY ON MATCHDAY)
 http://fr01.spr24.net/17243/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT",Sky Sport Austria
-http://fr01.spr24.net/10043/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 group-title="EUROPE SPORT",DAZN 1 Bar
 http://fr01.spr24.net/966/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 group-title="EUROPE SPORT",DAZN 2 Bar
@@ -308,8 +310,8 @@ http://fr01.spr24.net/21569/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 group-title="EUROPE SPORT" ,Sport 5 PLUS
 http://fr01.spr24.net/21531/index.m3u8?token=BQF9PmuRpcxUqR
 
-
-
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="LATIN SPORT",Nbcsn
+http://104.243.41.74:25461/Ian90912/byrad2457/453
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",Sportv HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="LATIN SPORT",Sportv 2 HD
