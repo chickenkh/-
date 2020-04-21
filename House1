@@ -92,21 +92,19 @@ https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
 https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
-https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="ASIA SPORT",TRUE SPORTS HD 2
-https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport3.png" group-title="ASIA SPORT",TRUE SPORTS HD 3
-https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT", TRUE SPORTS HD 4
-http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.gizatokyo.com/wp-content/uploads/2019/01/logo_013.png",TRUE SPORT 2
-https://tv4.chang55.com/live2/tv4ch83.stream/chunks.m3u8
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9c34186a-ebe4-4778-b92e-68addc96987e.png",TRUE SPORT 5
-https://cdn221.cloud-streaming.com/wrapfootball_t2/2sport5_480p/chunks.m3u8?nimblesessionid=2301367&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIwIDM6MTA6MDggUE0maGFzaF92YWx1ZT1GQXRoZlBPVFJPaFVZZFQ3R1RZTkJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NDg2ODI1
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ccb15664-28dd-43da-ba1d-4f5034ab8e1f.png",TRUE SPORT 6
-https://cdn221.cloud-streaming.com/wrapfootball_t2/2sport6_480p/chunks.m3u8?nimblesessionid=2301368&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIwIDM6MTI6MzUgUE0maGFzaF92YWx1ZT0zTjNMY1Q1NGVFdCtFY3RLMGE0RjB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTM1OTA2
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.mgm99win.net/wp-content/uploads/2019/02/True-Sport-7-300x195.jpg",TRUE SPORT 7
-https://tv4.chang55.com/live2/tv4ch86.stream/chunks.m3u8
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/skynetsporthd.png", SKYNETSPORTS HD
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-767.png", SKYNETSPORTS PLUS
@@ -129,9 +127,9 @@ http://121.159.183.222:9981/stream/channelid/1400321503
 http://121.159.183.222:9981/stream/channelid/791185376
 #EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" group-title="ASIA SPORT",SPOTV
 http://121.159.183.222:9981/stream/channelid/2065308481
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="ASIA SPORT", Usee Sport 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH66P79c/1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng.m3u8?enc=unlzV2-jpyqX0JrB7DvA6kdnw&exp=unl1584687255&encp=n3vzCW18lEnxaE3Yr0OROg&expp=unl1584695955
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="ASIA SPORT", Usee Sport 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYzNyF6/2.png" group-title="ASIA SPORT", Usee Sport 2
 https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1787179376_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="ASIA SPORT",Champions TV 1
 https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w449622168_b1344100_sleng.m3u8
