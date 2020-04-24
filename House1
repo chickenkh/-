@@ -52,9 +52,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="កម្ពុជា|Cambodia",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="កម្ពុជា|Cambodia",History2
-https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+http://45.58.140.233:80/WHMCSMAG:WHMCS:15117/sKORTJt9tP/11079
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="កម្ពុជា|Cambodia",History
-http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb8c4fba7447b15991047&ct=18257&tsum=428ba618452a7d8ecaf512c8d2913460
+http://45.58.140.233:80/WHMCSMAG:WHMCS:15117/sKORTJt9tP/1969
 #EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="កម្ពុជា|Cambodia",Discovery Science
 http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=me4d886ac3d5f14297193&ct=18257&tsum=7afe0f73d068c61c48760774334590c8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="កម្ពុជា|Cambodia",Discovery Asia
