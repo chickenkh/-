@@ -73,7 +73,6 @@ https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
 https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
-
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT ASIA 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT ASIA 2
@@ -199,12 +198,26 @@ http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/21517
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27938
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/153QzYsG/Logo-be-IN-SPORTS-MAX.png" ,Bein Max PH
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27937
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" , AU: BeIN SPORTS HD 1
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" , beIN SPORTS HD1 AU
 http://104.243.41.74:25461/Ian90912/byrad2457/4465
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6591.1491350441.png", AU: beIN SPORTS HD 2
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6591.1491350441.png", beIN SPORTS HD2 AU
 http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40907
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png", AU: beIN SPORTS HD 3
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png", beIN SPORTS HD3 AU
 http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40906
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",beIN Sports1 HD TR
+http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32886
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",beIN Sports2 HD TR
+http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32888
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/jSgrSTFb/3.png",beIN Sports3 HD TR
+http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32884
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/c4zmx5Bz/4.png",beIN Sports4 HD TR
+http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32883
+#EXTINF:-1 group-title="BEIN",beIN Sports Max1 HD
+http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32881
+#EXTINF:-1 group-title="BEIN",beIN Sports Max2 HD
+http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32880
+#EXTINF:-1 group-title="BEIN",beIN Sports IZ 1 HD
+http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32878
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
 http://00100.co:2086/live/Woody/Woody/92221.ts
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
@@ -311,6 +324,19 @@ http://fr01.spr24.net/21507/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/21569/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/852v7HF1/5555.png" ,Sport 5 PLUS
 http://fr01.spr24.net/21531/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,UK: Eir Sport 2 SD
+http://45.58.140.233:80/WHMCSMAG:WHMCS:15117/sKORTJt9tP/603
+#EXTINF:-1,UK: EIR SPORTS 1 SD
+http://45.58.140.233:80/WHMCSMAG:WHMCS:15117/sKORTJt9tP/604
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="LATIN SPORT",Nbcsn
 http://104.243.41.74:25461/Ian90912/byrad2457/453
