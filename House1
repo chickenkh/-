@@ -198,6 +198,10 @@ http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/21517
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27938
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/153QzYsG/Logo-be-IN-SPORTS-MAX.png" ,Bein Max PH
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27937
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png",beIN Sports HD CA
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13239
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png",beIN Sports NADA
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/78296
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" , beIN SPORTS HD1 AU
 http://104.243.41.74:25461/Ian90912/byrad2457/4465
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6591.1491350441.png", beIN SPORTS HD2 AU
