@@ -230,26 +230,19 @@ http://00100.co:2086/live/Woody/Woody/92223.ts
 
 
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png",Fox Sports News
-http://104.243.41.74:25461/Ian90912/byrad2457/4475
-#http://bestever.vodiptv.org:83/37898322/77081405/381398
+http://bestever.vodiptv.org:83/37898322/77081405/381398
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png",Fox Sports 501
-http://104.243.41.74:25461/Ian90912/byrad2457/4474
-#http://bestever.vodiptv.org:83/37898322/77081405/381399
+http://bestever.vodiptv.org:83/37898322/77081405/381399
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://i.postimg.cc/LXxgN81g/502.png",Fox Sports 502
-http://104.243.41.74:25461/Ian90912/byrad2457/4473
-#http://bestever.vodiptv.org:83/37898322/77081405/381400
+http://bestever.vodiptv.org:83/37898322/77081405/381400
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6551.1489224386.png",Fox Sports 503
-http://104.243.41.74:25461/Ian90912/byrad2457/4472
-#http://bestever.vodiptv.org:83/37898322/77081405/381401
+http://bestever.vodiptv.org:83/37898322/77081405/381401
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://i.postimg.cc/PqXd5zCY/504.png",Fox Sports 504
-http://104.243.41.74:25461/Ian90912/byrad2457/4471
-#http://bestever.vodiptv.org:83/37898322/77081405/381402
+http://bestever.vodiptv.org:83/37898322/77081405/381402
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://media.info/i/lf/0/1489224687/6552.png",Fox Sports 505
-http://104.243.41.74:25461/Ian90912/byrad2457/4470
-#http://bestever.vodiptv.org:83/37898322/77081405/381403
+http://bestever.vodiptv.org:83/37898322/77081405/381403
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png",Fox Sports 506
-http://104.243.41.74:25461/Ian90912/byrad2457/4469
-#http://bestever.vodiptv.org:83/37898322/77081405/381404
+http://bestever.vodiptv.org:83/37898322/77081405/381404
 #EXTINF:-0 group-title="FOX SPORT AUSTRALIA" tvg-logo="https://www.pngkit.com/png/full/52-523330_channels-included-in-any-packs-fox-sports-more.png",Fox Sports 507
 http://bestever.vodiptv.org:83/37898322/77081405/381405
 
@@ -408,9 +401,9 @@ https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://i2.wp.com/globalriskinsights.com/wp-content/uploads/2016/03/cnn-logo-square.png?ssl=1" group-title="NEWS",CNN
-http://104.243.41.74:25461/Ian90912/byrad2457/425
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://techpoint.africa/wp-content/uploads/2015/06/bbc-world-news.png" group-title="NEWS",BBC World News
-http://104.243.41.74:25461/Ian90912/byrad2457/438
+http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="NEWS",CNA (INTERNATIONAL)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png" group-title="NEWS",Al Jazeera
@@ -427,6 +420,12 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="NEWS",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="NEWS",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="KPOP" tvg-logo="https://imgur.com/UprzmJT.png",KPOP 1
 http://ws.flv.nimo.tv:80/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
