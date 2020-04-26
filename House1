@@ -131,6 +131,8 @@ https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1014607818_b684100_sle
 https://edgejt6.useetv.com/joss/15/champion1/chunklist_w1312234693_b494100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champions TV 2
 https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w1090555272_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="ASIA SPORT",VTV6
+http://220.158.149.14:9999/live/TV00000000000000000084@HHZT;LIVE
 
 
 
