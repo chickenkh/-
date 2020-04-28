@@ -222,8 +222,6 @@ http://tv.iptvstack.net:80/ivanmag/BurKZu42/15722
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/15723
 #EXTINF:-1 group-title="BEIN",beIN Sports Haber
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/17896
-#EXTINF:-1 group-title="BEIN",beIN Sports IZ 1 HD
-http://c2.tvboxgroup.com:8880/hjh14m4730/36131313/32878
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
 http://00100.co:2086/live/Woody/Woody/92221.ts
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
@@ -299,34 +297,6 @@ http://00100.co:2086/live/Woody/Woody/92218.ts
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/xdtDW8wn/RMC-4.png",RMC 4
 http://00100.co:2086/live/Woody/Woody/92219.ts
 
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/W1pLr7Vw/1-bun.png" ,Sky Sport Bundesliga 1
-http://fr01.spr24.net/17215/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/L54Bvh8w/Sky-Sport-Bundesliga-2-HD.png" ,Sky Sport Bundesliga 2
-http://fr01.spr24.net/17243/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/XqyNRkqC/DAZN-Logo-Perform-Group.png", DAZN 1 Bar
-http://fr01.spr24.net/966/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/XqyNRkqC/DAZN-Logo-Perform-Group.png", DAZN 2 Bar
-http://fr01.spr24.net/967/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/ncGKg4D5/SPORT-DIGITAL.jpg", SportDigital
-http://fr01.spr24.net/14112/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/bJDY2fbn/1111.png", Sport 1 HD
-http://fr01.spr24.net/21522/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/W1YPmfsw/22222.png", SPORT 2 HD
-http://fr01.spr24.net/21521/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/Vvf7VmRr/3333.png", Sport 3 HD
-http://fr01.spr24.net/21565/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/SsT8m44z/4444.png", Sport 4 HD
-http://fr01.spr24.net/21566/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/852v7HF1/5555.png", Sport 5 STARS
-http://fr01.spr24.net/21507/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/852v7HF1/5555.png", Sport 5
-http://fr01.spr24.net/21569/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/852v7HF1/5555.png" ,Sport 5 PLUS
-http://fr01.spr24.net/21531/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,UK: Eir Sport 2 SD
-http://45.58.140.233:80/WHMCSMAG:WHMCS:15117/sKORTJt9tP/603
-#EXTINF:-1,UK: EIR SPORTS 1 SD
-http://45.58.140.233:80/WHMCSMAG:WHMCS:15117/sKORTJt9tP/604
 
 
 
