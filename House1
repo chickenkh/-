@@ -368,7 +368,7 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-aBxeL8qqs_g/V1Y94b-28II/AAAAAAAAsxI/bfyCDldmDykXOYNDOroowIPMzO9radldACKgB/s1600/fox%2Baction.PNG" group-title="MOVIE CHANNEL",Fox Action
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",AXN
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO
 https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO2
