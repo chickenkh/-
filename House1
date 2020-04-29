@@ -178,27 +178,27 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/8CXxYTqs/Be-IN-SPORTS-Global-logo-2017.jpg",Bein Global
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/21926
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14980
+http://42.98.109.147:9981/stream/channelid/1880674381
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14982
+http://42.98.109.147:9981/stream/channelid/1218047888
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/jSgrSTFb/3.png",Bein HD3
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14984
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/c4zmx5Bz/4.png",Bein HD4
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14986
+http://42.98.109.147:9981/stream/channelid/371552797
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/nhkvWFhq/5.png",Bein HD5
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14988
+http://42.98.109.147:9981/stream/channelid/1867525775
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zGbrtBjc/6.png",Bein HD6
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14990
+http://42.98.109.147:9981/stream/channelid/169743099
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/rpkP1FYW/7.png",Bein HD7
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14992
+http://42.98.109.147:9981/stream/channelid/1364029608
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/FHZBxQtB/8.png",Bein HD8
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14994
+http://42.98.109.147:9981/stream/channelid/1027178937
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/4y65NzsS/9.png",Bein HD9
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14996
+http://42.98.109.147:9981/stream/channelid/1005820488
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/B6stfD76/10.png",Bein HD10
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14998
+http://42.98.109.147:9981/stream/channelid/151983205
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/MZgHzhFN/111.png",Bein HD11
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15000
+http://42.98.109.147:9981/stream/channelid/42641201
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein HD12
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15001
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/g2ng3LDn/13.png",Bein HD13
@@ -370,7 +370,11 @@ https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",AXN
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO2
+http://42.98.109.147:9981/stream/channelid/1691890187
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO3
+http://42.98.109.147:9981/stream/channelid/1292392431
 #EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m02448379676115579832&ct=18381&tsum=6af8939f3ec6013aa3f614d5231476cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",HBO Hits
