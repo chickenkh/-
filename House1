@@ -83,13 +83,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 http://198.16.106.58:8278/s_1365a3ea_1880/playlist.m3u8?tid=m08891566015815197848&ct=18381&tsum=61cc9942feaba30b7ab0a7552d56f55e
 #https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
-http://47.240.60.73/xaors/mlxy.php?channel=c4d1acb2343b0d257b0b33a5aafe5055
+http://198.16.106.58:8278/s_a1133d50_1928/playlist.m3u8?tid=m04975998805511307485&ct=18381&tsum=b3315022f8a4f0bdc4d1f845581bd8fe
 #https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro3.png",ASTRO SPORTS 3
-http://47.240.60.73/xaors/mlxy.php?channel=5f8971b1c8d3f734fbe0adc7c70ed332
+http://198.16.106.58:8278/s_f0a98bfa_1881/playlist.m3u8?tid=m04302180886113751475&ct=18381&tsum=80406962501d7dba55ae0715afec252b
 #https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
-http://47.240.60.73/xaors/mlxy.php?channel=733bcd8a29fafd0ddccf357ff7e156ad
+http://198.16.106.58:8278/s_6c4db083_1918/playlist.m3u8?tid=m07644713376818317800&ct=18381&tsum=1f883baf9245cdcc4e157b0b98459822
 #https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
@@ -369,7 +369,7 @@ https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
-http://47.240.60.73/xaors/mlxy.php?channel=a6c3f72b41f5688a45ca4d9eec1faaf7
+http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m02448379676115579832&ct=18381&tsum=6af8939f3ec6013aa3f614d5231476cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578588_fox-crime-lg.png" group-title="MOVIE CHANNEL",Fox Crime
