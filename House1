@@ -80,7 +80,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
-http://47.240.60.73/xaors/mlxy.php?channel=61916b478cbb29d6e11e8ecdec858b30
+http://198.16.106.58:8278/s_1365a3ea_1880/playlist.m3u8?tid=m08891566015815197848&ct=18381&tsum=61cc9942feaba30b7ab0a7552d56f55e
 #https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
 http://47.240.60.73/xaors/mlxy.php?channel=c4d1acb2343b0d257b0b33a5aafe5055
