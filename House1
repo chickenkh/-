@@ -66,8 +66,7 @@ http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m064330333140169003
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
-http://198.16.106.58:8278/truepre2_pat/playlist.m3u8?tid=m08104518981218100074&ct=18381&tsum=187c4d42dee67c63eaae01ee2b032b40
-#https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
 https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
@@ -108,10 +107,6 @@ https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.mgm99win.net/wp-content/uploads/2019/02/True-Sport-7-300x195.jpg",TRUE SPORT 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/skynetsporthd.png", SKYNETSPORTS HD
-https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://sport-tv-guide.live/images/tv-station-skynet-sport-767.png", SKYNETSPORTS PLUS
-https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png", SKYNETSPORTS 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png", SKYNETSPORTS 2
@@ -201,22 +196,6 @@ http://42.98.109.147:9981/stream/channelid/151983205
 http://42.98.109.147:9981/stream/channelid/42641201
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein HD12
 http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15001
-#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/g2ng3LDn/13.png",Bein HD13
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/21517
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" ,Bein 1 PH
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27938
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/153QzYsG/Logo-be-IN-SPORTS-MAX.png" ,Bein Max PH
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/27937
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png",beIN Sports HD CA
-http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13239
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png",beIN Sports NADA
-http://bestcostiptv.com:8080/Restr1000con/5bb7441f/78296
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://media.info/i/lf/0/1491349382/6589.png" , beIN SPORTS HD1 AU
-http://104.243.41.74:25461/Ian90912/byrad2457/4465
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6591.1491350441.png", beIN SPORTS HD2 AU
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40907
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png", beIN SPORTS HD3 AU
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40906
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",beIN Sports1 HD TR
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/15719
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",beIN Sports2 HD TR
@@ -225,9 +204,9 @@ http://tv.iptvstack.net:80/ivanmag/BurKZu42/15943
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/6414
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/c4zmx5Bz/4.png",beIN Sports4 HD TR
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/15722
-#EXTINF:-1 group-title="BEIN",beIN Sports Max1 HD
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max1 HD
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/15723
-#EXTINF:-1 group-title="BEIN",beIN Sports Haber
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/750x422/5ba371ec67b0a910604cdb64.jpg",beIN Sports Haber
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/17896
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
 http://00100.co:2086/live/Woody/Woody/92221.ts
@@ -371,10 +350,6 @@ https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO
 https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO2
-http://42.98.109.147:9981/stream/channelid/1691890187
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO3
-http://42.98.109.147:9981/stream/channelid/1292392431
 #EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m02448379676115579832&ct=18381&tsum=6af8939f3ec6013aa3f614d5231476cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",HBO Hits
