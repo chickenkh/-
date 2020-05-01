@@ -171,26 +171,21 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="BEIN"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/13800
-#http://42.98.109.147:9981/stream/channelid/1880674381
+http://42.98.109.147:9981/stream/channelid/1880674381
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/13799
-#http://42.98.109.147:9981/stream/channelid/1218047888
+http://42.98.109.147:9981/stream/channelid/1218047888
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/jSgrSTFb/3.png",Bein HD3
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/13798
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/c4zmx5Bz/4.png",Bein HD4
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/13797
-#http://42.98.109.147:9981/stream/channelid/371552797
+http://42.98.109.147:9981/stream/channelid/371552797
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/nhkvWFhq/5.png",Bein HD5
 http://42.98.109.147:9981/stream/channelid/1867525775
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zGbrtBjc/6.png",Bein HD6
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/13795
-#http://42.98.109.147:9981/stream/channelid/169743099
+http://42.98.109.147:9981/stream/channelid/169743099
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/rpkP1FYW/7.png",Bein HD7
 http://42.98.109.147:9981/stream/channelid/1364029608
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/FHZBxQtB/8.png",Bein HD8
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/13793
-#http://42.98.109.147:9981/stream/channelid/1027178937
+http://42.98.109.147:9981/stream/channelid/1027178937
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/4y65NzsS/9.png",Bein HD9
 http://42.98.109.147:9981/stream/channelid/1005820488
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/B6stfD76/10.png",Bein HD10
