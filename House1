@@ -59,6 +59,8 @@ http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=m09497302857015856145
 http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=m04249336271814570113&ct=18381&tsum=5bfa8f35adac297cdd29453879fe8c23
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="កម្ពុជា|Cambodia",Discovery Asia
 http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m06433033314016900306&ct=18381&tsum=bcd9812d9b79be29278610f87a69e65e
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="កម្ពុជា|Cambodia", NASA TV
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10649
 
 
 
@@ -379,6 +381,8 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",Empire Cinema
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10677
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",Sky Cinema
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/417
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-aBxeL8qqs_g/V1Y94b-28II/AAAAAAAAsxI/bfyCDldmDykXOYNDOroowIPMzO9radldACKgB/s1600/fox%2Baction.PNG" group-title="MOVIE CHANNEL",Fox Action
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",AXN
@@ -421,6 +425,8 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="NEWS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rt.png" group-title="NEWS",Sky News
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/539
 
 
 
