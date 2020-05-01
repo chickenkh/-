@@ -215,9 +215,9 @@ http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/30992
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
 http://00100.co:2086/live/Woody/Woody/92221.ts
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
-http://00100.co:2086/live/Woody/Woody/92222.ts
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/347
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/x1gt2QJn/Bein-Sport-HD3fr.png",BEINSPORTS 3 FR
-http://00100.co:2086/live/Woody/Woody/92223.ts
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/346
 
 
 
@@ -264,6 +264,8 @@ http://myott.tv/stream/D944FPT6C4U/234.m3u8
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/xdtDW8wn/RMC-4.png",Sky Sport2 Germany
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/540
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 1
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/482
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 2
@@ -274,20 +276,30 @@ http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/484
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/485
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 5
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/486
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",Q Sport1
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/213
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/11/sky-premierleague.png",SKY SPORTS PREMIER LEAGUE
 http://bestever.vodiptv.org:83/37898322/77081405/382174
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",SKY SPORTS FOOTBALL
-http://bestever.vodiptv.org:83/37898322/77081405/382176
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/12663
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/12/sky-mainevent.png",SKY SPORTS MAIN EVENT
 http://bestever.vodiptv.org:83/37898322/77081405/366652
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://nonleague.pitchero.com/wp-content/uploads/2015/08/1440583056_original.jpg",BT SPORTS 1
-http://bestever.vodiptv.org:83/37898322/77081405/309255
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/374
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://www.pngkey.com/png/detail/967-9676257_bt-sport-2-logo.png",BT SPORTS 2
-http://bestever.vodiptv.org:83/37898322/77081405/382158
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/375
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5712.1478917765.png",BT SPORTS 3
 http://bestever.vodiptv.org:83/37898322/77081405/309256
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/01/bt-espn.png",BT SPORTS ESPN
-http://bestever.vodiptv.org:83/37898322/77081405/262998
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/587
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",TRT Spor
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/371
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",ASpor
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/373
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",ZVoetball
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/896
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png", ZSelect
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/957
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",RMC 1
 http://00100.co:2086/live/Woody/Woody/92216.ts
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/j520KKTN/RMC-2.png",RMC 2
@@ -309,6 +321,10 @@ http://00100.co:2086/live/Woody/Woody/92219.ts
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="LATIN SPORT",NBCSN
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/7685
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="LATIN SPORT",Fox Soccer Plus
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10670
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="LATIN SPORT",Fox Sport US
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10650
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",Sportv HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="LATIN SPORT",Sportv 2 HD
@@ -329,6 +345,8 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2103
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2107
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="LATIN SPORT",Band Sports HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="LATIN SPORT",Fox Derpotes
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10671
 
 
 
@@ -358,6 +376,9 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",Empire Cinema
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10677
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-aBxeL8qqs_g/V1Y94b-28II/AAAAAAAAsxI/bfyCDldmDykXOYNDOroowIPMzO9radldACKgB/s1600/fox%2Baction.PNG" group-title="MOVIE CHANNEL",Fox Action
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",AXN
