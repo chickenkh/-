@@ -264,6 +264,16 @@ http://myott.tv/stream/D944FPT6C4U/234.m3u8
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 1
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/482
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 2
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/483
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 3
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/484
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 4
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/485
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 5
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/486
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/11/sky-premierleague.png",SKY SPORTS PREMIER LEAGUE
 http://bestever.vodiptv.org:83/37898322/77081405/382174
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",SKY SPORTS FOOTBALL
