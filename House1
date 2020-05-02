@@ -45,22 +45,7 @@ https://1363455353.rsc.cdn77.org/LS-50041-SIN-12/tracks-v1a1/mono.m3u8
 https://1363455353.rsc.cdn77.org/LS-50041-SIN-13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="កម្ពុជា|Cambodia",Animal Planet
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/4300
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="កម្ពុជា|Cambodia",NAT WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="កម្ពុជា|Cambodia",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="កម្ពុជា|Cambodia",History2
-http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m01820354106616157285&ct=18381&tsum=3f567f190ee94993f2263265fb3a1ca7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="កម្ពុជា|Cambodia",History
-http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=m09497302857015856145&ct=18381&tsum=454f32a8a1d6f0811e119b648c011876
-#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="កម្ពុជា|Cambodia",Discovery Science
-http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=m04249336271814570113&ct=18381&tsum=5bfa8f35adac297cdd29453879fe8c23
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="កម្ពុជា|Cambodia",Discovery Asia
-http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m06433033314016900306&ct=18381&tsum=bcd9812d9b79be29278610f87a69e65e
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="កម្ពុជា|Cambodia", NASA TV
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10649
+
 
 
 
@@ -208,11 +193,11 @@ http://tv.iptvstack.net:80/ivanmag/BurKZu42/15722
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/15723
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/750x422/5ba371ec67b0a910604cdb64.jpg",beIN Sports Haber
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/17896
-#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein Sport US
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX.jpg",Bein Sport US
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10696
-#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein Sport N
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg",Bein Sport N
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/30738
-#EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein Sport Canada
+#EXTINF:-0 group-title="BEIN" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",Bein Sport Canada
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/30992
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
 http://00100.co:2086/live/Woody/Woody/92221.ts
@@ -266,19 +251,25 @@ http://myott.tv/stream/D944FPT6C4U/234.m3u8
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/xdtDW8wn/RMC-4.png",Sky Sport2 Germany
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-news-vector-logo.png" group-title="EUROPE SPORT",Sky Sport News
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/539
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.thesportsdb.com/images/media/logo/qwsppt1433965260.png",Sky Sport2 Germany
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/540
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 1
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/wMswNQh9/800px-Sky-Sport-Bundesliga-2-HD-Logo-2016.png",Sky Bundesliga2 Germany
+
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/DwtC6sY0/1.png",Fox Sport NL 1
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/482
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 2
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/QMfFskGx/2.png",Fox Sport NL 2
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/483
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 3
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgv3qnLy/3.png",Fox Sport NL 3
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/484
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 4
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/90bF2ZnY/4.png",Fox Sport NL 4
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/485
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Fox Sport NL 5
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/hvZWMrY6/5.png",Fox Sport NL 5
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/486
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",Q Sport1
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/jqDbSVJr/6.png",Fox Sport NL 6
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/1144
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/Kv8HQtxr/Sport1.jpg",Q Sport1
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/213
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/11/sky-premierleague.png",SKY SPORTS PREMIER LEAGUE
 http://bestever.vodiptv.org:83/37898322/77081405/382174
@@ -294,13 +285,13 @@ http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/375
 http://bestever.vodiptv.org:83/37898322/77081405/309256
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/01/bt-espn.png",BT SPORTS ESPN
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/587
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",TRT Spor
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/k4Zc7Y27/TRT-Spor-kurumsal-logo.png",TRT Spor
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/371
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",ASpor
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/J05GpGVS/aspor-mobil-uygulamasi-yenilendi-1528363896108.jpg",ASpor
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/373
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",ZVoetball
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",ZVoetball
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/896
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png", ZSelect
+#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/6TsSHpwJ/Logo-Ziggo-Sport-Channel-Select-RGB.png", ZSelect
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/957
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/tgXGSWmB/RMC-1.png",RMC 1
 http://00100.co:2086/live/Woody/Woody/92216.ts
@@ -323,9 +314,9 @@ http://00100.co:2086/live/Woody/Woody/92219.ts
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="LATIN SPORT",NBCSN
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/7685
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="LATIN SPORT",Fox Soccer Plus
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="https://i.postimg.cc/hG6tSV19/FSPlus-New2011.jpg" group-title="LATIN SPORT",Fox Soccer Plus
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10670
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="LATIN SPORT",Fox Sport US
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="https://i.postimg.cc/yNPytYh4/Fox-sports-provide-ISL-Final-live-in-USA-Australia-country.png" group-title="LATIN SPORT",Fox Sport US
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10650
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",Sportv HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
@@ -347,7 +338,7 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2103
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2107
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="LATIN SPORT",Band Sports HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="LATIN SPORT",Fox Derpotes
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="https://i.postimg.cc/QdBMv6pX/297-2976406-fox-deportes-fox-sports-australia-logo.png" group-title="LATIN SPORT",Fox Derpotes
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10671
 
 
@@ -400,6 +391,23 @@ https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="Documentary",Animal Planet
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/4300
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="Documentary",NAT WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="Documentary",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Documentary",History2
+http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m01820354106616157285&ct=18381&tsum=3f567f190ee94993f2263265fb3a1ca7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary",History
+http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=m09497302857015856145&ct=18381&tsum=454f32a8a1d6f0811e119b648c011876
+#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="Documentary",Discovery Science
+http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=m04249336271814570113&ct=18381&tsum=5bfa8f35adac297cdd29453879fe8c23
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="Documentary",Discovery Asia
+http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m06433033314016900306&ct=18381&tsum=bcd9812d9b79be29278610f87a69e65e
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary", NASA TV
+http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10649
+
 
 
 
@@ -425,8 +433,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="NEWS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rt.png" group-title="NEWS",Sky News
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/539
+
 
 
 
