@@ -194,7 +194,7 @@ http://tv.iptvstack.net:80/ivanmag/BurKZu42/15723
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/750x422/5ba371ec67b0a910604cdb64.jpg",beIN Sports Haber
 http://tv.iptvstack.net:80/ivanmag/BurKZu42/17896
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX.jpg",Bein Sport US
-http://104.218.60.217:83/forty1234/forty4321/268809
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31160
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg",Bein Sport N
 http://iptvactivador.online:25461/xtreamtv23/xtreamtv23/459
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",Bein Sport Canada
@@ -272,17 +272,17 @@ http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/1144
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/Kv8HQtxr/Sport1.jpg",Q Sport1
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/213
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/11/sky-premierleague.png",SKY SPORTS PREMIER LEAGUE
-http://bestever.vodiptv.org:83/37898322/77081405/382174
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31150
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",SKY SPORTS FOOTBALL
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/12663
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31145
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/12/sky-mainevent.png",SKY SPORTS MAIN EVENT
-http://bestever.vodiptv.org:83/37898322/77081405/366652
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31146
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://nonleague.pitchero.com/wp-content/uploads/2015/08/1440583056_original.jpg",BT SPORTS 1
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/374
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31157
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://www.pngkey.com/png/detail/967-9676257_bt-sport-2-logo.png",BT SPORTS 2
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/375
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31156
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5712.1478917765.png",BT SPORTS 3
-http://bestever.vodiptv.org:83/37898322/77081405/309256
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31155
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/01/bt-espn.png",BT SPORTS ESPN
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/587
 
@@ -305,6 +305,12 @@ http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31168
 http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31218
 #EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31217
+#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png",TSN3
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31197
+#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png",TSN4
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31196
+#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png",TSN5
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31195
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",Sportv HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="LATIN SPORT",Sportv 2 HD
@@ -329,8 +335,8 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1200px-WWE_Network_logo.svg.png" group-title="WWE",WWE
+http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31209
 
 
 
