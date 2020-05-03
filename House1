@@ -328,6 +328,8 @@ http://iptvactivador.online:25461/xtreamtv23/xtreamtv23/1645
 
 #EXTINF:-1 tvg-id="" tvg-name="WWWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png" group-title="WWE",WWWE
 http://iptvactivador.online:25461/xtreamtv23/xtreamtv23/4306
+#EXTINF:-1 tvg-id="" tvg-name="MMA" tvg-logo="" group-title="WWE",MMA
+http://iptvactivador.online:25461/xtreamtv23/xtreamtv23/8089
 
 
 
@@ -398,7 +400,7 @@ http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10649
 
 
 #EXTINF:-0 tvg-logo="https://i2.wp.com/globalriskinsights.com/wp-content/uploads/2016/03/cnn-logo-square.png?ssl=1" group-title="NEWS",CNN
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10749
+http://iptvactivador.online:25461/xtreamtv23/xtreamtv23/8075
 #EXTINF:-0 tvg-logo="https://techpoint.africa/wp-content/uploads/2015/06/bbc-world-news.png" group-title="NEWS",BBC World News
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="NEWS",CNA (INTERNATIONAL)
