@@ -112,6 +112,10 @@ http://121.159.183.222:9981/stream/channelid/1400321503
 http://121.159.183.222:9981/stream/channelid/791185376
 #EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" group-title="ASIA SPORT",SPOTV
 http://121.159.183.222:9981/stream/channelid/2065308481
+#EXTINF:-1 tvg-id="186" tvg-logo="http://i.imgur.com/GNicmGY.png" group-title="ASIA SPORT",SPOTV2
+http://222.234.50.24:9981/stream/channelid/642446361
+#EXTINF:-1 tvg-id="169" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="ASIA SPORT",SBS Sports
+http://211.245.55.198:1024/m2u/239.192.67.130:49220
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH66P79c/1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1949459549_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYzNyF6/2.png" group-title="ASIA SPORT", Usee Sport 2
