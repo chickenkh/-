@@ -335,13 +335,26 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2103
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2107
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="LATIN SPORT",Band Sports HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="LATIN SPORT",Espn Deportes
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31238
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 1 HD
+http://eyplay.io:80/X6eXss/Ed4Tj1/358
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 2 HD
+http://eyplay.io:80/X6eXss/Ed4Tj1/340
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 3 HD
+http://eyplay.io:80/X6eXss/Ed4Tj1/343
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 4 HD
+http://eyplay.io:80/X6eXss/Ed4Tj1/346
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 5 HD
+http://eyplay.io:80/X6eXss/Ed4Tj1/349
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 6 HD
+http://eyplay.io:80/X6eXss/Ed4Tj1/352
+#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 7 HD
+http://eyplay.io:80/X6eXss/Ed4Tj1/355
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1200px-WWE_Network_logo.svg.png" group-title="WWE",WWE
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31209
+
+
+
 
 
 
