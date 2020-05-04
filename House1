@@ -273,8 +273,6 @@ http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/485
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/486
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/jqDbSVJr/6.png",Fox Sport NL 6
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/1144
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/Kv8HQtxr/Sport1.jpg",Q Sport1
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/213
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/11/sky-premierleague.png",SKY SPORTS PREMIER LEAGUE
 http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31150
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",SKY SPORTS FOOTBALL
@@ -301,20 +299,7 @@ http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/587
 
 
 
-#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="LATIN SPORT",NBCSN
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31212
-#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://hd-report.com/wp-content/uploads/2013/02/fox-soccer-plus-logo.jpg",Fox Soccer Plus
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31168
-#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31218
-#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31217
-#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png",TSN3
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31197
-#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png",TSN4
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31196
-#EXTINF:-1 group-title="LATIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png",TSN5
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31195
+
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",Sportv HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="LATIN SPORT",Sportv 2 HD
