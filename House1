@@ -117,13 +117,13 @@ http://222.234.50.24:9981/stream/channelid/642446361
 #EXTINF:-1 tvg-id="169" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="ASIA SPORT",SBS Sports
 http://211.245.55.198:1024/m2u/239.192.67.130:49220
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH66P79c/1.png" group-title="ASIA SPORT", Usee Sport 1
-https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1949459549_b1344100_sleng_.m3u8
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYzNyF6/2.png" group-title="ASIA SPORT", Usee Sport 2
-https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1014607818_b684100_sleng_.m3u8
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="ASIA SPORT",Champions TV 1
-https://edgejt6.useetv.com/joss/15/champion1/chunklist_w1312234693_b494100_sleng_.m3u8
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_54765.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champions TV 2
-https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w1090555272_b684100_sleng_.m3u8
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1199101916_b1344100_sleng_94615.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="ASIA SPORT",VTV6
 http://220.158.149.14:9999/live/TV00000000000000000084@HHZT;LIVE
 
