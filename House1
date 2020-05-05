@@ -320,20 +320,6 @@ http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2103
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2107
 #EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="LATIN SPORT",Band Sports HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 1 HD
-http://eyplay.io:80/X6eXss/Ed4Tj1/358
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 2 HD
-http://eyplay.io:80/X6eXss/Ed4Tj1/340
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 3 HD
-http://eyplay.io:80/X6eXss/Ed4Tj1/343
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 4 HD
-http://eyplay.io:80/X6eXss/Ed4Tj1/346
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 5 HD
-http://eyplay.io:80/X6eXss/Ed4Tj1/349
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 6 HD
-http://eyplay.io:80/X6eXss/Ed4Tj1/352
-#EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="LATIN SPORT",Premiere 7 HD
-http://eyplay.io:80/X6eXss/Ed4Tj1/355
 
 
 
@@ -374,9 +360,9 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-aBxeL8qqs_g/V1Y94b-28II/AAAAAAAAsxI/bfyCDldmDykXOYNDOroowIPMzO9radldACKgB/s1600/fox%2Baction.PNG" group-title="MOVIE CHANNEL",Fox Action
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",AXN
-https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
+http://mantul.biz.id:8888/live/omzul/xreqccXrty/199.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO
-http://coklat.cricket:8888/saskia/saskia/4828
+http://mantul.biz.id:8888/live/omzul/xreqccXrty/252.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m02448379676115579832&ct=18381&tsum=6af8939f3ec6013aa3f614d5231476cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",HBO Hits
@@ -385,22 +371,7 @@ https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1546498875_thrill.jpg" group-title="MOVIE CHANNEL",Thrill
 https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie1
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31172
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie2
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31177
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie3
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31179
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie4
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31180
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie5
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31182
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie6
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31184
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie7
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31185
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/4/17/4/imgbin-movie-logo-KgwGhgz1EHCssWgBGqfs9YXjA.jpg" group-title="MOVIE CHANNEL",Movie8
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31186
+
 
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="DOCUMENTARY",Animal Planet
