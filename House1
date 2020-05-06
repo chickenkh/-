@@ -66,6 +66,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT 1 HK
+http://xiaoyu.speedws.com/sat/tv731/playlist.m3u8
+#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT 2 HK
+http://xiaoyu.speedws.com/sat/tv741/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT 3 HK
 http://198.16.106.58:8278/foxsport3hd_twn/playlist.m3u8?tid=m02656539723116898276&ct=18381&tsum=63da3fcd761896c0077c5f07ad04a2a1
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
@@ -168,9 +172,9 @@ http://00100.co:2086/live/Woody/Woody/90482.ts
 
 
 #EXTINF:-1 group-title="BEIN"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-bein-sport-1-9743.jpg",Bein 1 Asia
-https://cdn237.cloud-streaming.com/freeballsod_c1/beinsport1_480p/chunks.m3u8?nimblesessionid=797764&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgMzowODoyOCBBTSZoYXNoX3ZhbHVlPUErRU9vSDNNOVovTkx0ay85eVlsUVE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05OTM4MDI=
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="BEIN"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
-https://cdn237.cloud-streaming.com/freeballsod_c1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=797767&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgMzoxMDo0NSBBTSZoYXNoX3ZhbHVlPTFiVmV1Ui95a3dCUlkzVmNHU2ZVZFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yOTg1NDU=
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
 http://42.98.109.147:9981/stream/channelid/1880674381
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
