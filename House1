@@ -269,12 +269,6 @@ http://myott.tv/stream/D944FPT6C4U/234.m3u8
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-news-vector-logo.png" group-title="EUROPE SPORT",Sky Sport News
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/539
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.thesportsdb.com/images/media/logo/qwsppt1433965260.png",Sky Sport2 Germany
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/540
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/wMswNQh9/800px-Sky-Sport-Bundesliga-2-HD-Logo-2016.png",Sky Bundesliga2 Germany
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/1344
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/DwtC6sY0/1.png",Fox Sport NL 1
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/482
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://i.postimg.cc/QMfFskGx/2.png",Fox Sport NL 2
@@ -301,6 +295,16 @@ http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31156
 http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31155
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/01/bt-espn.png",BT SPORTS ESPN
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/587
+#EXTINF:-1 group-title="EUROPE SPORT",Sport1
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6836
+#EXTINF:-1 group-title="EUROPE SPORT",Sport2
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6837
+#EXTINF:-1 group-title="EUROPE SPORT",DIGI Sport 1
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6825
+#EXTINF:-1 group-title="EUROPE SPORT",DIGI Sport 2
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6824
+#EXTINF:-1 group-title="EUROPE SPORT",DIGI Sport 3
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6821
 
 
 
