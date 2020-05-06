@@ -130,7 +130,7 @@ https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1199101916_b1344100_sleng_94615.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN1" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SPORT",SONY TEN1 HD
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN2" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SOORT",SONY TEN2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN2" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SPORT",SONY TEN2 HD
 https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN3" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SPORT",SONY TEN3 HD
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
@@ -214,11 +214,11 @@ http://iptvactivador.online:25461/xtreamtv23/xtreamtv23/459
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",Bein Sport Canada
 http://104.218.60.217:83/forty1234/forty4321/369165
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/XvJxNPdF/Bein-Sport-HD1fr.png",BEINSPORTS 1 FR
-http://00100.co:2086/live/Woody/Woody/92221.ts
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42187.m3u8
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/Fs5PbDX5/Bein-Sport-HD2fr.png",BEINSPORTS 2 FR
-http://yourdnshere.xyz:83/Kericage/6824106935/376376
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42186.m3u8
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.postimg.cc/x1gt2QJn/Bein-Sport-HD3fr.png",BEINSPORTS 3 FR
-http://yourdnshere.xyz:83/Kericage/6824106935/376378
+http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/42185.m3u8
 
 
 
@@ -453,7 +453,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/8761bb82-f902-4372-8b9f-34b019d36fb7.png",Thairath TV HD
 http://live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/c2ec6c93-8b27-4bac-bca9-cfbc0a16c27d.png",Nation TV
-http://160.119.77.50/iptv/sd-nation.stream/playlist.m3u8
+http://27.254.130.64/live01/ch8.m3u8?p=st
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",CH8
 http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9fa53820-435c-4aec-a6d3-e18154d68f72.png",ONE HD
@@ -461,21 +461,19 @@ https://1363455353.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="THAI" tvg-logo="https://images.ufoiptv.com/channels/sd-gmmchannel.jpg",GMM25
 http://160.119.77.50/iptv/sd-gmmchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ba2827f6-d8bf-438c-b010-0c44e2183b4d.png",Amarin TV HD
-http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
+http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/156ffa09-9399-4a2f-9aef-0ab92c7d934c.png",PPTV HD
-http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/02e498b3-274d-4097-909f-6cc85a7a96c3.png",New18 TV
-http://160.119.77.50/iptv/sd-new.stream/playlist.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/696dff3b-93e3-404d-9504-eb7da45da05d.png",Workpoint
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/56ce4866-ab50-4c33-acf5-2ec2974b63d3.png",Mono29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png",TNN2
-http://160.119.77.50/iptv/sd-tnn2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/4c176ad8-beb5-4e46-ac2f-9d18304e9841.jpg",True4U
-http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg" group-title="THAI",Voice TV
-https://1363455353.rsc.cdn77.org/LS-50041-SIN-24/tracks-v1a1/mono.m3u8
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
 
 
