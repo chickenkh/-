@@ -94,6 +94,8 @@ https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.mgm99win.net/wp-content/uploads/2019/02/True-Sport-7-300x195.jpg",TRUE SPORT 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/skysport.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SPORT",SKYNETSPORT HD
+http://42.98.239.149:9981/stream/channelid/472177379
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png", SKYNETSPORTS 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png", SKYNETSPORTS 2
@@ -107,15 +109,17 @@ https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png", SKYNETSPORTS 6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 #EXTINF:-1 tvg-id="107" tvg-logo="http://i.imgur.com/xspD7UE.png" group-title="ASIA SPORT",KBS N Sports
-http://121.159.183.222:9981/stream/channelid/1400321503
+http://211.245.55.198:1024/m2u/239.192.67.132:49220
 #EXTINF:-1 tvg-id="126" tvg-logo="http://i.imgur.com/Su21uj3.png" group-title="ASIA SPORT",MBC SPORTS+
-http://121.159.183.222:9981/stream/channelid/791185376
+http://211.245.55.198:1024/m2u/239.192.67.131:49220
 #EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" group-title="ASIA SPORT",SPOTV
 http://121.159.183.222:9981/stream/channelid/2065308481
 #EXTINF:-1 tvg-id="186" tvg-logo="http://i.imgur.com/GNicmGY.png" group-title="ASIA SPORT",SPOTV2
-http://222.234.50.24:9981/stream/channelid/642446361
+http://110.15.137.114:9981/stream/channelid/1137047566
 #EXTINF:-1 tvg-id="169" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="ASIA SPORT",SBS Sports
 http://211.245.55.198:1024/m2u/239.192.67.130:49220
+#EXTINF:-1 tvg-id="178" tvg-logo="http://lilactv.com:8080/BadJin/channelIcon/QHV9bdA.png" group-title="ASIA SPORT",SkySports
+http://110.15.137.114:9981/stream/channelid/1332666726
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH66P79c/1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYzNyF6/2.png" group-title="ASIA SPORT", Usee Sport 2
@@ -124,6 +128,12 @@ https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sle
 https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_54765.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champions TV 2
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1199101916_b1344100_sleng_94615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN1" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten1.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SPORT",SONY TEN1 HD
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN2" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten2.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SOORT",SONY TEN2 HD
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN3" tvg-language="English" tvg-logo="https://sppotato.github.io/icon/sonyten3.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="ASIA SPORT",SONY TEN3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="ASIA SPORT",VTV6
 http://220.158.149.14:9999/live/TV00000000000000000084@HHZT;LIVE
 
@@ -439,7 +449,7 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/df0381b5-cfb4-46b4-a242-ae8c63419231.png",NBT
 http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ed54972b-5902-48a9-b1b8-9061c2035cd5.png",Thai PBS
-http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/8761bb82-f902-4372-8b9f-34b019d36fb7.png",Thairath TV HD
 http://live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/c2ec6c93-8b27-4bac-bca9-cfbc0a16c27d.png",Nation TV
