@@ -168,9 +168,9 @@ http://00100.co:2086/live/Woody/Woody/90482.ts
 
 
 #EXTINF:-1 group-title="BEIN"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-bein-sport-1-9743.jpg",Bein 1 Asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+https://cdn237.cloud-streaming.com/freeballsod_c1/beinsport1_480p/chunks.m3u8?nimblesessionid=797764&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgMzowODoyOCBBTSZoYXNoX3ZhbHVlPUErRU9vSDNNOVovTkx0ay85eVlsUVE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05OTM4MDI=
 #EXTINF:-1 group-title="BEIN"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+https://cdn237.cloud-streaming.com/freeballsod_c1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=797767&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgMzoxMDo0NSBBTSZoYXNoX3ZhbHVlPTFiVmV1Ui95a3dCUlkzVmNHU2ZVZFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yOTg1NDU=
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
 http://42.98.109.147:9981/stream/channelid/1880674381
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
