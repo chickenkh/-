@@ -176,7 +176,7 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="BEIN"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
-http://42.98.109.147:9981/stream/channelid/1880674381
+http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14980
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
 http://42.98.109.147:9981/stream/channelid/1218047888
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/jSgrSTFb/3.png",Bein HD3
@@ -295,16 +295,7 @@ http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31156
 http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31155
 #EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/01/bt-espn.png",BT SPORTS ESPN
 http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/587
-#EXTINF:-1 group-title="EUROPE SPORT",Sport1
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6836
-#EXTINF:-1 group-title="EUROPE SPORT",Sport2
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6837
-#EXTINF:-1 group-title="EUROPE SPORT",DIGI Sport 1
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6825
-#EXTINF:-1 group-title="EUROPE SPORT",DIGI Sport 2
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6824
-#EXTINF:-1 group-title="EUROPE SPORT",DIGI Sport 3
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6821
+
 
 
 
