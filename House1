@@ -385,14 +385,16 @@ https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="DOCUMENTARY",Animal Planet
 http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31227
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="DOCUMENTARY",Animal Planet Go
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="DOCUMENTARY",NAT WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="DOCUMENTARY",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="DOCUMENTARY",History2
-http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m01820354106616157285&ct=18381&tsum=3f567f190ee94993f2263265fb3a1ca7
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTARY",History
-http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=m09497302857015856145&ct=18381&tsum=454f32a8a1d6f0811e119b648c011876
+https://cdnbdsa1.useetv.com/joss/15/history/chunklist_w451542495_b1344100_sleng_177560.m3u8?enc=oCZ0triif_wAfn3aoXufFA&exp=1584800485
 #EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="DOCUMENTARY",Discovery Science
 http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=m04249336271814570113&ct=18381&tsum=5bfa8f35adac297cdd29453879fe8c23
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="DOCUMENTARY",Discovery Asia
