@@ -43,7 +43,7 @@ https://1661779960.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
 https://1661779960.rsc.cdn77.org/LS-50041-SIN-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9WFh5G/TV11.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|អប្សារា
 https://1661779960.rsc.cdn77.org/LS-50041-SIN-13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9WFh5G/TV11.png" group-title="កម្ពុជា|Cambodia",OneTV E School
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZKNM206j/1589025001635.png" group-title="កម្ពុជា|Cambodia",OneTV E School
 http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6868?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
@@ -68,13 +68,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT 1 HK
-http://xiaoyu.speedws.com/sat/tv731/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT 2 HK
-http://xiaoyu.speedws.com/sat/tv741/playlist.m3u8
-#EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT 3 HK
-http://198.16.106.58:8278/foxsport3hd_twn/playlist.m3u8?tid=m02656539723116898276&ct=18381&tsum=63da3fcd761896c0077c5f07ad04a2a1
-#EXTINF:-1 group-title="ASIA SPORT",Astro Arena HD
+#EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://sarawakbloggers.net/wp-content/uploads/2013/10/Astro-Arena-logo.jpg" ,Astro Arena HD
 http://coklat.cricket:8888/finance/finance/4236
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
 http://198.16.106.58:8278/s_1365a3ea_1880/playlist.m3u8?tid=m08891566015815197848&ct=18381&tsum=61cc9942feaba30b7ab0a7552d56f55e
@@ -125,11 +119,11 @@ http://121.159.183.222:9981/stream/channelid/2065308481
 #EXTINF:-1 tvg-id="185" tvg-logo="http://lilactv.com:8080/BadJin/channelIcon/81Fshnn.png" group-title="ASIA SPORT",SPOTV+
 http://121.159.183.222:9981/stream/channelid/453911020
 #EXTINF:-1 tvg-id="186" tvg-logo="http://i.imgur.com/GNicmGY.png" group-title="ASIA SPORT",SPOTV2
-http://121.159.183.222:9981/stream/channelid/2073395174
+http://219.250.105.94:9981/stream/channelid/477406313
 #EXTINF:-1 tvg-id="169" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="ASIA SPORT",SBS Sports
 http://211.245.55.198:1024/m2u/239.192.67.130:49220
 #EXTINF:-1 tvg-id="178" tvg-logo="http://lilactv.com:8080/BadJin/channelIcon/QHV9bdA.png" group-title="ASIA SPORT",SkySports
-http://110.15.137.114:9981/stream/channelid/1332666726
+http://219.250.105.94:9981/stream/channelid/240797212
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH66P79c/1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYzNyF6/2.png" group-title="ASIA SPORT", Usee Sport 2
@@ -181,7 +175,7 @@ http://00100.co:2086/live/Woody/Woody/90482.ts
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="BEIN"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="BEIN",BeIN Max HD Malaysia
+#EXTINF:-1 group-title="BEIN"tvg-logo="https://www.mewatch.sg/image/11849134/16x9/947/533/e29f307c2abcae654f235d44004882bd/Uj/bein-sports-max.png" ,BeIN Max HD Malaysia
 http://coklat.cricket:8888/finance/finance/4272
 #EXTINF:-0 group-title="BEIN" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
 http://tv.estreams.iptv.uno:80/Nevzathaskuka/xMHhCK73/14980
