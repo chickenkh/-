@@ -53,15 +53,15 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+https://tv4.chang55.com:446/live2/tv4ch10.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
-https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
+https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
-https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
+https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
-https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT ASIA 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT ASIA 2
