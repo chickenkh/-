@@ -400,7 +400,7 @@ http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ed54972b-5902-48a9-b1b8-9061c2035cd5.png",Thai PBS
 https://www.livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/8761bb82-f902-4372-8b9f-34b019d36fb7.png",Thairath TV HD
-http://live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8
+https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/c2ec6c93-8b27-4bac-bca9-cfbc0a16c27d.png",Nation TV
 http://27.254.130.64/live01/ch8.m3u8?p=st
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",CH8
@@ -412,7 +412,7 @@ https://www.livedoomovies.com/02_GMM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ba2827f6-d8bf-438c-b010-0c44e2183b4d.png",Amarin TV HD
 https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/156ffa09-9399-4a2f-9aef-0ab92c7d934c.png",PPTV HD
-http://206.189.150.220:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
+http://183.182.100.184/live/pptvthai/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/02e498b3-274d-4097-909f-6cc85a7a96c3.png",New18 TV
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/696dff3b-93e3-404d-9504-eb7da45da05d.png",Workpoint
