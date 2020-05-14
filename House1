@@ -313,23 +313,23 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-aBxeL8qqs_g/V1Y94b-28II/AAAAAAAAsxI/bfyCDldmDykXOYNDOroowIPMzO9radldACKgB/s1600/fox%2Baction.PNG" group-title="MOVIE CHANNEL",Fox Action
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",Fox Movie
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox%20Movies.png" group-title="MOVIE CHANNEL",Fox Movie
 https://tv4.chang55.com:446/live2/tv4ch26.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL",AXN
 http://udpxyfpt.hopto.org:1230/udp/225.1.4.9:30120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="MOVIE CHANNEL",HBO
 https://tv4.chang55.com:446/live2/tv4ch25.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL", Red By HBO
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="MOVIE CHANNEL", Red By HBO
 https://tv4.chang55.com:446/live2/tv4ch47.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",HBO Hits
 https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE CHANNEL",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIE CHANNEL",HBO Family
 https://tv4.chang55.com:446/live2/tv4ch50.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578588_fox-crime-lg.png" group-title="MOVIE CHANNEL",Fox Crime
 https://www.livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1546498875_thrill.jpg" group-title="MOVIE CHANNEL",Thrill
 https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-AEwEfM5aE74/VNUX6PqWmxI/AAAAAAAAARw/oHSbKPiLs3k/s1600/axntv.png" group-title="MOVIE CHANNEL", Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE CHANNEL", Cinemax
 https://tv4.chang55.com:446/live2/tv4ch32.stream/chunks.m3u8
 
 
