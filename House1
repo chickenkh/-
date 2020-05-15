@@ -110,6 +110,8 @@ https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ASIA SPORT",广东体育
 http://198.16.106.58:8278/guangdongsport/playlist.m3u8?tid=MDCD6708999867089998&ct=18393&tsum=d9b894ccda87199ee52e4be3c332437c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ASIA SPORT",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="107" tvg-logo="http://i.imgur.com/xspD7UE.png" group-title="ASIA SPORT",KBS N Sports
 http://211.245.55.198:1024/m2u/239.192.67.132:49220
 #EXTINF:-1 tvg-id="126" tvg-logo="http://i.imgur.com/Su21uj3.png" group-title="ASIA SPORT",MBC SPORTS+
