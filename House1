@@ -53,8 +53,10 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://27.102.124.12:1935/liveE/ech50/chunklist_w853348826_tkYWRzdG9rZW5lbmR0aW1lPTE1ODk3MjU0MzEmYWRzdG9rZW5oYXNoPS1UUnZIUWFYaXJKcXBkU25KQ2ZrNjlvN3hTc2w2QmlHTk9OTS1IVXZCRFU9JmFkc3Rva2Vuc3RhcnR0aW1lPTE1ODk3MTQ2MzE=.m3u8
 #EXTINF:-1 group-title="LIVE MATCH 17/05/20", Koln Vs Mainz (8:30pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1589731500-8927df273fbe484289ea20c9147c1a8d-0-c2f0b59e5c1a79f052146339dffc0bfe
-
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Wehen Vs Stuttgart (6:30pm)
+#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Dinamo Minsk Vs Isloch Minsk (9pm)
+https://livede.ali.huoxinglaike.com/live/streamhd27014.m3u8?auth_key=1589733300-1a8ff585acf34609b94090ebcb37c8bc-0-d9eff84f033fd6e771e012f88f1a4d25
+#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Union Berlin Vs Bayern Munich (11pm)
+http://27.102.124.12:1935/liveE/ech50/chunklist_w853348826_tkYWRzdG9rZW5lbmR0aW1lPTE1ODk3MjU0MzEmYWRzdG9rZW5oYXNoPS1UUnZIUWFYaXJKcXBkU25KQ2ZrNjlvN3hTc2w2QmlHTk9OTS1IVXZCRFU9JmFkc3Rva2Vuc3RhcnR0aW1lPTE1ODk3MTQ2MzE=.m3u8
 
 
 
