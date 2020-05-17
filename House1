@@ -51,27 +51,8 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE MATCH 17/05/20", Seoul Vs Gwangju (5pm)
 http://27.102.124.12:1935/liveE/ech50/chunklist_w853348826_tkYWRzdG9rZW5lbmR0aW1lPTE1ODk3MjU0MzEmYWRzdG9rZW5oYXNoPS1UUnZIUWFYaXJKcXBkU25KQ2ZrNjlvN3hTc2w2QmlHTk9OTS1IVXZCRFU9JmFkc3Rva2Vuc3RhcnR0aW1lPTE1ODk3MTQ2MzE=.m3u8
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Seongnam Vs Incheon (5pm)
-http://27.102.124.11:1935/liveE/ech33/chunklist_w274264038_tkYWRzdG9rZW5lbmR0aW1lPTE1ODk3MjUyMDgmYWRzdG9rZW5oYXNoPWdycW5vWTY1Qmh5R1RidVBtWlZ6WE12eGpRcFROalRQTnF1VkpUMExIT1E9JmFkc3Rva2Vuc3RhcnR0aW1lPTE1ODk3MTQ0MDg=.m3u8
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Krumkachy Vs Noftan (6pm)
-https://m.youtube.com/watch?v=ywINX3Qe_So
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Bielefeld Vs Osnabruck (6:30pm)
-https://5d8264459175b.streamlock.net/goaltv/@Live-CH11.stream/chunklist_w1029698821.m3u8
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Wehen Vs Stuttgart (6:30pm)
-https://1011865324.pegasus-cdn.com/live69/may41/chunks.m3u8
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Hennover Vs Dynamo Dresden (6:30pm)
-
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Wehen Vs Stuttgart (6:30pm)
-https://live.vvipscore.com/vvipscore/ch2/chunks.m3u8?nimblesessionid=48305674&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIwIDk6Mzk6MDkgQU0maGFzaF92YWx1ZT1Hc0RvdGdmcUw1M3RMdG1NTE9nbThnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Greuther Furth Vs Hamburg (6:30pm)
-https://5d8264459175b.streamlock.net/goaltv/@Live-CH12.stream/chunklist_w152332672.m3u8
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", St Pauli Vs Nurnberg (6:30pm)
-https://livede.ali.huoxinglaike.com/live/stream59802.m3u8?auth_key=1589729700-75fe3d763d4c405190f86370ca84b4e4-0-5876847fdc5a947dec305bae66ecffad
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Belshina Vs Vitebsk (7pm)
-https://live.vvipscore.com/vvipscore/ch8/l_5716732_686.ts?nimblesessionid=48305860&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIwIDk6NDQ6MTEgQU0maGFzaF92YWx1ZT1acEhOVjBIRGgzVDU2VWRjWWhvM3BBPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Koln Vs Mainz 05 (8:30pm)
-https://live.vvipscore.com/vvipscore/ch43/l_41920099_16330.ts?nimblesessionid=48305975&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIwIDk6NDY6NTQgQU0maGFzaF92YWx1ZT1ET3lGMWNtNVQ2bnVzTGpKQ3ZNZFNRPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Wehen Vs Stuttgart (6:30pm)
+#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Koln Vs Mainz (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1589731500-8927df273fbe484289ea20c9147c1a8d-0-c2f0b59e5c1a79f052146339dffc0bfe
 
 #EXTINF:-1 group-title="LIVE MATCH 17/05/20", Wehen Vs Stuttgart (6:30pm)
 
