@@ -4,7 +4,7 @@ http://167.99.65.12:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/apXpG_qBWW4YtCQcey_xkO-MK67sW82dQ-CoGLCoJRmb-mYQ1mcwyy6_04vUAjOK2Q" group-title="កម្ពុជា|Cambodia",ភាពយន្ដនិយាយខ្មែរ
 http://220.158.149.28:8180/TV00000000000000000122@HHZT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dMHqF1V/PNN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|PNN
-https://1661779960.rsc.cdn77.org/LS-50041-SIN-2/tracks-v1a1/mono.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000038@HHZT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2tBzYws/Town.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Town TV
 https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nzYvDZ6/CTN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTN
@@ -36,7 +36,7 @@ https://1661779960.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hHbQ9F3/TV3.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV3
 https://1661779960.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVzWrpB/TVK.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TVK
-https://1661779960.rsc.cdn77.org/LS-50041-SIN-3/tracks-v1a1/mono.m3u8
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m9TkJ4G/TV5.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV5
 https://1661779960.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vHnDdKn/TV9.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTV9
