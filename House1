@@ -161,10 +161,6 @@ https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sle
 https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_54765.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="ASIA SPORT",Champions TV 2
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1199101916_b1344100_sleng_94615.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivimienphi.com/ima/vtvcab16.png" group-title="ASIA SPORT",VTVcab16
-http://14.187.81.154/live/vtvcab16/index.m3u8?token=L43G2av8njJU75xt_laDQw&e=1589715670
-#EXTINF:-1 tvg-logo="http://xemtivimienphi.com/ima/vtvcab3.png" group-title="ASIA SPORT",VTVcab3
-http://14.187.81.154/live/vtvcab3/index.m3u8?token=WPWjs7-80sKOOCubhezCzg&e=1589715720
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="ASIA SPORT",VTV6
 http://220.158.149.14:9999/live/TV00000000000000000084@HHZT;LIVE
 
@@ -202,20 +198,6 @@ http://myott.tv/stream/D944FPT6C4U/234.m3u8
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
 #EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
-#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/11/sky-premierleague.png",SKY SPORTS PREMIER LEAGUE
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/228.m3u8
-#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",SKY SPORTS FOOTBALL
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/230.m3u8
-#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/12/sky-mainevent.png",SKY SPORTS MAIN EVENT
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/229.m3u8
-#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://nonleague.pitchero.com/wp-content/uploads/2015/08/1440583056_original.jpg",BT SPORTS 1
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/227.m3u8
-#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://www.pngkey.com/png/detail/967-9676257_bt-sport-2-logo.png",BT SPORTS 2
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31156
-#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5712.1478917765.png",BT SPORTS 3
-http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/31155
-#EXTINF:-0 group-title="EUROPE SPORT" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/01/bt-espn.png",BT SPORTS ESPN
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/225.m3u8
 
 
 
@@ -320,22 +302,7 @@ https://tv4.chang55.com:446/live2/tv4ch32.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="DOCUMENTARY",Animal Planet
-https://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="DOCUMENTARY",NAT WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="DOCUMENTARY",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="DOCUMENTARY",History2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTARY",History
-https://cdnbdsa1.useetv.com/joss/15/history/chunklist_w451542495_b1344100_sleng_177560.m3u8?enc=oCZ0triif_wAfn3aoXufFA&exp=1584800485
-#EXTINF:-1 tvg-logo="https://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo.jpg" group-title="DOCUMENTARY",Discovery Science
-http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=m04249336271814570113&ct=18381&tsum=5bfa8f35adac297cdd29453879fe8c23
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/74-746212_discovery-channel-logo-2019-hd-png-download.png" group-title="DOCUMENTARY",Discovery Asia
-http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m06433033314016900306&ct=18381&tsum=bcd9812d9b79be29278610f87a69e65e
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="DOCUMENTARY", NASA TV
-http://pro-stream.club:8080/wMAEtHAqEw/pxS3eoxWPz/10649
+
 
 
 
