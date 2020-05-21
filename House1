@@ -74,6 +74,37 @@ https://livede.ali.huoxinglaike.com/live/stream10460.m3u8?auth_key=1589740440-9c
 
 
 
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 1
+https://livecn.ali.huoxinglaike.com/live/CCTV5HD.m3u8?auth_key=1590120300-d3ce3d6e97434418bf1d5e222d69ed58-0-4f4191fddb7b07a5325c6bcd9f7e1a9b
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 2
+https://livecn.ali.huoxinglaike.com/live/ELTAtiyu1_HD.m3u8?auth_key=1590120300-5cb8d1425bd042efa487404705f6ac25-0-a8fcaaa10c302881d0a989cb78a1c5de
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 3
+https://livecn.ali.huoxinglaike.com/live/hurenzhuanqu1.m3u8?auth_key=1590201300-b3b38d6be8c64c908f956bfa16cbfe97-0-82f3ed11fea75293dcf0c8b01e3936da
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 4
+https://livecn.ali.huoxinglaike.com/live/manlianzhuanqu1.m3u8?auth_key=1590201300-5d6500bf50b84621be1dc98da9755d2c-0-2aa0a6769897150caaf5c2d88d7137d2
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 5
+https://livecn.ali.huoxinglaike.com/live/liwupuzhuanqu.m3u8?auth_key=1590201300-6e854fb4f1a44324b0a165eb73ce99ca-0-35421cf0394104db6587e86daeacd70e
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 6
+https://livecn.ali.huoxinglaike.com/live/huangjiamadelizhuanqu.m3u8?auth_key=1590201300-6ad14af5289749f5a2839ad77bb11434-0-c574eec4f6c90098f2db86c4e511f856
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 7
+https://livecn.ali.huoxinglaike.com/live/yongshizhuanqu.m3u8?auth_key=1590201300-42c07281995844009338a5395ac1c106-0-9ab2de99a224c809efca077e4697edb8
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 8
+https://livecn.ali.huoxinglaike.com/live/kuaichuanzhuanqu.m3u8?auth_key=1590201300-3a1c64e409ee4248bddf2ada8b81ebf9-0-f22ce7588af78080701f6f76a503c8c6
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 9
+https://livecn.ali.huoxinglaike.com/live/basailuonazhuanqu.m3u8?auth_key=1590201300-ffb641e2ee2d42889786aaa149eeaa48-0-b094ce1524fe30be73a5095fa8a11ca1
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 10
+https://livecn.ali.huoxinglaike.com/live/huojianzhuanqu1.m3u8?auth_key=1590201300-931b9c28214248f08e57efd65b53637a-0-2f2693150239c26e8128ffeaee5eec21
+
+
+
+
+
+
+
+
+
+
+
 
 
 
