@@ -51,14 +51,14 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6868?checkedby:iptvcat.co
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Ahal FK Youth Vs Altyn Asyr FK Youth (6:30pm)
-https://livede.ali.huoxinglaike.com/live/stream7404230.m3u8?auth_key=1589810700-96c07a057c444bc7908d609f4c912ef1-0-f4217ef5bace586aba751b1f3b4f8757
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Koln Vs Mainz (8:30pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1589731500-8927df273fbe484289ea20c9147c1a8d-0-c2f0b59e5c1a79f052146339dffc0bfe
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Dinamo Minsk Vs Isloch Minsk (9pm)
-https://livede.ali.huoxinglaike.com/live/streamhd27014.m3u8?auth_key=1589733300-1a8ff585acf34609b94090ebcb37c8bc-0-d9eff84f033fd6e771e012f88f1a4d25
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", B36 Torshavn Vs AB Argir (9pm)
-https://livede.ali.huoxinglaike.com/live/stream10468.m3u8?auth_key=1589733300-4939a6b92d294646bf98926217ae32c7-0-9c13875ef56c59994cfa2b8d43db2692
+#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Pohang Steelers Vs FC Seoul (5:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1590152700-09b59f3a1b514454a45f1775bb46dd37-0-fa56a98e07b26292383b0e4388963b2a
+#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Slavia Mozyr Vs FK Gorodeya (10pm)
+https://livede.ali.huoxinglaike.com/live/streamhd59806.m3u8?auth_key=1590168900-87eee54262804c42965837de41c6327f-0-f5415ba7eb92e07c48df8a8d446c6124
+#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Heidenheimer Vs Wehen Wiesbaden (11:30pm)
+https://livede.ali.huoxinglaike.com/live/stream30866.m3u8?auth_key=1590174300-0978619aa8ce42f4a7927c5fe376a275-0-c7d3138eea6ef19c5dffcb9fc6c4fbb1
+#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Nurnberg Vs Erzgebirge Aue (11:30pm)
+https://livede.ali.huoxinglaike.com/live/stream5816.m3u8?auth_key=1590174300-9561e0842aad4825977381d6ecd17374-0-1958df29bf9b8a2bdd0329bb7dd08554
 #EXTINF:-1 group-title="LIVE MATCH 17/05/20", IF Fuglafjordur Vs HB Torshavn (9pm)
 https://bw.cigna003.com/live/bwzbstream1046128.m3u8?txSecret=acbeb079016cc9eb24e305bc83a2cf4a&txTime=5ec150cd
 #EXTINF:-1 group-title="LIVE MATCH 17/05/20", Sputnik Rechitsa Vs FC Gomel (10pm)
