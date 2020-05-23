@@ -51,48 +51,111 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/6868?checkedby:iptvcat.co
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
-#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Pohang Steelers Vs FC Seoul (5:30pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1590152700-09b59f3a1b514454a45f1775bb46dd37-0-fa56a98e07b26292383b0e4388963b2a
-#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Slavia Mozyr Vs FK Gorodeya (10pm)
-https://livede.ali.huoxinglaike.com/live/streamhd59806.m3u8?auth_key=1590168900-87eee54262804c42965837de41c6327f-0-f5415ba7eb92e07c48df8a8d446c6124
-#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Heidenheimer Vs Wehen Wiesbaden (11:30pm)
-https://livede.ali.huoxinglaike.com/live/stream30866.m3u8?auth_key=1590174300-0978619aa8ce42f4a7927c5fe376a275-0-c7d3138eea6ef19c5dffcb9fc6c4fbb1
-#EXTINF:-1 group-title="LIVE MATCH 22/05/20", Nurnberg Vs Erzgebirge Aue (11:30pm)
-https://livede.ali.huoxinglaike.com/live/stream5816.m3u8?auth_key=1590174300-9561e0842aad4825977381d6ecd17374-0-1958df29bf9b8a2bdd0329bb7dd08554
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", IF Fuglafjordur Vs HB Torshavn (9pm)
-https://bw.cigna003.com/live/bwzbstream1046128.m3u8?txSecret=acbeb079016cc9eb24e305bc83a2cf4a&txTime=5ec150cd
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Sputnik Rechitsa Vs FC Gomel (10pm)
-https://livede.ali.huoxinglaike.com/live/stream1377830.m3u8?auth_key=1589736900-11a64206035942149aaf3ddd852d67ce-0-76474d37f18e7d0bfaedd287a457f26b
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Union Berlin Vs Bayern Munich (11pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1589740440-23b5eb3565fc4f82934977ae25fca78c-0-647053349714c03f952cfb16c2a46709
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", Rukh Brest Vs Smolevichy-STI (11pm)
-https://livede.ali.huoxinglaike.com/live/streamhd2557578.m3u8?auth_key=1589740440-13e881f12f37419d9a1431610bc8ac50-0-76297348f1c52dac3a21648783f252ef
-#EXTINF:-1 group-title="LIVE MATCH 17/05/20", EB Streymur Vs NSI Runavik (11pm)
-https://livede.ali.huoxinglaike.com/live/stream10460.m3u8?auth_key=1589740440-9c0dff2f362c4aed879c56a484a70cdc-0-8c481520b10612a35568e18be0946cfd
+
+
+
+
+
+
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Hang Yuan (W) Vs Taichung Blue Whale (W) (1pm)
+https://livede.ali.huoxinglaike.com/live/streamhd7378518.m3u8?auth_key=1590222900-31201c98a68444b292f5dfd6e095343b-0-54a549c0a93beeca73f4e9b98dadf04d
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Jeju United Vs Daejeon (2pm)
+https://livede.ali.huoxinglaike.com/live/stream7864.m3u8?auth_key=1590226500-d70249da57294f749899f4c1a45d05e3-0-8fb9f5b0e8ffa07e9e583779272209f4
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Suwon Samsung Bluewing Vs Incheon United (3pm)
+https://livede.ali.huoxinglaike.com/live/stream7836.m3u8?auth_key=1590228300-2b418c5228814978ab1dbd7cffa37fc7-0-ab28028197bcf903eca2dccfa2713eef
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Gangwon FC Vs Seongnam FC (3pm)
+https://livede.ali.huoxinglaike.com/live/stream7868.m3u8?auth_key=1590228300-1e9470547c3c4961873e8545f435254a-0-ced385617f5259bcd5c137ed0bd2f65f
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Haulien Vs Inter Taoyuan (W) (3:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd7378506.m3u8?auth_key=1590231900-3d84bc25ebe14bad9330d908e87878ef-0-2aa61ed5fd409d64a2948a9c781744f6
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Ansan Vs Buncheon (4:30pm)
+https://livede.ali.huoxinglaike.com/live/stream1136878.m3u8?auth_key=1590235500-251cdd78606f49459c59a8ac906abd45-0-0e660f0c8f815779e67c259f96872eb7
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Sangju Sangmu Vs Gwangju (5pm)
+https://livede.ali.huoxinglaike.com/live/stream7876.m3u8?auth_key=1590237300-fa05e54ab9894d53beca65118e5efd66-0-28a4974a065ef5ca31e3f4105fd49c37
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Asgabat Vs Energetik Mary (5pm)
+https://livede.ali.huoxinglaike.com/live/stream7465514.m3u8?auth_key=1590237300-b5b9744b9f4c41c0a72bfa4ca40a43f5-0-4a972e3e871d003f0f8b19aad284505b
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", FC MERW Vs FC Ahal (5pm)
+https://livede.ali.huoxinglaike.com/live/stream414366.m3u8?auth_key=1590237300-7f9da431786349508549b7a17f85ffd8-0-6753f061b83735914cb6ca293dda9b74
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Darmstadt Vs St.Pauli (6pm)
+https://livede.ali.huoxinglaike.com/live/stream5892.m3u8?auth_key=1590240900-714a93e06d4042d3ac14d3be8049bb8e-0-29e335ca1563f058fd5145864a8e6152
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Sandhausen Vs Jahn Regensburg (6pm)
+https://livede.ali.huoxinglaike.com/live/stream5832.m3u8?auth_key=1590240900-1d422c62bfa14de685f4c67b9738dd80-0-1ba354672d25e8032bc3b0fb8c83ff59
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Osnabruck Vs Hannover 96 (6pm)
+https://livede.ali.huoxinglaike.com/live/stream5844.m3u8?auth_key=1590240900-211bcc6ca45f448aa236f5c1721734eb-0-1f9bc41f73dce6f2451fed35e10d087c
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Nam Dinh FC Vs Hoang Anh Gia Lai (6pm)
+https://livede.ali.huoxinglaike.com/live/stream44058.m3u8?auth_key=1590240900-e67a77301a074ea2a564839a8f8ed86d-0-f12c0ef5932d8df6b00d120c1a4938c3
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Shirak Vs Lori Vanadzor (7:30pm)
+https://livede.ali.huoxinglaike.com/live/stream1677230.m3u8?auth_key=1590246300-887cb77e942948f687af3b0c45273afd-0-7e70c9eecc81131b04f1fa29fb24b037
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Wolfburg Vs Dortmund (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1590249900-91ef31bcc9b340f091bc16283ea4c34a-0-27e49652a5033b209242cf6a8564c5b8
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Freiburg Vs Werder Bremen (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/pptv6.m3u8?auth_key=1590249900-6c9ff0974fe547ba82e05106413d1d3e-0-54031fe566e712a7da497743d77d56da
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Mongchenggladbach Vs Leverkusen (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1590249900-1bd153afd30d4effbc3a32898aaf54be-0-966b07dcd62056f2c52e555df53a5f8e
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Paderbon Vs Hoffenheim (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu7.m3u8?auth_key=1590249900-3f690eedcd7448cbaf626b1585495329-0-685263d646decc6aa1d4b3e538d6bd41
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Slutsksakhar Vs Rukh Brest (8:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd2557578.m3u8?auth_key=1590249900-a407b28cb0c142579abb85c797898441-0-bad716c22af32a186d8b570fc8a81b5e
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Nebitci Vs Kopetdag Asgabat (8:30pm)
+https://livede.ali.huoxinglaike.com/live/stream711746.m3u8?auth_key=1590249900-b7f7aed9c4224179bc1310d4cc773608-0-d796a3b4f2648b6fbfa31cd7bad84449
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Ferencvarosi Vs Debrecin VSC (8:55pm)
+https://livede.ali.huoxinglaike.com/live/stream5508.m3u8?auth_key=1590251400-3aa24473c5354b60a7787fa596aa5347-0-22e3f77a365454690fa3834fa08c6e50
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", FC Pyunik Vs FC Avan Academy (9:15pm)
+https://livede.ali.huoxinglaike.com/live/stream3850202.m3u8?auth_key=1590252600-401d3fb3c8114810abd345be99811d52-0-7305323643fd348d0b973e0c2038145b
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Granit Mikashevichi Vs FK Lida (10pm)
+https://livede.ali.huoxinglaike.com/live/stream59794.m3u8?auth_key=1590255300-423ab338e2764892aff3a7b72fb92848-0-9c2c2661fd0887146614f9c5851fae0c
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", IF Fuglafjordur Vs KI Klaksvik (10pm)
+https://livede.ali.huoxinglaike.com/live/stream10440.m3u8?auth_key=1590255300-699aa5b46fb142aa9a95dabdd6a82838-0-d4a9c9cdf8b1349c2cbd3b2f0ef235d0
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", FK Isloch Minsk Vs Energetik-BGU Minsk (10:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd1272818.m3u8?auth_key=1590257100-17368d43d12346ea91444ece33c59ac1-0-472742aa43987d28d4810664e8bf5e3e
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", FC Gomel Vs Volna Pinsk (11pm)
+https://livede.ali.huoxinglaike.com/live/stream59810.m3u8?auth_key=1590258840-2ebfc08bdb794c15bf429e8beeec1400-0-36c1525c361b8b1c64b5ca1eeebc15b8
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Mezokovesd Zsory Vs Fehervar Videoton (11pm)
+https://livede.ali.huoxinglaike.com/live/stream3898342.m3u8?auth_key=1590258840-79918134d59d445baffcda7c8ff655a2-0-9dffbc6572c80e580a90fe6a08ed0976
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Teplice Vs Slovan Liberec (11pm)
+https://livede.ali.huoxinglaike.com/live/stream10952.m3u8?auth_key=1590258840-49843acbd4b04ab8b63d57fbc338a1bd-0-6e8a589ee889fc2bb60febcf0cc92d2d
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Bayern Munich Vs Frankfurt (11:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu8.m3u8?auth_key=1590260700-f52fd0ddf3bc47cba36e4a5c5b734a23-0-75d36548f17b7f48aa4adf57afac0edd
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", EB Streymur Vs TB/FCS/Royn (12am)
+https://livede.ali.huoxinglaike.com/live/stream10464.m3u8?auth_key=1590262500-ecb210584c514c519f7cc234985ef6c2-0-8583be226bafd2fc246a19c13c069ab9
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", FK Vitebsk Vs Dinamo Minsk (12:30am)
+https://livede.ali.huoxinglaike.com/live/streamhd59790.m3u8?auth_key=1590264300-8005ced2351a4882b2584a614dcfd702-0-6b7925fbe4d0a78723b33d7bf85aa9d6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 #EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 1
-https://livecn.ali.huoxinglaike.com/live/CCTV5HD.m3u8?auth_key=1590120300-d3ce3d6e97434418bf1d5e222d69ed58-0-4f4191fddb7b07a5325c6bcd9f7e1a9b
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 2
-https://livecn.ali.huoxinglaike.com/live/ELTAtiyu1_HD.m3u8?auth_key=1590120300-5cb8d1425bd042efa487404705f6ac25-0-a8fcaaa10c302881d0a989cb78a1c5de
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 3
 https://livecn.ali.huoxinglaike.com/live/hurenzhuanqu1.m3u8?auth_key=1590201300-b3b38d6be8c64c908f956bfa16cbfe97-0-82f3ed11fea75293dcf0c8b01e3936da
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 4
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 2
 https://livecn.ali.huoxinglaike.com/live/manlianzhuanqu1.m3u8?auth_key=1590201300-5d6500bf50b84621be1dc98da9755d2c-0-2aa0a6769897150caaf5c2d88d7137d2
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 5
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 3
 https://livecn.ali.huoxinglaike.com/live/liwupuzhuanqu.m3u8?auth_key=1590201300-6e854fb4f1a44324b0a165eb73ce99ca-0-35421cf0394104db6587e86daeacd70e
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 6
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 4
 https://livecn.ali.huoxinglaike.com/live/huangjiamadelizhuanqu.m3u8?auth_key=1590201300-6ad14af5289749f5a2839ad77bb11434-0-c574eec4f6c90098f2db86c4e511f856
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 7
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 5
 https://livecn.ali.huoxinglaike.com/live/yongshizhuanqu.m3u8?auth_key=1590201300-42c07281995844009338a5395ac1c106-0-9ab2de99a224c809efca077e4697edb8
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 8
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 6
 https://livecn.ali.huoxinglaike.com/live/kuaichuanzhuanqu.m3u8?auth_key=1590201300-3a1c64e409ee4248bddf2ada8b81ebf9-0-f22ce7588af78080701f6f76a503c8c6
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 9
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 7
 https://livecn.ali.huoxinglaike.com/live/basailuonazhuanqu.m3u8?auth_key=1590201300-ffb641e2ee2d42889786aaa149eeaa48-0-b094ce1524fe30be73a5095fa8a11ca1
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 10
+#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 8
 https://livecn.ali.huoxinglaike.com/live/huojianzhuanqu1.m3u8?auth_key=1590201300-931b9c28214248f08e57efd65b53637a-0-2f2693150239c26e8128ffeaee5eec21
 
 
