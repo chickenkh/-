@@ -57,24 +57,24 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Hang Yuan (W) Vs Taichung Blue Whale (W) (1pm)
-https://livede.ali.huoxinglaike.com/live/streamhd7378518.m3u8?auth_key=1590222900-31201c98a68444b292f5dfd6e095343b-0-54a549c0a93beeca73f4e9b98dadf04d
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Jeju United Vs Daejeon (2pm)
-https://livede.ali.huoxinglaike.com/live/stream7864.m3u8?auth_key=1590226500-d70249da57294f749899f4c1a45d05e3-0-8fb9f5b0e8ffa07e9e583779272209f4
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Suwon Samsung Bluewing Vs Incheon United (3pm)
-https://livede.ali.huoxinglaike.com/live/stream7836.m3u8?auth_key=1590228300-2b418c5228814978ab1dbd7cffa37fc7-0-ab28028197bcf903eca2dccfa2713eef
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Gangwon FC Vs Seongnam FC (3pm)
-https://livede.ali.huoxinglaike.com/live/stream7868.m3u8?auth_key=1590228300-1e9470547c3c4961873e8545f435254a-0-ced385617f5259bcd5c137ed0bd2f65f
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Haulien Vs Inter Taoyuan (W) (3:30pm)
-https://livede.ali.huoxinglaike.com/live/streamhd7378506.m3u8?auth_key=1590231900-3d84bc25ebe14bad9330d908e87878ef-0-2aa61ed5fd409d64a2948a9c781744f6
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Ansan Vs Buncheon (4:30pm)
-https://livede.ali.huoxinglaike.com/live/stream1136878.m3u8?auth_key=1590235500-251cdd78606f49459c59a8ac906abd45-0-0e660f0c8f815779e67c259f96872eb7
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Sangju Sangmu Vs Gwangju (5pm)
-https://livede.ali.huoxinglaike.com/live/stream7876.m3u8?auth_key=1590237300-fa05e54ab9894d53beca65118e5efd66-0-28a4974a065ef5ca31e3f4105fd49c37
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", Asgabat Vs Energetik Mary (5pm)
-https://livede.ali.huoxinglaike.com/live/stream7465514.m3u8?auth_key=1590237300-b5b9744b9f4c41c0a72bfa4ca40a43f5-0-4a972e3e871d003f0f8b19aad284505b
-#EXTINF:-1 group-title="LIVE MATCH 23/05/20", FC MERW Vs FC Ahal (5pm)
-https://livede.ali.huoxinglaike.com/live/stream414366.m3u8?auth_key=1590237300-7f9da431786349508549b7a17f85ffd8-0-6753f061b83735914cb6ca293dda9b74
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", Santos De Guapiles Vs Deportivo Saprissa (9am)
+https://livede.ali.huoxinglaike.com/live/stream7764.m3u8?auth_key=1590294900-d140d4cac0a64cac880dfe34c357927b-0-f6e7c6e75acfdb97e3a23628f22f8daa
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", FC Anyang Vs Gyeongnam (2pm)
+https://livede.ali.huoxinglaike.com/live/stream22822.m3u8?auth_key=1590312900-acf21073f14c498caa055dd2cd33637f-0-29e51d3c727d52e998d62a24863a548a
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", Jeonbuk Hyandai Vs Daegu (2:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd7844.m3u8?auth_key=1590314700-d432d898c11545329ec22dde8f6f218f-0-c638045a8dfe789b1f402697d5dd51e3
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", Tainan City Steel Vs Tatung FC (3pm)
+https://livede.ali.huoxinglaike.com/live/stream72542.m3u8?auth_key=1590316500-1163dd8471114b4a8fe54f0413e0e15b-0-77b48c45b1084c581c450088a220a342
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", Taiwan Power Company Vs Hang Yuen FC (3pm)
+https://livede.ali.huoxinglaike.com/live/stream3137274.m3u8?auth_key=1590316500-d705cc4d294c45668065a71617e96253-0-bf2e98f0790bfe199188e31139f06b7b
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", Ming Chian University Vs Taichung Futuro (3pm)
+https://livede.ali.huoxinglaike.com/live/stream5215358.m3u8?auth_key=1590316500-e1edac6a36d4408eb9141a0ac873054e-0-2b34edcca23181f59262347cb71478ce
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", NTUPES Vs Taichung Lions (3pm)
+https://livede.ali.huoxinglaike.com/live/stream3167782.m3u8?auth_key=1590316500-806d2fe94baf42d880ab59e28f230e87-0-d88d4c773a4d3157f104937ea23d373c
+#EXTINF:-1 group-title="LIVE MATCH 24/05/20", An Giang Vs Dong Tam Long An (3:30pm)
+https://livede.ali.huoxinglaike.com/live/stream1051702.m3u8?auth_key=1590318300-e20037c3aedf43c788e6ba62214bf8bc-0-a973fababc84b7b23a345caee018a4cc
+#EXTINF:-1 group-title="LIVE MATCH 23/05/20", HUDA HUE Vs SHB Da Nang (4pm)
+https://livede.ali.huoxinglaike.com/live/stream59826.m3u8?auth_key=1590320100-58428d9551e8476392cd54e0db134970-0-c66343b138168766eb6ba79d2698f7a1
 #EXTINF:-1 group-title="LIVE MATCH 23/05/20", Darmstadt Vs St.Pauli (6pm)
 https://livede.ali.huoxinglaike.com/live/stream5892.m3u8?auth_key=1590240900-714a93e06d4042d3ac14d3be8049bb8e-0-29e335ca1563f058fd5145864a8e6152
 #EXTINF:-1 group-title="LIVE MATCH 23/05/20", Sandhausen Vs Jahn Regensburg (6pm)
@@ -141,22 +141,7 @@ https://livede.ali.huoxinglaike.com/live/streamhd59790.m3u8?auth_key=1590264300-
 
 
 
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 1
-https://livecn.ali.huoxinglaike.com/live/hurenzhuanqu1.m3u8?auth_key=1590201300-b3b38d6be8c64c908f956bfa16cbfe97-0-82f3ed11fea75293dcf0c8b01e3936da
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 2
-https://livecn.ali.huoxinglaike.com/live/manlianzhuanqu1.m3u8?auth_key=1590201300-5d6500bf50b84621be1dc98da9755d2c-0-2aa0a6769897150caaf5c2d88d7137d2
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 3
-https://livecn.ali.huoxinglaike.com/live/liwupuzhuanqu.m3u8?auth_key=1590201300-6e854fb4f1a44324b0a165eb73ce99ca-0-35421cf0394104db6587e86daeacd70e
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 4
-https://livecn.ali.huoxinglaike.com/live/huangjiamadelizhuanqu.m3u8?auth_key=1590201300-6ad14af5289749f5a2839ad77bb11434-0-c574eec4f6c90098f2db86c4e511f856
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 5
-https://livecn.ali.huoxinglaike.com/live/yongshizhuanqu.m3u8?auth_key=1590201300-42c07281995844009338a5395ac1c106-0-9ab2de99a224c809efca077e4697edb8
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 6
-https://livecn.ali.huoxinglaike.com/live/kuaichuanzhuanqu.m3u8?auth_key=1590201300-3a1c64e409ee4248bddf2ada8b81ebf9-0-f22ce7588af78080701f6f76a503c8c6
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 7
-https://livecn.ali.huoxinglaike.com/live/basailuonazhuanqu.m3u8?auth_key=1590201300-ffb641e2ee2d42889786aaa149eeaa48-0-b094ce1524fe30be73a5095fa8a11ca1
-#EXTINF:-1 group-title="LIVE CHINA SPORT", Channel 8
-https://livecn.ali.huoxinglaike.com/live/huojianzhuanqu1.m3u8?auth_key=1590201300-931b9c28214248f08e57efd65b53637a-0-2f2693150239c26e8128ffeaee5eec21
+
 
 
 
