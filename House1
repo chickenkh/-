@@ -174,9 +174,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-bein-sport-1-9743.jpg",Bein 1 Asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+https://cdn228.cloud-streaming.com/ballsod_y1/beinsport1_480p/chunks.m3u8?nimblesessionid=64031&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjI2OjE5IEFNJmhhc2hfdmFsdWU9STRCcDRMYUpYcnRKR2hnSjVnZVU1QT09JnZhbGlkbWludXRlcz0xJmlkPTk5ODAzNg==
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+https://cdn228.cloud-streaming.com/ballsod_y1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=64032&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjI3OjQyIEFNJmhhc2hfdmFsdWU9N3hhTjQ5Nyt5djc3ZERiTjZ0eEFydz09JnZhbGlkbWludXRlcz0xJmlkPTc2MzI1Mw==
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
 http://boyztoyz.us:80/RonDenston/15.05.19/7510
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
