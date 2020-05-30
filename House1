@@ -56,7 +56,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 30/05/20", An Giang Vs Viettel (3:30pm)
-https://jdy.jinchuan556.com/live/p40stream878950.m3u8?txSecret=0fb6a0ba0b50c195e8acc240dc073fc2&txTime=5ed21a97
+https://1011865324.pegasus-cdn.com/live69/may4/chunks.m3u8
 #EXTINF:-1 group-title="LIVE MATCH 30/05/20", Taichung Blue Vs Inter Taoyuan (3:30pm)
 https://livede.ali.huoxinglaike.com/live/streamhd7378506.m3u8?auth_key=1590836700-7ca98ee4a0b84afda528e1e74cccd331-0-72eaea364fae90e3ca272248cc503ce4
 #EXTINF:-1 group-title="LIVE MATCH 30/05/20", Gwangju Vs Ulsan Hyandai (5pm)
