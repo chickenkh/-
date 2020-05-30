@@ -55,13 +55,13 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="LIVE MATCH 30/05/20", An Giang Vs Viettel (3:30pm)
+https://jdy.jinchuan556.com/live/p40stream878950.m3u8?txSecret=0fb6a0ba0b50c195e8acc240dc073fc2&txTime=5ed21a97
 #EXTINF:-1 group-title="LIVE MATCH 30/05/20", Taichung Blue Vs Inter Taoyuan (3:30pm)
 https://livede.ali.huoxinglaike.com/live/streamhd7378506.m3u8?auth_key=1590836700-7ca98ee4a0b84afda528e1e74cccd331-0-72eaea364fae90e3ca272248cc503ce4
 #EXTINF:-1 group-title="LIVE MATCH 30/05/20", Gwangju Vs Ulsan Hyandai (5pm)
 https://livede.ali.huoxinglaike.com/live/streamhd36442.m3u8?auth_key=1590842100-09c5dda530634564956f58406dd68885-0-5ff7d1835990e05799963d730d766f2e
-#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Busan IPark Vs Suwon Sumsung (5pmpm)
+#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Busan IPark Vs Suwon Sumsung (5pm)
 https://livede.ali.huoxinglaike.com/live/streamhd7844.m3u8?auth_key=1590314700-d432d898c11545329ec22dde8f6f218f-0-c638045a8dfe789b1f402697d5dd51e3
 #EXTINF:-1 group-title="LIVE MATCH 24/05/20", Tainan City Steel Vs Tatung FC (3pm)
 https://livede.ali.huoxinglaike.com/live/stream72542.m3u8?auth_key=1590316500-1163dd8471114b4a8fe54f0413e0e15b-0-77b48c45b1084c581c450088a220a342
