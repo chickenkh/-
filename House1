@@ -57,12 +57,11 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 24/05/20", Santos De Guapiles Vs Deportivo Saprissa (9am)
-https://livede.ali.huoxinglaike.com/live/stream7764.m3u8?auth_key=1590294900-d140d4cac0a64cac880dfe34c357927b-0-f6e7c6e75acfdb97e3a23628f22f8daa
-#EXTINF:-1 group-title="LIVE MATCH 24/05/20", FC Anyang Vs Gyeongnam (2pm)
-http://27.102.124.12:1935/liveE/ech29/chunklist_w458047242_tkYWRzdG9rZW5lbmR0aW1lPTE1OTAzMTQ2MjMmYWRzdG9rZW5oYXNoPUtHQjlUbVpKVDlqMlFQM1JwTkZ3dGR0dEpUNzFlSWxyOVNtY2RJZnpIY0U9JmFkc3Rva2Vuc3RhcnR0aW1lPTE1OTAzMDM4MjM=.m3u8
-#https://livede.ali.huoxinglaike.com/live/stream22822.m3u8?auth_key=1590312900-acf21073f14c498caa055dd2cd33637f-0-29e51d3c727d52e998d62a24863a548a
-#EXTINF:-1 group-title="LIVE MATCH 24/05/20", Jeonbuk Hyandai Vs Daegu (2:30pm)
+#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Taichung Blue Vs Inter Taoyuan (3:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd7378506.m3u8?auth_key=1590836700-7ca98ee4a0b84afda528e1e74cccd331-0-72eaea364fae90e3ca272248cc503ce4
+#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Gwangju Vs Ulsan Hyandai (5pm)
+https://livede.ali.huoxinglaike.com/live/streamhd36442.m3u8?auth_key=1590842100-09c5dda530634564956f58406dd68885-0-5ff7d1835990e05799963d730d766f2e
+#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Busan IPark Vs Suwon Sumsung (5pmpm)
 https://livede.ali.huoxinglaike.com/live/streamhd7844.m3u8?auth_key=1590314700-d432d898c11545329ec22dde8f6f218f-0-c638045a8dfe789b1f402697d5dd51e3
 #EXTINF:-1 group-title="LIVE MATCH 24/05/20", Tainan City Steel Vs Tatung FC (3pm)
 https://livede.ali.huoxinglaike.com/live/stream72542.m3u8?auth_key=1590316500-1163dd8471114b4a8fe54f0413e0e15b-0-77b48c45b1084c581c450088a220a342
