@@ -55,18 +55,18 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 30/05/20", An Giang Vs Viettel (3:30pm)
-https://livede.ali.huoxinglaike.com/live/stream128482.m3u8?auth_key=1590836700-d72f51ea08a74160b3cd44b933060139-0-d74e3d431e7b8f9d0f88a30f9e7f3542
-#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Taichung Blue Vs Inter Taoyuan (3:30pm)
-https://livede.ali.huoxinglaike.com/live/streamhd7378506.m3u8?auth_key=1590836700-7ca98ee4a0b84afda528e1e74cccd331-0-72eaea364fae90e3ca272248cc503ce4
-#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Gwangju Vs Ulsan Hyandai (5pm)
-https://livede.ali.huoxinglaike.com/live/streamhd36442.m3u8?auth_key=1590842100-09c5dda530634564956f58406dd68885-0-5ff7d1835990e05799963d730d766f2e
-#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Flora Tallin Vs Tallina (5pm)
-https://bw.cigna003.com/live/bwzbstream1172691.m3u8?txSecret=fb472e9c7674bf34d6fbc4ab97b46f6a&txTime=5ed239aa
-#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Kuressaare Vs Trans Narva (5pm)
-http://jdy.jinchuan556.com/live/zbstream11568.m3u8?txSecret=0dc126a7884e1daf1d707882ee23dc20&txTime=5ed22c02
-#EXTINF:-1 group-title="LIVE MATCH 30/05/20", Schalke04 Vs Werder Bremen (8:30pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1590854700-b01e4f9691254c458b1055d6cf25c297-0-564c7c5a0322be882feaba922308d9d9
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Incheon Vs Pohang Steller (5pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu9.m3u8?auth_key=1590928500-3b61aee6cf3c4a7caacf4d2e0b38e233-0-3951ef583a796104255ad176747800b4
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Becamex Binh Duong Vs Thanh Hoa (5pm)
+https://livede.ali.huoxinglaike.com/live/streamhd28690.m3u8?auth_key=1590928500-5868c303a23b42c4bb5fcd3f05536507-0-eb17dbba76a3655abce9af258f417f5b
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Hamburger Vs Wehen (6:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd30866.m3u8?auth_key=1590933900-0a86107df2f04d3ebd9a2e62a434a9b1-0-eca2c49713f48c1e9a411b8d4588e558
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Heidenhain Vs Erzgebirge (6:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd5852.m3u8?auth_key=1590933900-f1e65f012fb74638a5e27acaaf3e07ba-0-9441030042a2e9cdf7dfe4707817d180
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Dynamo Dresden Vs Stuggart (6:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd39626.m3u8?auth_key=1590933900-656bac363a1d48acbc5a55fe8e3c6d8f-0-e411856a17001b97d757c4dffbbf99e3
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Mongcheng Glachbach Vs Union Berlin (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu.m3u8?auth_key=1590941100-739f916beb7e43f5845c9ab8b33bcb47-0-8843aa977b9fbf4d1d67c68f0ad38403
 #EXTINF:-1 group-title="LIVE MATCH 30/05/20", Wolfburg Vs Frankfurt (8:30pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1590854700-e26782c0fe6b4cf391db61508b626294-0-651db32c891b2df0298e7d63358108d9
 #EXTINF:-1 group-title="LIVE MATCH 30/05/20", Mainz05 Vs Hoffenheim (8:30pm)
