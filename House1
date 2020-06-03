@@ -214,18 +214,7 @@ https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png", SKYNETSPORTS 6
 https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="126" tvg-logo="http://i.imgur.com/Su21uj3.png" group-title="ASIA SPORT",MBC SPORTS+
-http://211.245.55.198:1024/m2u/239.192.67.131:49220
-#EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" group-title="ASIA SPORT",SPOTV
-http://121.159.183.222:9981/stream/channelid/2065308481
-#EXTINF:-1 tvg-id="185" tvg-logo="http://lilactv.com:8080/BadJin/channelIcon/81Fshnn.png" group-title="ASIA SPORT",SPOTV+
-http://121.159.183.222:9981/stream/channelid/453911020
-#EXTINF:-1 tvg-id="186" tvg-logo="http://i.imgur.com/GNicmGY.png" group-title="ASIA SPORT",SPOTV2
-http://219.250.105.94:9981/stream/channelid/477406313
-#EXTINF:-1 tvg-id="169" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="ASIA SPORT",SBS Sports
-http://211.245.55.198:1024/m2u/239.192.67.130:49220
-#EXTINF:-1 tvg-id="178" tvg-logo="http://lilactv.com:8080/BadJin/channelIcon/QHV9bdA.png" group-title="ASIA SPORT",SkySports
-http://219.250.105.94:9981/stream/channelid/240797212
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH66P79c/1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYzNyF6/2.png" group-title="ASIA SPORT", Usee Sport 2
@@ -246,48 +235,6 @@ http://220.158.149.14:9999/live/TV00000000000000000084@HHZT;LIVE
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 1 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports1ar.png" group-title="beIN Sports FHD",beIN Sports HD 1 FHD
-https://cdn228.cloud-streaming.com/ballsod_y4/beinsportsarabia1hd/chunks.m3u8?nimblesessionid=64039&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjM0OjUwIEFNJmhhc2hfdmFsdWU9ZlgrRm5yZG1CeXpaTjZKSVFiWTNkUT09JnZhbGlkbWludXRlcz0xJmlkPTk1MTMzNw==
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 2 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports2ar.png" group-title="beIN Sports FHD",beIN Sports HD 2 FHD
-https://cdn228.cloud-streaming.com/ballsod_y4/beinsportsarabia2hd/chunks.m3u8?nimblesessionid=64041&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjM1OjQ1IEFNJmhhc2hfdmFsdWU9VVI0QWRaaEhTeGVQdW9qOHhESzhLUT09JnZhbGlkbWludXRlcz0xJmlkPTE2OTQ4NQ==
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 3 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports3ar.png" group-title="beIN Sports FHD",beIN Sports HD 3 FHD
-https://cdn228.cloud-streaming.com/ballsod_y4/beinsportsarabia3hd/chunks.m3u8?nimblesessionid=64043&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjM2OjQ3IEFNJmhhc2hfdmFsdWU9RzFiSWxrTWF1U3o5b1A2RE1HMGFtUT09JnZhbGlkbWludXRlcz0xJmlkPTYzMDMwNw==
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Матч! Футбол 1 HD
-http://myott.tv/stream/D944FPT6C4U/130.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Матч! Футбол 2 HD
-http://myott.tv/stream/D944FPT6C4U/142.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png",Матч! Футбол 3 HD
-http://myott.tv/stream/D944FPT6C4U/185.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg",Матч Премьер HD
-http://myott.tv/stream/D944FPT6C4U/193.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://ifavorite.ru/images/sport7/-5.jpg",Беларусь 5 HD
-http://myott.tv/stream/D944FPT6C4U/33.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/6b8e3119c068f5bab170.jpg",Setanta Sport 1 HD
-http://myott.tv/stream/D944FPT6C4U/234.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d.jpg",Setanta Sport 2 HD
-http://myott.tv/stream/D944FPT6C4U/235.m3u8
-#EXTINF:-1 group-title="EUROPE SPORT" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
-http://myott.tv/stream/D944FPT6C4U/313.m3u8
 
 
 
@@ -309,26 +256,27 @@ http://myott.tv/stream/D944FPT6C4U/313.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="LATIN SPORT",Sportv HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/37255
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="LATIN SPORT",Sportv 2 HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36943
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="LATIN SPORT",Sportv 3 HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36942
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="LATIN SPORT",Fox Sports HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36970
-#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="LATIN SPORT",Fox Sports 2 HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36971
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="LATIN SPORT",Espn Brasil HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36978
-#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="LATIN SPORT",Espn HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36977
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="LATIN SPORT",Espn 2 HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36976
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Espn Extra HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="LATIN SPORT",Espn Extra HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/42910
-#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="LATIN SPORT",Band Sports HD
-http://tv.factoryiptv.com:80/Pmasz4xfgj/factoryiptv/36989
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
