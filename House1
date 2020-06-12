@@ -188,6 +188,16 @@ http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110254?play_token=JkSPhg5IcX&t
 http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110251?play_token=6P6MZfOEQs&token=GRdRWUpbQV9BBQ9fUAVUUAFVDwcGUgNVBlQGBAIHCAMEDQAOCgQAUgURFEQQFxAGVQxnD1YVCVACU1YHAU8aRBFQS2dQV0FfQQIMV1JUW1UWTRoSW1pWQwlSUQsAUwEBVwYNFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://imagehost.imageupload.net/2020/06/12/kr-jtbc-5958.jpg",JTBC
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/1528333651830.jpg" group-title="ASIA SPORT", NewTV Sport
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/20171208162056_362.jpg" group-title="ASIA SPORT", 新视觉体育
+http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/1591965730826.png" group-title="ASIA SPORT", 劲爆体育
+http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", 风云足球
+http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/RTM_HD_Sports.png" group-title="ASIA SPORT", RTM Sport
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://imagehost.imageupload.net/2020/06/12/baa290b6682e7c0a8eaee57bdf6212b3.jpg",Macao Sport
 http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
@@ -218,7 +228,6 @@ https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png", SKYNETSPORTS 6
 https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH66P79c/1.png" group-title="ASIA SPORT", Usee Sport 1
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYzNyF6/2.png" group-title="ASIA SPORT", Usee Sport 2
