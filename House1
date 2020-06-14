@@ -55,14 +55,14 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Ulsan Hyandia Vs Seongnam (2:30pm)
-https://livede.ali.huoxinglaike.com/live/streamhd36442.m3u8?auth_key=1592042700-de2ff2857832473195d04bb50d7a6435-0-e880cd7511203417860069660f531761
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Jeonbuk Vs Incheon (5pm)
-https://livede.ali.huoxinglaike.com/live/streamhd7836.m3u8?auth_key=1592051700-ed04f95bd3064df09dff9a40c58c83f3-0-5a1c9844e32949f25004504c76506c6c
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Suwon Samsung Vs Gangwon (5pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu9.m3u8?auth_key=1592051700-5528dc71bcec4152b9c100a7393ba08c-0-34ce5fc3fd64458f494107eb5bab386c
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Sangju Vs Pohang (5pm)
-https://livede.ali.huoxinglaike.com/live/streamhd7872.m3u8?auth_key=1592051700-ab36cb2f9e8645e9adb8e5c612b7dd9e-0-c08fcc630175aed8ee8512075f41ec2b
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Taiwan Power Vs Tatung (3pm)
+https://livede.ali.huoxinglaike.com/live/stream72542.m3u8?auth_key=1592130900-6d61b195ea864093be14460b9d0a6a1c-0-58b29dd3a310b1be0002039aed171a3d
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Ming Chuan Vs Tainan (3pm)
+https://livede.ali.huoxinglaike.com/live/stream72462.m3u8?auth_key=1592130900-ea2d2f81fc5e4faa9b966a2fa18f9779-0-e58a0a6726386cb3e84509463e723839
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", NTUPES Vs Futuro (3pm)
+https://livede.ali.huoxinglaike.com/live/stream5215358.m3u8?auth_key=1592130900-3868331dd94c4bd0ad402c9d6da7a76c-0-4c32628249657771cf8b2c3bd3332080
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", SV Ried Vs Kapfenberg (3:30pm)
+https://livede.ali.huoxinglaike.com/live/stream3700.m3u8?auth_key=1592132700-d311f0c50e654c22b73069de69de1364-0-b836cce0c8910e5e541bf6450548f678
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kuano Zalgiris Vs Baltija (5pm)
 https://livede.ali.huoxinglaike.com/live/stream592530.m3u8?auth_key=1592051700-62cd3e8438394a24936b1e8532b458b9-0-dfd64272a01ec32bfa277a0884b65bae
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Ba Ria Vung Vs Pho Hien (5pm)
