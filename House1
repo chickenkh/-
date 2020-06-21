@@ -82,6 +82,8 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Tatung FC Vs Taicheng (3pm)
 https://livede.ali.huoxinglaike.com/live/streamhd3167782.m3u8?auth_key=1592735700-7e2a6aab57604fee9e25346e321748d4-0-9f7a76853f92cece896abf361576472f
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Taipower Vs Taiwan (3pm)
+https://livede.ali.huoxinglaike.com/live/streamhd72478.m3u8?auth_key=1592735700-81c763c92a864068b79e70da5252810b-0-585383e5ec190d8d5af3b7990542b583
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Jeonbuk Vs Gwangju (4pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_zhangli.m3u8?auth_key=1592739300-2c357e5c4ce247f68ebfc0846f7b6a2e-0-c68f1cec84ffcccc0fb09d8b012f0b12
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Cardiff Vs Leed (6pm)
