@@ -40,7 +40,7 @@ http://220.158.149.28:8180/live/TV00000000000000000119@HHZT
 http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w642883468_b1800000_sleng.m3u8
 #http://36.37.252.116:7788/live/OneTV-015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9xrS4Z/Bayon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|បាយ័ន
-https://1661779960.rsc.cdn77.org/LS-50041-SIN-8/tracks-v1a1/mono.m3u8
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GkPYCL9/BTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|BTV
 http://36.37.252.116:7788/live/OneTV-012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJFn5s6/ETV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|ETV
