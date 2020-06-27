@@ -80,18 +80,20 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Tatung FC Vs Taicheng (3pm)
-https://livede.ali.huoxinglaike.com/live/streamhd3167782.m3u8?auth_key=1592735700-7e2a6aab57604fee9e25346e321748d4-0-9f7a76853f92cece896abf361576472f
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Taipower Vs Taiwan (3pm)
-https://livede.ali.huoxinglaike.com/live/streamhd72478.m3u8?auth_key=1592735700-81c763c92a864068b79e70da5252810b-0-585383e5ec190d8d5af3b7990542b583
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Jeonbuk Vs Gwangju (4pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_zhangli.m3u8?auth_key=1592739300-2c357e5c4ce247f68ebfc0846f7b6a2e-0-c68f1cec84ffcccc0fb09d8b012f0b12
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Cardiff Vs Leed (6pm)
-https://livede.ali.huoxinglaike.com/live/streamhd4068.m3u8?auth_key=1592746500-219451698c754decabc5fde8b5d832c1-0-f86e0d5e3422d86d1777bc22f9be4cdb
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Celta Vigo Vs Alaves (7pm)
-https://livecn.ali.huoxinglaike.com/live/aiqiyi1.m3u8?auth_key=1592750100-3dfa4f89515e477291dbe6da45c0073e-0-1213f4ba607a51964b672cba9d618417
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Malmö Vs Varbergs (7:30pm)
-https://livede.ali.huoxinglaike.com/live/stream11452.m3u8?auth_key=1592751900-651d60f61aed46e4bfc2d96f65f25391-0-fcd99b584449b1047e5d0858a279a844
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Aston villa Vs Wolves (6:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu.m3u8?auth_key=1593266700-611c813ba501477baf6fd16b76cc8840-0-811c63616a35362786764f6947fe0c84
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Bilbao Vs Mallorca (7pm)
+https://livecn.ali.huoxinglaike.com/live/aiqiyi1.m3u8?auth_key=1593268500-9da81d3f7f7d4bf4945af98dd77ee54d-0-72d932e652bc0ee940f28666b1b548dc
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Wolfsburg Vs Bayern (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sfj.m3u8?auth_key=1593273900-83ff09508e25411aaeb34e557a4bf2db-0-6fb3c3a0895f012db8694e1af7026aa9
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Dortmund Vs Hoffenheim (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu8.m3u8?auth_key=1593273900-c78d08ee3b744b8fa5d0592cd8828c40-0-e3462c169bbd678491d35e6e4c549269
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Bremen Vs Koln (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/pptv6.m3u8?auth_key=1593273900-39d891ba23d14f1e8f99b0ab5d040453-0-61649f917ce3445bafe23e17426662c5
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Mongcheng Vs Hertha (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1593273900-1b5b8c15b4114fd49e1a76229447d095-0-bd3f030622a12fbac7e4709318735432
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Leverkusen Vs Mainz05 (8:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_zhangli.m3u8?auth_key=1593273900-a371aaac5d0c4610b428cdb305df1cb2-0-856826f1a548ecbfd0be06eb17252dfb
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Newcastle Vs Sheffield United (8pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu.m3u8?auth_key=1592753700-2434a9664afd40fc8986a8c3a753eb1f-0-8a8ab7d1bc08637e8502718c53cd5d71
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Vejle Vs Hvidorve (8pm)
