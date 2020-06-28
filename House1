@@ -269,8 +269,10 @@ https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1199101916_b1344100_sleng_94615.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="ASIA SPORT",VTV6
 http://220.158.149.14:9999/live/TV00000000000000000084@HHZT;LIVE
-
-
+#EXTINF:-1 tvg-logo="http://xemtivimienphi.com/ima/vtvcab16.png" group-title="ASIA SPORT",VTVcab16
+http://116.108.15.60/live/vtvcab16/index.m3u8?token=GMZgp8zBT1DEgKgg8dJMOQ&e=1593329995
+#EXTINF:-1 tvg-logo="http://xemtivimienphi.com/ima/vtvcab3.png" group-title="ASIA SPORT",VTVcab3
+http://116.108.248.98/live/vtvcab3/index.m3u8?token=ljzaXVVbher9Ji60eNRXnA&e=1593330041
 
 
 
