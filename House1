@@ -80,14 +80,14 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Jeju Vs Gyeongnam (2pm)
-https://livede.ali.huoxinglaike.com/live/stream7860.m3u8?auth_key=1593336900-3cdbc2555b11402da5f6ae1c177c3bbd-0-b8b6459a304aaadf1a29bd22f44d54bf
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kyoto Vs Iwata (4pm)
-https://livede.ali.huoxinglaike.com/live/stream24426.m3u8?auth_key=1593344100-6bbf2983eec14a34b9006930f458cac4-0-0568b40e743db0518524061702e17170
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Ulsan Vs Jeonbuk (4pm)
-https://livede.ali.huoxinglaike.com/live/stream36442.m3u8?auth_key=1593344100-26318cc83cc14739a0e5405f5bd768d8-0-ad0cae5630229ede7c44d49adaf43394
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Ryukyu Vs Fukuoka (4:30pm)
-https://livede.ali.huoxinglaike.com/live/stream28590.m3u8?auth_key=1593345900-f82e2fcd3298413a81374898bad52562-0-33dc6a0400a589f26875e33cb19bc210
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Ulsan Vs Incheon (4pm)
+https://livede.ali.huoxinglaike.com/live/streamhd36442.m3u8?auth_key=1593862500-4a5620530098410fab8463efb894f46c-0-b51e61eebccd80b19029b400cbd7dd64
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Shimizu Vs Nagoya (4pm)
+https://livede.ali.huoxinglaike.com/live/stream11696.m3u8?auth_key=1593862500-aab5f9b236104a7f89f773c943221052-0-09cfb3072636373520f1dbfa309ebe86
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Yokohama Vs Sapporo (4pm)
+https://livede.ali.huoxinglaike.com/live/stream24414.m3u8?auth_key=1593862500-752f6295d1f14d30a91d074a4be1cc05-0-145481f824325729633a70da89ccf5ef
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Gamba Vs Cerezo (4pm)
+https://livede.ali.huoxinglaike.com/live/stream11692.m3u8?auth_key=1593862500-9559cdc318094a56939e804fcd90fcd8-0-4fedc279afe28d93ca92a35cb6ffaf19
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Levante Vs Betis (7pm)
 https://livecn.ali.huoxinglaike.com/live/aiqiyi1.m3u8?auth_key=1593354900-536964df459f40ad91d9723b789ba950-0-864257616945e52c4be75b0790a330b4
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Sheffield United Vs Arsenal (7pm)
