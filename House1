@@ -80,26 +80,26 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", University Vs Taiwan Power (3pm)
-https://livecn.ali.huoxinglaike.com/live/GSZT.m3u8?auth_key=1594208100-660492421b4049d19e67d906f4146bd8-0-269a56792321f90d6e47537a48f13cb1
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Electric Vs Angkor Tiger (3:30pm)
-https://livecn.ali.huoxinglaike.com/live/GSZT3.m3u8?auth_key=1594211700-300eb43faad7431c85da64f8df45a27f-0-87bc33f9012d6487e6cd44b71d033c81
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Sangju Vs Jeonbuk (5pm)
-https://livecn.ali.huoxinglaike.com/live/aiqiyi4.m3u8?auth_key=1594211700-20dc26af1cd546c798aac3191282b65e-0-dc24d8a29f80fa24c67a93c57526db0d
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Burnley Vs Sheffield United (6pm)
-https://livecn.ali.huoxinglaike.com/live/aiqiyi3.m3u8?auth_key=1594211700-97de2ed012ae492dbf777ca22ea1235f-0-95da889853664426beb2988644e48ce9
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Swansea Vs Wednesday (6pm)
-https://livede.ali.huoxinglaike.com/live/streamhd4108.m3u8?auth_key=1593956100-5592735cb8ef42508853252bb3ca6048-0-fdc69eeac49cb94f2754125d6d171625
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Bilbao Vs Real Madrid (7pm)
-https://livecn.ali.huoxinglaike.com/live/aiqiyi1.m3u8?auth_key=1593959700-8e609e8039124bc3a2fffd87cc65871d-0-59c5be70fd93d64a59f1ee8f1961c671
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Newcastle Vs Westham (8:15pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu7.m3u8?auth_key=1593964200-1690115359c14e4381967ece46a50332-0-7bede1020672fc0e1a582620c0b691a6
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Westbrom Vs Hull (9pm)
-https://livede.ali.huoxinglaike.com/live/stream4032.m3u8?auth_key=1593966900-6074f23f9b6a4cb9831cab747703075f-0-113d525039e892d43fc0f0a0f9af06f1
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", ST Gallen Vs Sion (9pm)
-https://livede.ali.huoxinglaike.com/live/stream11284.m3u8?auth_key=1593966900-5cde71367a974a87a5db5a1a00ca751f-0-867cb2f4e2a7208ca59114d0d0634837
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Young Boy Vs Lugano (9pm)
-https://livede.ali.huoxinglaike.com/live/stream11336.m3u8?auth_key=1593966900-4167fef9e5074e9e87b3b34df0646a55-0-52887c6c37631685f667a8fa9c2cebc0
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Pohang Vs Suwon (5pm)
+https://livecn.ali.huoxinglaike.com/live/PPTV10.m3u8?auth_key=1594470900-a0f65a953ac048f69b93a349d917e916-0-bb67d34357cf7609d9880b8b6841fe27
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Jeonbuk Vs Seongnam (5pm)
+https://livede.ali.huoxinglaike.com/live/streamhd7856.m3u8?auth_key=1594470900-2ec5bc92c37846b0bcf133416654a259-0-ba139b0a816bdf3794d23edb671bd44a
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Oita Vs Kobe (5pm)
+https://livede.ali.huoxinglaike.com/live/stream39406.m3u8?auth_key=1594470900-ea4df5c98795414a9c9836e8b5f7564e-0-8ecd6b63f5ca320fba20b25c4f031c0d
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kawasaki Vs Kashiwa (6pm)
+https://livede.ali.huoxinglaike.com/live/stream22158.m3u8?auth_key=1594470900-efe9ef67392344f7b682e52b8887f4a8-0-35aecabc201867720d7878f7b36420ce
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Iwata Vs Yamaguchi (6pm)
+https://livede.ali.huoxinglaike.com/live/stream102238.m3u8?auth_key=1594470900-6ff3e05c545041708764cd40dcca25ad-0-3fa3e4a4a0babc3564aa7fab905c6dc3
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Norwich Vs Westham (6:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu.m3u8?auth_key=1594476300-6a9c789420534c3e923f0deb5e5d97b9-0-c8dd91de7207ac2fd1555bf474da0241
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Watford Vs Newcastle (6:30pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1594476300-72f6f8a057e943c9a3aace12ae4c0d3c-0-67237b026bb9caae600cde9181071c78
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Derby Vs Brentford (6:30pm)
+https://livede.ali.huoxinglaike.com/live/streamhd4128.m3u8?auth_key=1594476300-ca3f8eca5ab748be854b737bc2b43c88-0-9224158dfebeaa3506e998b739e2a669
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Liverpool Vs Burnley (9pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1594485300-968c8fe95fa84b56a90c38b3ee5faca4-0-8bafee029c32739fd0314b2d0a681083
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Blackburn Vs Westbrom (9pm)
+https://livede.ali.huoxinglaike.com/live/streamhd4084.m3u8?auth_key=1594485300-221345a63e284e339f1c965dfd00a60e-0-adc564b03b2e75d2eb84204362154eb9
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Inter Milan Vs Bologna (10:15pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu9.m3u8?auth_key=1593971400-2c7da7eb6d864f51823ea60a2d4c2325-0-25a84dad5237ca67fe9804f6341457f5
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Liverpool Vs Aston Villa (10:30pm)
