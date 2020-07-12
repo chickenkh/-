@@ -80,12 +80,12 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Pohang Vs Suwon (5pm)
-https://livecn.ali.huoxinglaike.com/live/PPTV10.m3u8?auth_key=1594470900-a0f65a953ac048f69b93a349d917e916-0-bb67d34357cf7609d9880b8b6841fe27
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Jeonbuk Vs Seongnam (5pm)
-https://livede.ali.huoxinglaike.com/live/streamhd7856.m3u8?auth_key=1594470900-2ec5bc92c37846b0bcf133416654a259-0-ba139b0a816bdf3794d23edb671bd44a
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Oita Vs Kobe (5pm)
-https://livede.ali.huoxinglaike.com/live/stream39406.m3u8?auth_key=1594470900-ea4df5c98795414a9c9836e8b5f7564e-0-8ecd6b63f5ca320fba20b25c4f031c0d
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (3:30pm)
+https://livede.ali.huoxinglaike.com/live/stream1217454.m3u8?auth_key=1594551900-2dcdd98741394a1db6b4d96637134648-0-2be9888a15935e41e8990bf7f9950a82
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Wolves Vs Everton (6pm)
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu.m3u8?auth_key=1594560900-6ac70f996d46424eb6eec2789aa10300-0-2bf703c7e71b0873dd91f325ea1759e6
+#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (6pm)
+https://livede.ali.huoxinglaike.com/live/stream691394.m3u8?auth_key=1594560900-c8f3def067e847be92250e149b4e9580-0-fbd2c46972c069a82f600db58ffd651b
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kawasaki Vs Kashiwa (6pm)
 https://livede.ali.huoxinglaike.com/live/stream22158.m3u8?auth_key=1594470900-efe9ef67392344f7b682e52b8887f4a8-0-35aecabc201867720d7878f7b36420ce
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Iwata Vs Yamaguchi (6pm)
