@@ -1,40 +1,54 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHVxMWhM/One-TV-Sabay-logo-19-05-2018-2.png" group-title="កម្ពុជា|Cambodia",OneTv Sabay
-http://36.37.252.116:7788/live/OneTV-001.m3u8
+http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-001.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
-http://36.37.252.116:7788/live/OneTV-004.m3u8
+http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-004.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
-http://36.37.252.116:7788/live/OneTV-003.m3u8
+http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-003.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFb3k2RN/ONETV-KIDS-logo-19-05-2018-5.png" group-title="កម្ពុជា|Cambodia",OneTv Kids
 http://36.37.252.116:7788/live/OneTV-002.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtVCJ03s/IMG-20200621-084736.jpg" group-title="កម្ពុជា|Cambodia",OneTv Discovery
 http://36.37.252.116:7788/live/OneTV-007.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nht2zw8X/IMG-20200621-084953.jpg" group-title="កម្ពុជា|Cambodia",OneTv Movie
-http://36.37.252.116:7788/live/OneTV-005.m3u8
+http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-005.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZ7ZtXX/ONETV-Music-logo-19-05-2018-8.png" group-title="កម្ពុជា|Cambodia",OneTv Music
-http://36.37.252.116:7788/live/OneTV-006.m3u8
+http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-006.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8V5VLtf/IMG-20200621-085248.jpg" group-title="កម្ពុជា|Cambodia",OneTv Sport9
-http://36.37.252.116:7788/live/iPlus-058.m3u8
+http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
+#http://36.37.252.116:7788/live/iPlus-058.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKRMNWKX/IMG-20200621-085413.jpg" group-title="កម្ពុជា|Cambodia",OneTv Sport11
-http://36.37.252.116:7788/live/iPlus-055.m3u8
+http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
+#http://36.37.252.116:7788/live/iPlus-055.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YMffsp/FN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dMHqF1V/PNN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|PNN
-http://36.37.252.116:7788/live/OneTV-019.m3u8
+http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-019.m3u8
 #http://220.158.149.14:9999/live/TV00000000000000000038@HHZT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2tBzYws/Town.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Town TV
-http://36.37.252.116:7788/live/OneTV-024.m3u8
+http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nzYvDZ6/CTN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTN
-http://36.37.252.116:7788/live/OneTV-008.m3u8
+http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yRYK0nJ/MYTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|MYTV
-http://36.37.252.116:7788/live/OneTV-009.m3u8
+http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-009.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1nC7frQ/CNC.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CNC
-http://36.37.252.116:7788/live/OneTV-010.m3u8
+http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
+#http://36.37.252.116:7788/live/OneTV-010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VLnQ6Nk/HM.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|ហង្សមាស
-http://220.158.149.28:8180/live/TV00000000000000000119@HHZT
+http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
+#http://220.158.149.28:8180/live/TV00000000000000000119@HHZT
 #http://36.37.252.116:7788/live/OneTV-014.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nsf7hpH/RHM.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|រស្មីហង្សមាស
-http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w642883468_b1800000_sleng.m3u8
+http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
+#http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w642883468_b1800000_sleng.m3u8
 #http://36.37.252.116:7788/live/OneTV-015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9xrS4Z/Bayon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|បាយ័ន
 http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
