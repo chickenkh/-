@@ -84,9 +84,9 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://livede.ali.huoxinglaike.com/live/streamhd9892.m3u8?auth_key=1595518500-debd320e0ade4411baddfb5c566a71e0-0-4f705e1381d1262044373cc2b5ac506d
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sfj.m3u8?auth_key=1595558100-918a9a7db9b24909a752bdae737666ba-0-d6fef4f5ed160a4b505f7fb5098e788a
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (3pm)
-https://livede.ali.huoxinglaike.com/live/stream3167782.m3u8?auth_key=1595154900-48e09ac4f1344ac5b2f716b53a5f9eee-0-10f66c4cf98503452372353eb4c9b8db
+https://livede.ali.huoxinglaike.com/live/streamhd961338.m3u8?auth_key=1595567100-8424c17bc46e48e9a5647510a73b8f02-0-12e587146c6894e90518c9ead787a412
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Wolves Vs Everton (3pm)
 https://livede.ali.huoxinglaike.com/live/stream3137274.m3u8?auth_key=1595154900-48bc6b9852f9414d9e72ad193b5480fd-0-48f126c03acd6127638ef30fc9032cce
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
