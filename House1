@@ -84,7 +84,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://livecn.ali.huoxinglaike.com/live/weixingyuan1.m3u8?auth_key=1595745600-f121d3a30e214eeebfac26690e321598-0-68b72b11a35c3b4974e6e88e85da4c1b
+https://livede.ali.huoxinglaike.com/live/stream7805482.m3u8?auth_key=1595752200-fd3952b8d8124fb1ba6f5b9fa08b2bf7-0-a2a8121f4bcfcd6660eeb3209a8bf456
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (3pm)
 https://livecn.ali.huoxinglaike.com/live/weixingyuan1.m3u8?auth_key=1595745600-5de6e243125045c9a4870c84983058b9-0-c25aa3113e67f09a1b1f363ef4348823
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Wolves Vs Everton (3pm)
