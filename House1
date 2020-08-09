@@ -3,26 +3,20 @@
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
 http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
-#http://36.37.252.116:7788/live/OneTV-004.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
 http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
-#http://36.37.252.116:7788/live/OneTV-003.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFb3k2RN/ONETV-KIDS-logo-19-05-2018-5.png" group-title="កម្ពុជា|Cambodia",OneTv Kids
-http://36.37.252.116:7788/live/OneTV-002.m3u8
+http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtVCJ03s/IMG-20200621-084736.jpg" group-title="កម្ពុជា|Cambodia",OneTv Discovery
 http://36.37.252.116:7788/live/OneTV-007.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nht2zw8X/IMG-20200621-084953.jpg" group-title="កម្ពុជា|Cambodia",OneTv Movie
 http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
-#http://36.37.252.116:7788/live/OneTV-005.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZ7ZtXX/ONETV-Music-logo-19-05-2018-8.png" group-title="កម្ពុជា|Cambodia",OneTv Music
 http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
-#http://36.37.252.116:7788/live/OneTV-006.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8V5VLtf/IMG-20200621-085248.jpg" group-title="កម្ពុជា|Cambodia",OneTv Sport9
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
-#http://36.37.252.116:7788/live/iPlus-058.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKRMNWKX/IMG-20200621-085413.jpg" group-title="កម្ពុជា|Cambodia",OneTv Sport11
 http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
-#http://36.37.252.116:7788/live/iPlus-055.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6YMffsp/FN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dMHqF1V/PNN.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|PNN
