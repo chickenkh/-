@@ -74,9 +74,9 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://livede.ali.huoxinglaike.com/live/stream4879882.m3u8?auth_key=1597282500-5e8ac5d1efe540b1994529065db3f595-0-8a7d0a5470fbef89b8a736ef57d4558f
+https://livede.ali.huoxinglaike.com/live/streamhd3636142.m3u8?auth_key=1597320300-3fce2e6f74b445dfb1b971643ec0884f-0-43633773e85903111290cd3413b95c97
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (3pm)
-https://livede.ali.huoxinglaike.com/live/streamhd3484.m3u8?auth_key=1597061100-1b44bdaca5fa40b89341422fd989c353-0-d9e250e3d5ce48b4b2f6bb0647c8c7aa
+https://livede.ali.huoxinglaike.com/live/stream2805682.m3u8?auth_key=1597325700-0cc1b9b71def4791b1824ce7f60d30cc-0-8fd24e0cc24f4fd8692b36545a16e598
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu7.m3u8?auth_key=1596551700-fc5994cc43df4cb4852bf8b3079f04b3-0-0d7b4679b170fe1f6065f0acd411651d
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Espanyol Vs Alaves (5pm)
