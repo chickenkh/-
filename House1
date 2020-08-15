@@ -74,7 +74,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://livede.ali.huoxinglaike.com/live/streamhd3636142.m3u8?auth_key=1597320300-3fce2e6f74b445dfb1b971643ec0884f-0-43633773e85903111290cd3413b95c97
+https://livecn.ali.huoxinglaike.com/live/weixingyuan3.m3u8?auth_key=1597476900-c2f113d29bcf43f6bb6c942d38337d8f-0-d811c164db882ef3906af790fc8cf9f2
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (3pm)
 https://livede.ali.huoxinglaike.com/live/stream2805682.m3u8?auth_key=1597325700-0cc1b9b71def4791b1824ce7f60d30cc-0-8fd24e0cc24f4fd8692b36545a16e598
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
