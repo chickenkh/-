@@ -31,9 +31,9 @@ http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/1nC7frQ/CNC.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CNC
 http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VLnQ6Nk/HM.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|ហង្សមាស
-http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w660255627_b1800000_sleng.m3u8
+http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nsf7hpH/RHM.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|រស្មីហង្សមាស
-http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w507539696_b1800000_sleng.m3u8
+http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9xrS4Z/Bayon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|បាយ័ន
 http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GkPYCL9/BTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|BTV
@@ -74,9 +74,9 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://livede.ali.huoxinglaike.com/live/stream103050.m3u8?auth_key=1599129300-1d39a8ad9d0447f587f51e47db752136-0-9c142baa2365fee3a7dc938337ba8ff0
+https://livecn.ali.huoxinglaike.com/live/pptv6.m3u8?auth_key=1599136500-7515ba8ae003474c94db685a53144466-0-a9b650a7a17795e5c899139532681e09
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (3pm)
-https://livecn.ali.huoxinglaike.com/live/weixingyuan2.m3u8?auth_key=1599050100-26adc60455c04f4a807dff09865672fa-0-88bcfbe017b7f08ba8edb9ad9481cc62
+https://livecn.ali.huoxinglaike.com/live/PPTVtiyu8.m3u8?auth_key=1599143700-8179501364184944815984e1b9a5d650-0-618c650d3296168e451ad13149670fec
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_zhanjun.m3u8?auth_key=1598724300-8d7235db89e04c51bc5a76674dcc015e-0-5fde9ae5457b745b4468594279fb0f6d
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Espanyol Vs Alaves (5pm)
