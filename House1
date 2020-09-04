@@ -67,8 +67,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://livecn.ali.huoxinglaike.com/live/pptv6.m3u8?auth_key=1599222900-cde5a5f65c5c473c898a13cdb7d551ff-0-8d408a355942496939d3a31daf55a8b2
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (3pm)
+https://m.heibaizhibo.com/live/soccer/UEFAU21Q/937256
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu8.m3u8?auth_key=1599230100-f5ea5c2e248841c0a8a300ff044cba44-0-587f5fd46638607fee51736cf98b3e3e
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_zhanjun.m3u8?auth_key=1598724300-8d7235db89e04c51bc5a76674dcc015e-0-5fde9ae5457b745b4468594279fb0f6d
