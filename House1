@@ -38,8 +38,6 @@ http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GkPYCL9/BTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|BTV
 http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kJFn5s6/ETV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|ETV
-http://220.158.149.26:8182/hls/TV00000000000000000121@HHZT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTV8
 http://220.158.149.14:9999/live/TV00000000000000000037@HHZT;LIVE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m4FzpD9/SEA.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|SeaTV
@@ -50,8 +48,6 @@ http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tJir5IG.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Nice TV
 http://220.158.149.26:8182/hls/TV00000000000000000124@HHZT.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DcR6zEw.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|D Music
-http://220.158.149.26:8182/hls/TV00000000000000000123@HHZT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hHbQ9F3/TV3.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV3
 http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVzWrpB/TVK.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TVK
@@ -59,14 +55,11 @@ http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m9TkJ4G/TV5.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV5
 http://36.37.252.114:888/Apple/OneTV-021/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vHnDdKn/TV9.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTV9
-http://36.37.252.116:7788/live/OneTV-022.m3u8
-#http://220.158.149.28:8180/live/TV00000000000000000120@HHZT
+http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9WFh5G/TV11.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|អប្សារា
 http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0t7zC8G/KHTV.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ZKNM206j/1589025001635.png" group-title="កម្ពុជា|Cambodia",OneTV E School
-http://36.37.252.116:7788/live/OneTV-013.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vvjD02/icon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|WikiTV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
