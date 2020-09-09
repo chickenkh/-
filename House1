@@ -67,13 +67,13 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-http://fengyu.lanhuzb.xyz/live/sd-1-3393280.flv?txSecret=70d7053ec50d598cb25c7f7fa843e633&txTime=5f58b2b3
+http://fengyu.lanhuzb.xyz/live/sd-1-3393280.flv?txSecret=5559fb23b553890ae9e77a925e5ab49b&txTime=5f58b673
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
 https://livecnb.ali.huoxinglaike.com/live/pptv6_hd.m3u8?auth_key=1599654900-e90cd52c5a6840e69e5b933c2e7f7798-0-c997099e92f7ce863403d1460d28ea23
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Espanyol Vs Alaves (5pm)
-http://fengyu.lanhuzb.xyz/live/sd-1-3393282.flv?txSecret=97d6ea452c1ca98b544d542347d0a5a8&txTime=5f58b2ef
+1http://fengyu.lanhuzb.xyz/live/sd-1-3393282.flv?txSecret=85d6a5c3a6b9f9fe317b147a43c9c807&txTime=5f58b6af
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Swansea Vs Leeds (10pm)
-http://fengyu.lanhuzb.xyz/live/sd-1-3393279.flv?txSecret=9db6a5ed715a1e5b9428db0753de00f9&txTime=5f58b32b
+http://fengyu.lanhuzb.xyz/live/sd-1-3393279.flv?txSecret=5678e16aaba4f417d1de6561d0447ef1&txTime=5f58b6eb
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Aston Villa Vs Crystal palace (10pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sfj.m3u8?auth_key=1595784900-d96b61dffea0466eaaee1aec3c24355f-0-68b6efe7ab3498dcb6f68fc6a4e72230
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Tottenham Vs Arsenal (10:30pm)
