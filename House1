@@ -163,15 +163,15 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fd2045705b8100
 
 
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7e592ecab053d8a8148b83329c0a7deb58b2655e&st.mq=2&st.mvid=1131520133856&st.ip=116.212.143.81&st.dla=on&st.exp=1599361121100&st.hls=on&_prevCmd=movieLayer&tkn=6933
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
-https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
-https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
-https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
-https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT ASIA 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT ASIA 2
@@ -205,19 +205,19 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://imagehost.imageupload.net/2020/06/12/baa290b6682e7c0a8eaee57bdf6212b3.jpg",Macao Sport
 http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
-https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="ASIA SPORT",TRUE SPORTS HD 2
-https://tv4.chang55.com:446/live2/tv4ch15.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport3.png" group-title="ASIA SPORT",TRUE SPORTS HD 3
-https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.gizatokyo.com/wp-content/uploads/2019/01/logo_013.png",TRUE SPORT 2
-https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsport2.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9c34186a-ebe4-4778-b92e-68addc96987e.png",TRUE SPORT 5
-https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ccb15664-28dd-43da-ba1d-4f5034ab8e1f.png",TRUE SPORT 6
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.mgm99win.net/wp-content/uploads/2019/02/True-Sport-7-300x195.jpg",TRUE SPORT 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsport7eng.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/skynetsport.png",Skynetsport HD
 https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png", SKYNETSPORTS 1
