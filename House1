@@ -207,11 +207,11 @@ http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="ASIA SPORT",TRUE SPORTS HD 2
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport3.png" group-title="ASIA SPORT",TRUE SPORTS HD 3
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.gizatokyo.com/wp-content/uploads/2019/01/logo_013.png",TRUE SPORT 2
-https://streaming.livescorethai.net/iptv/sd-tsport2.stream/chunks.m3u8
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9c34186a-ebe4-4778-b92e-68addc96987e.png",TRUE SPORT 5
 https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ccb15664-28dd-43da-ba1d-4f5034ab8e1f.png",TRUE SPORT 6
