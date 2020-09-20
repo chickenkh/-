@@ -173,23 +173,38 @@ https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOXSPORT ASIA 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png",FOXSPORT ASIA 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://cdn.clipart.email/842a1438dac316c1a108fc33a52d2bd7_filefox-sports-3-logosvg-wikimedia-commons_1200-540.png",FOXSPORT ASIA 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-bein-sport-1-9743.jpg",Bein 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/1528333651830.jpg" group-title="ASIA SPORT", NewTV Sport
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/20171208162056_362.jpg" group-title="ASIA SPORT", 新视觉体育
-http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/1591965730826.png" group-title="ASIA SPORT", 劲爆体育
-http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", 风云足球
-http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/1528333651830.jpg" group-title="ASIA SPORT", BT Sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/20171208162056_362.jpg" group-title="ASIA SPORT", BT Sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/1591965730826.png" group-title="ASIA SPORT", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", Chelsea TV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", ManU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imagehost.imageupload.net/2020/06/12/fengyunzuqiu.png" group-title="ASIA SPORT", Liverpool TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="ASIA SPORT",TRUE SPORTS HD
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="ASIA SPORT",TRUE SPORTS HD 2
