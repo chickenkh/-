@@ -67,15 +67,15 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://lived.ali.huoxinglaike.com/live/streamhd5836.m3u8?auth_key=1600522500-67725d248218417282b5b65ba10f70f1-0-9204a9956147a000d294fda88be1a84c
+https://lived.ali.huoxinglaike.com/live/stream72478.m3u8?auth_key=1600598100-7cac4ae1a5714065a68de60726b8c880-0-599a23c2123ab4bd8463569445fb61e3
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
-https://lived.ali.huoxinglaike.com/live/stream11692.m3u8?auth_key=1600259700-1fb657a70dce4027a06078c23e7426e6-0-7ce59ff81b72a5d444b558ef3ad32a5f
+https://livec.ali.huoxinglaike.com/live/weixingyuan3_hd.m3u8?auth_key=1600605300-9de604dfada348c68950d932f33cf0d3-0-a5ddf01ddc6b00e54f7b6a2f8c82db57
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Espanyol Vs Alaves (5pm)
-https://livec.ali.huoxinglaike.com/live/weixingyuan2_hd.m3u8?auth_key=1600261500-0d7c42243b4c4a029664d6a075320c79-0-1b203b5716aef682e2d096ce99afeefe
+https://livec.ali.huoxinglaike.com/live/PPTVtiyu_hd.m3u8?auth_key=1600607100-8d980f83dc334fe2a23e1f31a5ac11bc-0-2526ef6454fa549defc88f7b3bc41f34
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Swansea Vs Leeds (10pm)
-https://livec.ali.huoxinglaike.com/live/weixingyuan1_hd.m3u8?auth_key=1600261500-92a26e0020e341739294d4969ae1a55c-0-f1b33b0dd977de5b3013a1d0692fb280
+https://livec.ali.huoxinglaike.com/live/PPTVtiyu2_hd.m3u8?auth_key=1600608900-dd0bec52f12949289a91930306ac03fe-0-e0fb879422e7dbb2aa47e86364908171
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Aston Villa Vs Crystal palace (10pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sfj.m3u8?auth_key=1595784900-d96b61dffea0466eaaee1aec3c24355f-0-68b6efe7ab3498dcb6f68fc6a4e72230
+https://livec.ali.huoxinglaike.com/live/tengxuntiyu5_hd.m3u8?auth_key=1600608900-22b932bf193e41ffb142b15a68531b48-0-a97b79160b9641a96dbe4de65075a0b3
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Tottenham Vs Arsenal (10:30pm)
 https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_lixin.m3u8?auth_key=1595784900-1adb80f1233f4b4a8d16ac63568e1f69-0-4fd6b75cfcf77e7d18f9e0c2f7698219
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Derby Vs Brentford (6:30pm)
