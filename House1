@@ -202,20 +202,12 @@ https://cdn17.cloud-streaming.com/sportpack_x2/2sport5_480p/chunks.m3u8?nimblese
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="ASIA SPORT" tvg-logo="https://www.mgm99win.net/wp-content/uploads/2019/02/True-Sport-7-300x195.jpg",TRUE SPORT 7
 https://streaming.livescorethai.net/iptv/sd-tsport7eng.stream/chunks.m3u8
-#EXTINF:-1 group-title="ASIA SPORT", Fox Sport 3 NL
-https://cdn227.cloud-streaming.com/ballsod_y4/foxsports3nl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MzQ6NTkgQU0maGFzaF92YWx1ZT10WldJQkRNSUVFNWxZRTA1RXZCWVBBPT0mdmFsaWRtaW51dGVzPTEmaWQ9Nzk2NTU5
-#EXTINF:-1 group-title="ASIA SPORT", Fox Sport 4 NL
-https://cdn227.cloud-streaming.com/ballsod_y4/foxsports4nl/chunks.m3u8?nimblesessionid=5421297&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6Mzc6MzcgQU0maGFzaF92YWx1ZT1mdG8wVWVicU1SV2NFYVc4V3NKMkFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTczOTQ1
-#EXTINF:-1 group-title="ASIA SPORT", Z Select
-https://cdn227.cloud-streaming.com/ballsod_y4/ziggosportselect/chunks.m3u8?nimblesessionid=5421299&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6Mzg6MzEgQU0maGFzaF92YWx1ZT1ReDZpU0N3bXNrMDYvMWNOZ2FWTG1BPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTg2MDY0
-#EXTINF:-1 group-title="ASIA SPORT", Sport Digital
-https://cdn227.cloud-streaming.com/ballsod_y4/sportdigital/chunks.m3u8?nimblesessionid=5421304&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6Mzk6MzggQU0maGFzaF92YWx1ZT1vbHpETEs1ZUViRVREYTVXZWhlVy9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9ODc0MjM2
-#EXTINF:-1 group-title="ASIA SPORT", Bein 1 FR
-https://cdn227.cloud-streaming.com/ballsod_y4/beinsport1fr/chunks.m3u8?nimblesessionid=5421308&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6NDA6NDUgQU0maGFzaF92YWx1ZT1ISWJ5SGg0YlJoMFFEZUd4YUZoVjVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9OTk4Nzc5
-#EXTINF:-1 group-title="ASIA SPORT", Bein 2 FR
-https://cdn227.cloud-streaming.com/ballsod_y4/beinsport2fr/chunks.m3u8?nimblesessionid=5421314&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6NDE6MzYgQU0maGFzaF92YWx1ZT1pbEUrdWN3d1dKRXJEQklyZmhiZktRPT0mdmFsaWRtaW51dGVzPTEmaWQ9OTk3ODk5
-#EXTINF:-1 group-title="ASIA SPORT", Canal 9 Denmark
-https://cdn227.cloud-streaming.com/ballsod_y4/canal9denmark/chunks.m3u8?nimblesessionid=5421323&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6NDI6MzEgQU0maGFzaF92YWx1ZT00a0V3L1JVcm9JMExURVdNUHZxQXhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9NzQ0MTgy
+#EXTINF:-1 group-title="ASIA SPORT", Astro SuperSport
+http://portal.geniptv.com:8080/live/live:tolgax1x/lxbLkmOokK/1366.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", Astro SuperSport 2
+http://portal.geniptv.com:8080/live/live:tolgax1x/lxbLkmOokK/1365.m3u8
+#EXTINF:-1 group-title="ASIA SPORT", Astro SuperSport 3
+http://portal.geniptv.com:8080/live/live:tolgax1x/lxbLkmOokK/1364.m3u8
 
 
 
