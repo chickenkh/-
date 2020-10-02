@@ -263,41 +263,41 @@ http://mu03.wanicelife.com:8880/F12M065/R4546878/27959
 http://mu03.wanicelife.com:8880/F12M065/R4546878/27958
 #EXTINF:-1 group-title="ASIA SPORT",RMC SPORT 4 HD
 http://mu03.wanicelife.com:8880/F12M065/R4546878/27957
-#EXTINF:-1,RMC ACCESS 1
+#EXTINF:-1 group-title="ASIA SPORT",RMC ACCESS 1
 http://mu03.wanicelife.com:8880/F12M065/R4546878/27972
-#EXTINF:-1,RMC ACCESS  2
+#EXTINF:-1 group-title="ASIA SPORT",RMC ACCESS  2
 http://mu03.wanicelife.com:8880/F12M065/R4546878/27971
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1 group-title="ASIA SPORT",BT Sport 1
 http://mu03.wanicelife.com:8880/F12M065/R4546878/2943
-#EXTINF:-1,BT Sport 2
+#EXTINF:-1 group-title="ASIA SPORT",BT Sport 2
 http://mu03.wanicelife.com:8880/F12M065/R4546878/2942
-#EXTINF:-1,BT Sport 3
+#EXTINF:-1 group-title="ASIA SPORT",BT Sport 3
 http://mu03.wanicelife.com:8880/F12M065/R4546878/2941
-#EXTINF:-1,BT Sport ESPN
+#EXTINF:-1 group-title="ASIA SPORT",BT Sport ESPN
 http://mu03.wanicelife.com:8880/F12M065/R4546878/2940
-#EXTINF:-1,Sky Sports MainEvent HD
+#EXTINF:-1 group-title="ASIA SPORT",Sky Sports MainEvent HD
 http://mu03.wanicelife.com:8880/F12M065/R4546878/2881
-#EXTINF:-1,Sky Sports PremierLeague HD
+#EXTINF:-1 group-title="ASIA SPORT",Sky Sports PremierLeague HD
 http://mu03.wanicelife.com:8880/F12M065/R4546878/2877
-#EXTINF:-1,Sky Sports Football HD
+#EXTINF:-1 group-title="ASIA SPORT",Sky Sports Football HD
 http://mu03.wanicelife.com:8880/F12M065/R4546878/2870
-#EXTINF:-1,Match! HD
+#EXTINF:-1 group-title="ASIA SPORT",Match! HD
 http://mu03.wanicelife.com:8880/F12M065/R4546878/52221
-#EXTINF:-1,True Premier Football 1
+#EXTINF:-1 group-title="ASIA SPORT",True Premier Football 1
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61327
-#EXTINF:-1,True Premier Football 2
+#EXTINF:-1 group-title="ASIA SPORT",True Premier Football 2
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61328
-#EXTINF:-1,True Premier Football 3
+#EXTINF:-1 group-title="ASIA SPORT",True Premier Football 3
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61330
-#EXTINF:-1,True Premier Football 4
+#EXTINF:-1 group-title="ASIA SPORT",True Premier Football 4
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61331
-#EXTINF:-1,Truesports 1
+#EXTINF:-1 group-title="ASIA SPORT",Truesports 1
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61332
-#EXTINF:-1,Truesports 2
+#EXTINF:-1 group-title="ASIA SPORT",Truesports 2
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61333
-#EXTINF:-1,Truesports 3
+#EXTINF:-1 group-title="ASIA SPORT",Truesports 3
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61334
-#EXTINF:-1,Truesports 4
+#EXTINF:-1 group-title="ASIA SPORT",Truesports 4
 http://mu03.wanicelife.com:8880/F12M065/R4546878/61335
 
 #EXTINF:-1 group-title="ASIA SPORT", Unifi Sport1
