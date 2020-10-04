@@ -67,17 +67,17 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
-https://lived.ali.huoxinglaike.com/live/stream5964.m3u8?auth_key=1601804100-235ee52fb1c7488a85aba3879215b883-0-53f49e1448a74de3b65992f57bc4c4b9
+https://livec.ali.huoxinglaike.com/live/PPTVtiyu_hd.m3u8?auth_key=1601816700-b5653fbf0fc649909562ab4c09c6efe2-0-9c3287ec957248789f32f9266fab72bb
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
-https://livec.ali.huoxinglaike.com/live/ELTAtiyu3_HD_hd.m3u8?auth_key=1601804100-99654b956eb947f8b9b346653f93418f-0-0cfe8758bfd73da74b3aa34ed1c23da6
+https://livec.ali.huoxinglaike.com/live/tengxuntiyu6_hd.m3u8?auth_key=1601818500-08ceb437e7f342a5944bd3901c1f5012-0-be8e830dba1330bdfdd93f482346d2b8
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Espanyol Vs Alaves (5pm)
-https://livec.ali.huoxinglaike.com/live/aiqiyi3_hd.m3u8?auth_key=1601742900-2a68200e140e4a28985ab9ffc2e3dc60-0-8bfae3c78869baed669359802818e1d0
+https://livec.ali.huoxinglaike.com/live/PPTVtiyu_sfj_hd.m3u8?auth_key=1601825700-f87a40985b1f46bd8369bc86d569c56f-0-1d766de527427d9a746358ab4b3157d5
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Swansea Vs Leeds (10pm)
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu2_hd.m3u8?auth_key=1600608900-dd0bec52f12949289a91930306ac03fe-0-e0fb879422e7dbb2aa47e86364908171
+https://livec.ali.huoxinglaike.com/live/aiqiyi9_hd.m3u8?auth_key=1601829300-c305fcd997214793b42967537967f0e3-0-ad3c1912d085cd91ad48ba5eb62102b5
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Aston Villa Vs Crystal palace (10pm)
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu5_hd.m3u8?auth_key=1600608900-22b932bf193e41ffb142b15a68531b48-0-a97b79160b9641a96dbe4de65075a0b3
+https://livec.ali.huoxinglaike.com/live/tengxuntiyu6_hd.m3u8?auth_key=1601834700-8c9b191b43994c5cb56830d666aa31cc-0-311c91541f669ef4e154e5917dfd1555
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Tottenham Vs Arsenal (10:30pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_lixin.m3u8?auth_key=1595784900-1adb80f1233f4b4a8d16ac63568e1f69-0-4fd6b75cfcf77e7d18f9e0c2f7698219
+https://livec.ali.huoxinglaike.com/live/PPTVtiyu2_hd.m3u8?auth_key=1601836440-64210c21bf044d0eb370db558e68e18b-0-061382322a822c918583b0b820c12bd7
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Derby Vs Brentford (6:30pm)
 https://livede.ali.huoxinglaike.com/live/streamhd4128.m3u8?auth_key=1594476300-ca3f8eca5ab748be854b737bc2b43c88-0-9224158dfebeaa3506e998b739e2a669
 #EXTINF:-1 group-title="LIVE MATCH 31/05/20", Liverpool Vs Burnley (9pm)
