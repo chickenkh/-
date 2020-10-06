@@ -137,13 +137,23 @@ http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", FOXSPORT 3
 http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", FOXSPORT 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", Digisport1
 https://cdn227.cloud-streaming.com/ballsod_y4/digisport1romania/chunks.m3u8?nimblesessionid=7049539&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDEyOjI4OjE3IFBNJmhhc2hfdmFsdWU9SlkvUlNtRXhtTDN1eExyUWQ0V29lUT09JnZhbGlkbWludXRlcz0xJmlkPTkyMjU5MQ==
+#EXTINF:-1 group-title="SPORTS", Fox Sport NL1
+https://cdn227.cloud-streaming.com/ballsod_y4/foxsports1nl/chunks.m3u8?nimblesessionid=7049726&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTA6MTAgUE0maGFzaF92YWx1ZT1Pd2dON2Y5TWR4U2FScnBkRElhZit3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MzgyNTg4
+#EXTINF:-1 group-title="SPORTS", Arena Sport1
+https://cdn227.cloud-streaming.com/ballsod_y4/arenasport1serbia/chunks.m3u8?nimblesessionid=7049731&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTI6MzMgUE0maGFzaF92YWx1ZT1pKzJNKzF2dHk4M2paY21sbWdGaGhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTg0NTA2
+#EXTINF:-1 group-title="SPORTS", SportV
+https://cdn227.cloud-streaming.com/ballsod_y4/sportv/chunks.m3u8?nimblesessionid=7049739&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTM6MjYgUE0maGFzaF92YWx1ZT1CQitnRlRodDc1TnFnUE5BM0hlUWtRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTk0MzQw
+#EXTINF:-1 group-title="SPORTS", C More Footboll
+https://cdn227.cloud-streaming.com/ballsod_y4/cmorefootball/chunks.m3u8?nimblesessionid=7049750&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTQ6MDUgUE0maGFzaF92YWx1ZT1McEZQN1pKYTMvVDl1V3FpYktYVUxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9NzM4OTk3
+#EXTINF:-1 group-title="SPORTS", Sky Sport Football
+https://cdn227.cloud-streaming.com/ballsod_y4/skysportfootball/chunks.m3u8?nimblesessionid=7049767&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTU6MDMgUE0maGFzaF92YWx1ZT1VdHpMNGlrek1UZlg2YzgrLy8xOWpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9OTc1OTYy
+#EXTINF:-1 group-title="SPORTS", Sky Sport Football
 
+#EXTINF:-1 group-title="SPORTS", Sky Sport Football
 
-
-
-
+#EXTINF:-1 group-title="SPORTS", Sky Sport Football
 
 
 
