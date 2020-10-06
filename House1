@@ -131,6 +131,12 @@ https://dootvthai-hd.com/cmd/true/ep1-5/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/bein2.png" tvg-logo="https://iptv36.my.to/logo/bein2.png", beIN Sports HD2
 http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z6ZrN6/logo-foxsports1-small.png" group-title="SPORTS", FOXSPORT 1
+http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9KqL8F/logo-foxsports2-small.png" group-title="SPORTS", FOXSPORT 2
+http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", FOXSPORT 3
+http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
