@@ -66,42 +66,8 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Kirivong Vs Bengket (1pm)
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
 https://lived.ali.huoxinglaike.com/live/streamhd25514.m3u8?auth_key=1602254100-d53a9f91433b48de9f284d605ad7132f-0-01c29584101aae0534f221ada64fc372
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Naga Vs PP Crown (5pm)
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu6_hd.m3u8?auth_key=1601834700-f10e8282cf024e52b7860b9ca50500e0-0-f118295f7625c8552fc57b8b6d330d15
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Espanyol Vs Alaves (5pm)
-https://shopp180.com/fox/4/chunks.m3u8?nimblesessionid=7004
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Swansea Vs Leeds (10pm)
-https://livec.ali.huoxinglaike.com/live/aiqiyi9_hd.m3u8?auth_key=1601829300-c305fcd997214793b42967537967f0e3-0-ad3c1912d085cd91ad48ba5eb62102b5
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Aston Villa Vs Crystal palace (10pm)
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu6_hd.m3u8?auth_key=1601834700-8c9b191b43994c5cb56830d666aa31cc-0-311c91541f669ef4e154e5917dfd1555
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Tottenham Vs Arsenal (10:30pm)
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu2_hd.m3u8?auth_key=1601836440-64210c21bf044d0eb370db558e68e18b-0-061382322a822c918583b0b820c12bd7
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Derby Vs Brentford (6:30pm)
-https://livede.ali.huoxinglaike.com/live/streamhd4128.m3u8?auth_key=1594476300-ca3f8eca5ab748be854b737bc2b43c88-0-9224158dfebeaa3506e998b739e2a669
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Liverpool Vs Burnley (9pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1594485300-968c8fe95fa84b56a90c38b3ee5faca4-0-8bafee029c32739fd0314b2d0a681083
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Blackburn Vs Westbrom (9pm)
-https://livede.ali.huoxinglaike.com/live/streamhd4084.m3u8?auth_key=1594485300-221345a63e284e339f1c965dfd00a60e-0-adc564b03b2e75d2eb84204362154eb9
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Santander Vs Heusca (10pm)
-https://livede.ali.huoxinglaike.com/live/stream23682.m3u8?auth_key=1594488900-230757955df64e2698102f3450db84a4-0-33e584d578a0db915fd67fe563ff3f4f
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Lazio Vs Sassulo (10:15pm)
-https://livecn.ali.huoxinglaike.com/live/pptv6.m3u8?auth_key=1594489800-bf56f76f1c0a4412842e99b9e97a072b-0-b6ebd3adb6faae6b9194423a046ac7f1
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Sheffield United Vs Chelsea (11:30pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sudong.m3u8?auth_key=1594494300-ae20e5e68bfa41ba8102047146b8048f-0-efb8973c180932af4fb4e206c2dbd45a
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Botafogo Vs Cabofriense (9pm)
-https://livede.ali.huoxinglaike.com/live/stream87142.m3u8?auth_key=1593362100-bad0085312fa46c083700c2904d9673a-0-cd536f3d436be0666bd9e754be8f49bc
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Hatayspor Vs Balikesirspor (9:30pm)
-https://livede.ali.huoxinglaike.com/live/stream57138.m3u8?auth_key=1593363900-53197274efd14318ae72a5ae0c659a0a-0-3d33a48b8ebc4491706b93d1fa846da1
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Villarreal Vs Valencia (10pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu2.m3u8?auth_key=1593365700-430715bd92de4fbaaa81db6aa7616272-0-33d86f39f2e5ac7e46c63b15e8351a40
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Leicester Vs Chelsea (10:15pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu7.m3u8?auth_key=1593365700-778864d2b1dc4dc295535983d2adf7e0-0-d09e14b39781dcd0a1ec1e290e715141
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Hoffenheim Vs Union Berlin (8:30pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sudong.m3u8?auth_key=1592669100-3a865427b80541a399c5cdbd0de091bf-0-8d8eae837871622fa16037013d2f552b
-#EXTINF:-1 group-title="LIVE MATCH 31/05/20", Brighton FC Vs Arsenal (9pm)
-https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sfj.m3u8?auth_key=1592670900-aa8137bdf83a46e5a53c971f41e398e9-0-5aadb5f31ca6b051cc1cd8de2d3abb42
 
 
 
@@ -117,43 +83,8 @@ https://livecn.ali.huoxinglaike.com/live/PPTVtiyu_sfj.m3u8?auth_key=1592670900-a
 
 
 
-#EXTINF:-1 tvg-chno="51" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/premier_hd1.png" tvg-logo="https://iptv36.my.to/logo/premier_hd1.png", Premier HD1
-http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/premier_hd2.png" tvg-logo="https://iptv36.my.to/logo/premier_hd2.png", Premier HD2
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/premier_hd3.png" tvg-logo="https://iptv36.my.to/logo/premier_hd3.png", Premier HD3
-http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/premier_hd4.png" tvg-logo="https://iptv36.my.to/logo/premier_hd4.png", Premier HD4
-https://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/premier_hd5.png" tvg-logo="https://iptv36.my.to/logo/premier_hd5.png", Premier HD5
-https://dootvthai-hd.com/cmd/true/ep1-5/playlist.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/bein1.png" tvg-logo="https://iptv36.my.to/logo/bein1.png", beIN Sports HD1
-http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="" group-title="SPORTS" tvg-logo-small="https://iptv36.my.to/logo/bein2.png" tvg-logo="https://iptv36.my.to/logo/bein2.png", beIN Sports HD2
-http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z6ZrN6/logo-foxsports1-small.png" group-title="SPORTS", FOXSPORT 1
-http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q9KqL8F/logo-foxsports2-small.png" group-title="SPORTS", FOXSPORT 2
-http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", FOXSPORT 3
-http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", Digisport1
-https://cdn227.cloud-streaming.com/ballsod_y4/digisport1romania/chunks.m3u8?nimblesessionid=7049539&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDEyOjI4OjE3IFBNJmhhc2hfdmFsdWU9SlkvUlNtRXhtTDN1eExyUWQ0V29lUT09JnZhbGlkbWludXRlcz0xJmlkPTkyMjU5MQ==
-#EXTINF:-1 group-title="SPORTS", Fox Sport NL1
-https://cdn227.cloud-streaming.com/ballsod_y4/foxsports1nl/chunks.m3u8?nimblesessionid=7049726&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTA6MTAgUE0maGFzaF92YWx1ZT1Pd2dON2Y5TWR4U2FScnBkRElhZit3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MzgyNTg4
-#EXTINF:-1 group-title="SPORTS", Arena Sport1
-https://cdn227.cloud-streaming.com/ballsod_y4/arenasport1serbia/chunks.m3u8?nimblesessionid=7049731&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTI6MzMgUE0maGFzaF92YWx1ZT1pKzJNKzF2dHk4M2paY21sbWdGaGhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTg0NTA2
-#EXTINF:-1 group-title="SPORTS", SportV
-https://cdn227.cloud-streaming.com/ballsod_y4/sportv/chunks.m3u8?nimblesessionid=7049739&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTM6MjYgUE0maGFzaF92YWx1ZT1CQitnRlRodDc1TnFnUE5BM0hlUWtRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTk0MzQw
-#EXTINF:-1 group-title="SPORTS", C More Footboll
-https://cdn227.cloud-streaming.com/ballsod_y4/cmorefootball/chunks.m3u8?nimblesessionid=7049750&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTQ6MDUgUE0maGFzaF92YWx1ZT1McEZQN1pKYTMvVDl1V3FpYktYVUxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9NzM4OTk3
-#EXTINF:-1 group-title="SPORTS", Sky Sport Football
-https://cdn227.cloud-streaming.com/ballsod_y4/skysportfootball/chunks.m3u8?nimblesessionid=7049767&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIwIDE6MTU6MDMgUE0maGFzaF92YWx1ZT1VdHpMNGlrek1UZlg2YzgrLy8xOWpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9OTc1OTYy
-#EXTINF:-1 group-title="SPORTS", Sky Sport Football
 
-#EXTINF:-1 group-title="SPORTS", Sky Sport Football
 
-#EXTINF:-1 group-title="SPORTS", Sky Sport Football
 
 
 
@@ -220,65 +151,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="Việt Nam",VTV 1
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv1hd1_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv2-hd.png" group-title="Việt Nam",VTV 2
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv2hd_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv3-hd.png" group-title="Việt Nam",VTV 3
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv3hd1_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="Việt Nam",VTV 4
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv5-hd.png" group-title="Việt Nam",VTV 5
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv5hd_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="Việt Nam",VTV 6
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv6hd1_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv7-hd.png" group-title="Việt Nam",VTV 7
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv8-hd-1.png" group-title="Việt Nam",VTV 8
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv8hd_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv9-hd-1.png" group-title="Việt Nam",VTV 9
-https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv9hd_abr/playlist.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ca91ceac-8a1d-43f4-b526-face1db3cd2a.png",CH3 HD
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/40b0fb62-1e5a-4b19-987f-dcbeebd2131a.png",CH5 HD
-https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/7ce4e92e-144e-4c71-98be-7c156b821403.png",CH7 HD
-https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/3f505fa6-7e85-42ed-a169-cb99dc81d0d1.png",MCOT HD
-https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/df0381b5-cfb4-46b4-a242-ae8c63419231.png",NBT
-http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ed54972b-5902-48a9-b1b8-9061c2035cd5.png",Thai PBS
-https://www.livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/8761bb82-f902-4372-8b9f-34b019d36fb7.png",Thairath TV HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/c2ec6c93-8b27-4bac-bca9-cfbc0a16c27d.png",Nation TV
-http://27.254.130.64/live01/ch8.m3u8?p=st
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",CH8
-https://www.livedoomovies.com/02_8HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9fa53820-435c-4aec-a6d3-e18154d68f72.png",ONE HD
-https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://images.ufoiptv.com/channels/sd-gmmchannel.jpg",GMM25
-https://cdn228.cloud-streaming.com/ballsod_y2/gmm25_480p/chunks.m3u8?nimblesessionid=64086&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjQ1OjM2IEFNJmhhc2hfdmFsdWU9RzBGdmZ0SnhKeVhLVGp3cGxuNC9zZz09JnZhbGlkbWludXRlcz0xJmlkPTUyMDcwMg==
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ba2827f6-d8bf-438c-b010-0c44e2183b4d.png",Amarin TV HD
-https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/156ffa09-9399-4a2f-9aef-0ab92c7d934c.png",PPTV HD
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/02e498b3-274d-4097-909f-6cc85a7a96c3.png",New18 TV
-https://cdn228.cloud-streaming.com/ballsod_y2/tvdigital_newtv_480p/chunks.m3u8?nimblesessionid=64087&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjQ2OjU5IEFNJmhhc2hfdmFsdWU9N2dpajMxMUF0V1BocnFuODhSWCt4Zz09JnZhbGlkbWludXRlcz0xJmlkPTgxMjczOQ==
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/696dff3b-93e3-404d-9504-eb7da45da05d.png",Workpoint
-https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/56ce4866-ab50-4c33-acf5-2ec2974b63d3.png",Mono29
-https://cdn228.cloud-streaming.com/ballsod_y2/mono_480p/chunks.m3u8?nimblesessionid=64101&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIwIDExOjUwOjE1IEFNJmhhc2hfdmFsdWU9VGhDNnlraUFDZk94QlhoMHFRM3Z0UT09JnZhbGlkbWludXRlcz0xJmlkPTM0MzkwMg==
-#EXTINF:-1 tvg-id="" group-title="THAI" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/4c176ad8-beb5-4e46-ac2f-9d18304e9841.jpg",True4U
-https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 
 
 
