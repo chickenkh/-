@@ -66,9 +66,23 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Luxembourg Vs Cyprus (8pm)
+https://livec.ali.huoxinglaike.com/live/aiqiyi1_hd.m3u8?auth_key=1602344100-30e289f1e1904e6e8c54d5f3a2435eac-0-8e9c7afe5cc557bb8454c73e054909db
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Montenegro Vs Azerbaijan (8pm)
+https://livec.ali.huoxinglaike.com/live/aiqiyi2_hd.m3u8?auth_key=1602344100-209df97da1394d5a80d3618543b9df77-0-1ab8d3be65c0fdefecb2c5397669d426
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
-https://lived.ali.huoxinglaike.com/live/streamhd25514.m3u8?auth_key=1602254100-d53a9f91433b48de9f284d605ad7132f-0-01c29584101aae0534f221ada64fc372
 
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
+
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
+
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
+
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
+
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
+
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", Kirivong Vs Bengket (1pm)
 
 
 
