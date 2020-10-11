@@ -88,10 +88,16 @@ https://livec.ali.huoxinglaike.com/live/aiqiyi2_hd.m3u8?auth_key=1602344100-209d
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="កីឡា", True Premier 1
+https://stream1.xn--l3cm7a5azd.live/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="កីឡា", True Premier2
+https://stream1.xn--l3cm7a5azd.live/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="កីឡា", True Premier3
+https://stream1.xn--l3cm7a5azd.live/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="កីឡា", True Premier4
+https://stream1.xn--l3cm7a5azd.live/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="កីឡា", True Premier5
+https://stream1.xn--l3cm7a5azd.live/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="កីឡា", AstroArena
 http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ
 #EXTINF:-1 group-title="កីឡា", SBS Sport (KR)
