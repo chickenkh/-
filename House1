@@ -108,10 +108,10 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8
 #EXTINF:-1 group-title="កីឡា", Bein2
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា", AstroArena
-
-#EXTINF:-1 group-title="កីឡា", AstroArena
-
+#EXTINF:-1 group-title="កីឡា", Sky Sport Football
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8
+#EXTINF:-1 group-title="កីឡា", Sky Sport Premier League
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
 #EXTINF:-1 group-title="កីឡា", AstroArena
 
 
