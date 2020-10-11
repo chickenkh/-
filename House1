@@ -114,14 +114,18 @@ https://shopp180.com/sporttv/5/playlist.m3u8
 https://ufaapp.co/goaltv/3/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា", Bein2
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា", Sky Sport Football
-https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា", Sky Sport Premier League
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា", AstroArena
-
-
-
+#EXTINF:-1 group-title="កីឡា", Z Voetbal
+https://shopp180.com/ziggo/voetbal/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", FoxSport1 NL
+https://shopp180.com/fox/1/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", FoxSport2 NL
+https://shopp180.com/fox/2/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", FoxSport3 NL
+https://shopp180.com/fox/3/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", FoxSport4 NL
+https://shopp180.com/fox/4/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", FoxSport5 NL
+https://shopp180.com/fox/5/playlist.m3u8
 
 
 
