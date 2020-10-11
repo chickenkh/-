@@ -100,16 +100,16 @@ https://stream1.xn--l3cm7a5azd.live/02_PremierHD4_720p/chunklist.m3u8
 https://stream1.xn--l3cm7a5azd.live/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="កីឡា", AstroArena
 http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ
-#EXTINF:-1 group-title="កីឡា", SBS Sport (KR)
-http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
-#EXTINF:-1 group-title="កីឡា", KBSN Sport (KR)
-http://live1.streamk.co:8080/sportsbox_preview/live52/playlist.m3u8?site=gaktv&ch=live52
-#EXTINF:-1 group-title="កីឡា", SportTime EPL (KR)
-http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
-#EXTINF:-1 group-title="កីឡា", SPOTV2 (KR)
-http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
-#EXTINF:-1 group-title="កីឡា", MBCSPORT+ (KR)
-http://live1.streamk.co:8080/sportsbox_preview/live5/playlist.m3u8?site=gaktv&ch=live55
+#EXTINF:-1 group-title="កីឡា", Sport TV1
+https://shopp180.com/sporttv/1/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", Sport TV2
+https://shopp180.com/sporttv/2/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", Sport TV3
+https://shopp180.com/sporttv/3/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", Sport TV4
+https://shopp180.com/sporttv/4/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", Sport TV5
+https://shopp180.com/sporttv/5/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា", Bein1
 https://ufaapp.co/goaltv/3/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា", Bein2
