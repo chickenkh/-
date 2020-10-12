@@ -89,9 +89,9 @@ https://livec.ali.huoxinglaike.com/live/aiqiyi2_hd.m3u8?auth_key=1602344100-209d
 
 
 #EXTINF:-1 group-title="កីឡា", True Premier 1
-https://stream1.xn--l3cm7a5azd.live/02_PremierHD1_720p/chunklist.m3u8
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា", True Premier2
-https://stream1.xn--l3cm7a5azd.live/02_PremierHD2_720p/chunklist.m3u8
+http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា", True Premier3
 https://stream1.xn--l3cm7a5azd.live/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="កីឡា", True Premier4
