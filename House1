@@ -96,13 +96,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="កីឡា",Fox Sport3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា", Astro Supersport1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="កីឡា",Astro SuperSport1
 http://103.136.43.167:8080/test-fa8a31/c23f/157559?play_token=rl5OEDLLW6
-#EXTINF:-1 group-title="កីឡា", Astro Supersport2
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Astro_Supersport_2_2015.png" group-title="កីឡា",Astro SuperSport2
 http://103.136.43.167:8080/test-fa8a31/c23f/157556?play_token=UNpooMSr3p
-#EXTINF:-1 group-title="កីឡា", Astro Supersport3
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="កីឡា",Astro SuperSport3
 http://103.136.43.167:8080/test-fa8a31/c23f/157557?play_token=x10jsNr3GX
-#EXTINF:-1 group-title="កីឡា", Astro Supersport4
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png" group-title="កីឡា",Astro SuperSport4
 http://185.59.222.189:25461/vKIzjhDdqf/bpegx3mcZP/110255?token=GRdRWUpbQV9BCwlUVlFUUAFZDVUKVVJQCgBXVAYFWwcHDQ0MDgZXU1URFEQQFxAGVQxnD1YVCVACU1YHBU8aRBFQS2dQV0FfQQIPUFJaU1cWTRoSW1pWQwlSUgICVwgCVQANFBtDCgFBCRpVUlNSQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1UCVRpKEFRcFF0XFksSWRp6KhcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRV1QFUhob
 #EXTINF:-1 group-title="កីឡា", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
