@@ -136,7 +136,14 @@ https://shopp180.com/digisport/2/playlist.m3u8
 https://shopp180.com/digisport/3/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា", DigiSport4
 https://shopp180.com/digisport/4/playlist.m3u8
-
+#EXTINF:-1 group-title="កីឡា", ArenaSport1
+https://shopp180.com/arena/1/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", ArenaSport2
+https://shopp180.com/arena/2/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", ArenaSport3
+https://shopp180.com/arena/3/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា", ArenaSport4
+https://shopp180.com/arena/4/playlist.m3u8
 
 
 
