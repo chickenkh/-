@@ -147,48 +147,8 @@ http://185.59.222.189:25461/vKIzjhDdqf/bpegx3mcZP/110255?token=GRdRWUpbQV9BCwlUV
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="កីឡា", AstroArena
 http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ
-#EXTINF:-1  tvg-logo="https://i.imgur.com/uzCd2kd.jpg" group-title="កីឡា",USEESPORT
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1801119230_b1344100_sleng_RiyanCoday.m3u8?enc=fZQnQmMRegu2ofqYW6fRrQ&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1602727653
-#EXTINF:-1  tvg-logo="https://i.imgur.com/FgFO0L8.png" group-title="កីឡា",USEESPORT2
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1376763164_b1344100_sleng_RiyanCoday.m3u8?enc=lAkujHdGwyeBRRB9bMnyrQ&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1602727653
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/riyuejz/iptv/raw/master/logo_champ1_small.png" group-title="កីឡា",Champion TV1
-https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/riyuejz/iptv/raw/master/logo_champ2_small.png" group-title="កីឡា",Champion TV2
-https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
 
-#EXTINF:-1 group-title="កីឡា", Sport TV1
-https://shopp180.com/sporttv/1/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", Sport TV2
-https://shopp180.com/sporttv/2/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", Sport TV3
-https://shopp180.com/sporttv/3/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", Z Voetbal
-https://shopp180.com/ziggo/voetbal/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", FoxSport1 NL
-https://shopp180.com/fox/1/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", FoxSport2 NL
-https://shopp180.com/fox/2/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", FoxSport3 NL
-https://shopp180.com/fox/3/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", FoxSport4 NL
-https://shopp180.com/fox/4/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", DigiSport1
-https://shopp180.com/digisport/1/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", DigiSport2
-https://shopp180.com/digisport/2/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", DigiSport3
-https://shopp180.com/digisport/3/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", DigiSport4
-https://shopp180.com/digisport/4/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", ArenaSport1
-https://shopp180.com/arena/1/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", ArenaSport2
-https://shopp180.com/arena/2/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", ArenaSport3
-https://shopp180.com/arena/3/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា", ArenaSport4
-https://shopp180.com/arena/4/playlist.m3u8
 
 
 
