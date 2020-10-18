@@ -157,7 +157,7 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 http://193.42.99.130:23455/3670/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា", KBSN Sports
 http://live.yingtaotvapp.com/KBSr/index.m3u8
-#EXTINF:-1 group-title="កីឡា", SBS Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBSSports.kr.png" group-title="កីឡា",SBS Sports
 http://live.yingtaotvapp.com/SBSr/index.m3u8
 #EXTINF:-1 group-title="កីឡា", MBC Sports+
 http://live.yingtaotvapp.com/MBCr/index.m3u8
