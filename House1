@@ -65,13 +65,13 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អេស្ប៉ាញ ៦:០០
-https://livec.ali.huoxinglaike.com/live/aiqiyi1_hd.m3u8?auth_key=1602941700-b8cc8488b5d346cdbf6439ae802b91d2-0-2e1309131f09ac3ba46bf0ffea5aa45b
+https://livec.ali.huoxinglaike.com/live/weixingyuan3_hd.m3u8?auth_key=1603006500-271c2b4b4eda4a8c8423d5ac5ae87e5a-0-41911e4c99273473e77fb0e7ed432dec
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អង់គ្លេស ៦:៣០
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu5_hd.m3u8?auth_key=1602943500-a94e173df91a47c8a4fe709b21ab8b87-0-0692af3fbbaf4ebed3338c8695e304c3
+https://livec.ali.huoxinglaike.com/live/weixingyuan2_hd.m3u8?auth_key=1603006500-9544e2a63762428e8a3b74d437dbc7c6-0-4c37f1604d92e5a80fbd6369da226fb3
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អុីតាលី ៨:០០
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu_hd.m3u8?auth_key=1602948900-ad86f506858644ccbe5ecf23c6d78eb2-0-dc798ddb64a8192648c0bc3c4ae6acde
+https://lived.ali.huoxinglaike.com/live/streamhd102238.m3u8?auth_key=1603006500-45434cd6a53a4c45959908cbc7386202-0-5eeadc0f4e5bd3e2fe4eee9ff295e550
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អាល្លឺម៉ង់ ៨:៣០
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu_louyichen_hd.m3u8?auth_key=1602950700-65a845e07ce14fdfa3844939da0b9916-0-daa6665988c77be53380f90f0eb5049d
+https://lived.ali.huoxinglaike.com/live/streamhd24410.m3u8?auth_key=1603006500-253ae9da59ab47c4b631aa1e81a47c41-0-4d7fa40b8215417792facfbfc55f4026
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អាល្លឺម៉ង់ ៨:៣០
 https://livec.ali.huoxinglaike.com/live/PPTVtiyu2_hd.m3u8?auth_key=1602950700-afeddbb7080c4a9b994553b872e07ad7-0-633306933eeb05f1f08f95c280e51e30
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អង់គ្លេស ៩:០០
