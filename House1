@@ -163,7 +163,7 @@ http://live.yingtaotvapp.com/SBSr/index.m3u8
 http://live.yingtaotvapp.com/MBCr/index.m3u8
 #EXTINF:-1 group-title="កីឡា", Sky Sports
 http://live.yingtaotvapp.com/SkySports/index.m3u8
-#EXTINF:-1 group-title="កីឡា", JTBC Golf
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png" group-title="កីឡា",JTBC GOLF&SPORTS
 http://live.yingtaotvapp.com/JTBCGolf/index.m3u8
 
 
