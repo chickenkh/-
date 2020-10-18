@@ -163,7 +163,8 @@ http://live.yingtaotvapp.com/SBSr/index.m3u8
 http://live.yingtaotvapp.com/MBCr/index.m3u8
 #EXTINF:-1 group-title="កីឡា", Sky Sports
 http://live.yingtaotvapp.com/SkySports/index.m3u8
-#EXTINF:-1 group-title="កីឡា", AstroArena
+#EXTINF:-1 group-title="កីឡា", JTBC Golf
+http://live.yingtaotvapp.com/JTBCGolf/index.m3u8
 
 
 
