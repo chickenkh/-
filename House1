@@ -149,6 +149,8 @@ http://185.59.222.189:25461/vKIzjhDdqf/bpegx3mcZP/110255?token=GRdRWUpbQV9BCwlUV
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="កីឡា", AstroArena
 http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/sportstv.png" group-title="កីឡា",Sports TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 1" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_1.jpg" group-title="កីឡា",J SPORTS 1
 http://193.42.99.130:23455/3640/playlist.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 2" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG-2GHqKX-nTrgPpV_mX2bUsKeCoweMIEVYafBmdCJCaDz5BF6G-ceviR2k2HlQZjxjnDnmDsMePb_Fe1Yy-HJe-d1Bz1qOuF1HkJC93TLVTW7M8wm2RDU82vmIFN1Pv4RVAnIyJeWIk8W4vDiaiQ-YRqquWJDLOFok0ALMWt7l_uNZsQg04RToorXWKf15XEYY_zWJDaviygt7xprHkmPZj4TI2yhHjo3hJUCbvA2jWLYLZALWUl4SV2S8fxICOswA==/logo-65406-169-400x400.png?errorImage=false" group-title="កីឡា",J SPORTS 2
