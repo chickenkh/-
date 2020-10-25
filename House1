@@ -129,11 +129,11 @@ https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="កីឡា",BEIN SPORT Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",S Premier League
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://i.postimg.cc/qRMJ7Kwg/supersport-premier-league.png",S Premier League
 http://dx4.gcdn.co/UKS1762/index.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",S La Liga
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://i.postimg.cc/D0GwVT5c/supersport-la-liga.png",S La Liga
 http://dx4.gcdn.co/UKS1763/index.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",S Football
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://i.postimg.cc/GmCHCHWT/supersport-football.png",S Football
 http://dx4.gcdn.co/UKS1764/index.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",S Premier League
 
