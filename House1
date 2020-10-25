@@ -149,6 +149,15 @@ http://185.59.222.189:25461/vKIzjhDdqf/bpegx3mcZP/110255?token=GRdRWUpbQV9BCwlUV
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="កីឡា", AstroArena
 http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="កីឡា",Champion TV 1
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=08b00412925ca3fc9f19ad97fc52af0efad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8" group-title="កីឡា",Champion TV 2
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=7f1e60a81b19143d67fa4a3d71c9e6c7fad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?id=8" group-title="កីឡា",UseeSports
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=4c19ad20295739012508db9f189d9da4fad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="កីឡា",UseeSports2
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=411383497a7771cce71f615a99268a43fad6f4e614a212e80c67249a666d2b09
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/sportstv.png" group-title="កីឡា",Sports TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 1" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_1.jpg" group-title="កីឡា",J SPORTS 1
