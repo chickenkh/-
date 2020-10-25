@@ -186,9 +186,6 @@ http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=7f1e60a81b19143d67
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=4c19ad20295739012508db9f189d9da4fad6f4e614a212e80c67249a666d2b09
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="កីឡា",UseeSports2
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=411383497a7771cce71f615a99268a43fad6f4e614a212e80c67249a666d2b09
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/sportstv.png" group-title="កីឡា",Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 1" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_1.jpg" group-title="កីឡា",J SPORTS 1
 http://193.42.99.130:23455/3640/playlist.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 2" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG-2GHqKX-nTrgPpV_mX2bUsKeCoweMIEVYafBmdCJCaDz5BF6G-ceviR2k2HlQZjxjnDnmDsMePb_Fe1Yy-HJe-d1Bz1qOuF1HkJC93TLVTW7M8wm2RDU82vmIFN1Pv4RVAnIyJeWIk8W4vDiaiQ-YRqquWJDLOFok0ALMWt7l_uNZsQg04RToorXWKf15XEYY_zWJDaviygt7xprHkmPZj4TI2yhHjo3hJUCbvA2jWLYLZALWUl4SV2S8fxICOswA==/logo-65406-169-400x400.png?errorImage=false" group-title="កីឡា",J SPORTS 2
@@ -214,7 +211,32 @@ http://live.yingtaotvapp.com/JTBCGolf/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 1 hd
+http://dx4.gcdn.co/UKS1747/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 2 hd
+http://dx4.gcdn.co/UKS1748/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 3 hd
+http://dx4.gcdn.co/UKS1749/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 4 hd
+http://dx4.gcdn.co/UKS1750/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports",bein sports 5 hd
+http://dx4.gcdn.co/UKS1751/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 6 hd
+http://dx4.gcdn.co/UKS1752/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 7 hd
+http://dx4.gcdn.co/UKS1753/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports",bein sports 8 hd
+http://dx4.gcdn.co/UKS1754/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 9 hd
+http://dx4.gcdn.co/UKS1755/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 10 hd
+http://dx4.gcdn.co/UKS1756/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 11 hd
+http://dx4.gcdn.co/UKS1757/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 12 hd
+http://dx4.gcdn.co/UKS1758/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 13 hd
+http://dx4.gcdn.co/UKS1759/index.m3u8
 
 
 
