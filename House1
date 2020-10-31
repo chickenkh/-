@@ -215,18 +215,30 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="channel3.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=5",5 HD
+https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
+#EXTINF:-1 tvg-id="channel7.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD             	
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
+https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
+#EXTINF:-1 tvg-id="Thairath.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairat TV
+https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+#EXTINF:-1 tvg-id="amarintv.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV
+https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+#EXTINF:-1 tvg-id="One31.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE
+http://27.254.130.56:80/live01/ch10.m3u8
+#EXTINF:-1 tvg-id="PPTV.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-id="channel8.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 
 
 
