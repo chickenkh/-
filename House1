@@ -178,28 +178,34 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 4" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG-2GHqKX-nTrgPpV_mX2bUsKeCoweMIEVYafBmdCJCaDz5BF6G-ceviR2k2HlQZjxkxUZ8zB30wHhrjk9TkQCIUYxpsl3gbznbxo8kbL2emS7M8wm2RDU82vmIFN1Pv4RYVsWppXN31FUKYPTlY68-0UMdFe7X7o07KLkKqviYPiGk7Z1olRbzJnj0EY3vHGY1Ao6UMX11eNAvpnz-1eUIdfpCF7IC8xGZLQMWLl7w1JnlYh1nJ4cdhTFaIBTe5iwMIpvke2-BBp7k3hauo3dNaDZNRaifXhNCs_BugWVA5o/logo-65534-132-400x400.png" group-title="កីឡា",J SPORTS 4
 http://193.42.99.130:23455/3670/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AL KASS Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AL KASS Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AL KASS Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AL KASS Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AL KASS Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 1
-http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 2
-http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 3
-http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 4
-http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 5
-http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 6
-http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 7
-http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 8
-http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 9
-http://cdn1.52dvb.xyz:80/5008/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Bein",Bein Sports 10
-http://cdn1.52dvb.xyz:80/5009/playlist.m3u8
+
+
 
 
 
