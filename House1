@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHVxMWhM/One-TV-Sabay-logo-19-05-2018-2.png" group-title="កម្ពុជា|Cambodia",OneTv Sabay
-http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
+http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
 http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
@@ -11,8 +11,8 @@ http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nht2zw8X/IMG-20200621-084953.jpg" group-title="កម្ពុជា|Cambodia",OneTv Movie
 http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZ7ZtXX/ONETV-Music-logo-19-05-2018-8.png" group-title="កម្ពុជា|Cambodia",OneTv Music
-http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZ7ZtXX/ONETV-Music-logo-19-05-2018-8.png" group-title="កម្ពុជា|Cambodia",OneTv News
+http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8V5VLtf/IMG-20200621-085248.jpg" group-title="កម្ពុជា|Cambodia",OneTv Sport9
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKRMNWKX/IMG-20200621-085413.jpg" group-title="កម្ពុជា|Cambodia",OneTv Sport11
@@ -129,18 +129,6 @@ https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="កីឡា",BEIN SPORT Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://i.postimg.cc/qRMJ7Kwg/supersport-premier-league.png",S Premier League
-http://dx4.gcdn.co/UKS1762/index.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://i.postimg.cc/D0GwVT5c/supersport-la-liga.png",S La Liga
-http://dx4.gcdn.co/UKS1763/index.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://i.postimg.cc/GmCHCHWT/supersport-football.png",S Football
-http://dx4.gcdn.co/UKS1764/index.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",S Premier League
-
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",S Premier League
-
-
-
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="កីឡា",Fox Sport1
 https://zalogi.xyz/exo/playlist/foxsport1-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="កីឡា",Fox Sport2
