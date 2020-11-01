@@ -205,9 +205,9 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 
 
 
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1
+#EXTINF:0  group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Матч! Футбол 1
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/222/index.m3u
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2
+#EXTINF:0  group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Матч! Футбол 2
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/211/index.m3u
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/206/index.m3u
