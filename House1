@@ -211,6 +211,10 @@ http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/222/index.m3u
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/211/index.m3u
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/206/index.m3u
+#EXTINF:0 tvg-rec="3",Футбол 1 HD orig
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5073/index.m3u
+#EXTINF:0 tvg-rec="3",Футбол 2 HD orig
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5074/index.m3u
 #EXTINF:0 tvg-rec="3",СТАРТ
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2154/index.m3u
 #EXTINF:0 tvg-rec="3",Телеканал Футбол
