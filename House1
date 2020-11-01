@@ -65,27 +65,6 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អេស្ប៉ាញ ៦:០០
-https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អង់គ្លេស ៦:៣០
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu6_hd.m3u8?auth_key=1603035300-d84838b998e34e91996e80c189b5a8aa-0-910d69ab1a62c3b1f6e0ea14de8adcaa
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អុីតាលី ៨:០០
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu_sudong_hd.m3u8?auth_key=1603035300-3d8187415b6a472f824d8c09837f51b6-0-5527340d25bf15a8d7d5d26af943f3c9
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អាល្លឺម៉ង់ ៨:៣០
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu5_hd.m3u8?auth_key=1603044300-7c47f1b58b2a4483b514acadb82de301-0-661419c245e5ccff884c9234b7070ec3
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អាល្លឺម៉ង់ ៨:៣០
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu2_hd.m3u8?auth_key=1602950700-afeddbb7080c4a9b994553b872e07ad7-0-633306933eeb05f1f08f95c280e51e30
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អង់គ្លេស ៩:០០
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu6_hd.m3u8?auth_key=1602952500-7734e11dc65e44ebbd16eec03f1e599e-0-2d70821781b6bc5a3bff56df03b14d32
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អេស្ប៉ាញ ៩:០០
-https://livec.ali.huoxinglaike.com/live/aiqiyi2_hd.m3u8?auth_key=1602952500-da6228342b71430d824570cb817c2257-0-068476c6677cb3f8dfe5a80ec8454be2
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អីុតាលី ១១:០០
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu_lixin_hd.m3u8?auth_key=1602959640-40fc2c718aec41b1a6a5b59fea835dc5-0-651fc80432d626c18293d77248f0926e
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អង់គ្លេស ១១:៣០
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu5_hd.m3u8?auth_key=1602961500-7b0f681933d74be7ada23da27c9a8349-0-630f12f92cb6cec14242899a67deb110
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អេស្ប៉ាញ ១១:៣០
-https://livec.ali.huoxinglaike.com/live/aiqiyi3_hd.m3u8?auth_key=1602961500-03bd65b5fa674dd3b3a7264c7a56bbfd-0-14b896b6a17f0aff20789aa29c89ea5b
-EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់", អាល្លឺម៉ង់ ១១:៣០
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu8_hd.m3u8?auth_key=1602961500-c77de6d7da454590acf5d49630cdbad8-0-96b319f670ebd13cde98c00448a5b997
 
 
 
@@ -198,12 +177,7 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 
 
 
-#EXTINF:0 tvg-rec="0",TV3 Life HD LV
-#EXTGRP:другие
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6412/index.m3u8
-#EXTINF:0 tvg-rec="0",TV3 Mini HD LV
-#EXTGRP:другие
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6414/index.m3u8
+
 
 
 
@@ -215,88 +189,88 @@ http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6414/index.m3u8
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/222/index.m3u8
 #EXTINF:0  group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Матч! Футбол 2
 http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/211/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/206/index.m3u
-#EXTINF:0 tvg-rec="3",Футбол 1 HD orig
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5073/index.m3u
-#EXTINF:0 tvg-rec="3",Футбол 2 HD orig
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5074/index.m3u
-#EXTINF:0 tvg-rec="3",СТАРТ
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2154/index.m3u
-#EXTINF:0 tvg-rec="3",Телеканал Футбол
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5050/index.m3u
-#EXTINF:0 tvg-rec="3",Sky Sport 1 HD DE
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2478/index.m3u
-#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2479/index.m3u
-#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2480/index.m3u
-#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2492/index.m3u
-#EXTINF:0 tvg-rec="3",Bein Sports 1 HD FR
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2499/index.m3u
-#EXTINF:0 tvg-rec="3",Bein Sports 2 HD FR
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2500/index.m3u
-#EXTINF:0 tvg-rec="3",Bein Sports 3 HD FR
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2501/index.m3u
-#EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2545/index.m3u
-#EXTINF:0 tvg-rec="3",RMC Sport 2 HD FR
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2546/index.m3u
-#EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2547/index.m3u
-#EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2502/index.m3u
-#EXTINF:0 tvg-rec="3",DIGI Sport 1 HD RO
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2523/index.m3u
-#EXTINF:0 tvg-rec="3",DIGI Sport 2 HD RO
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2522/index.m3u
-#EXTINF:0 tvg-rec="3",DIGI Sport 3 HD RO
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2524/index.m3u
-#EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2538/index.m3u
-#EXTINF:0 tvg-rec="3",SPORT TV 1 HD PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2525/index.m3u
-#EXTINF:0 tvg-rec="3",SPORT TV 2 HD PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2526/index.m3u
-#EXTINF:0 tvg-rec="3",SPORT TV 3 HD PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2527/index.m3u
-#EXTINF:0 tvg-rec="3",SPORT TV 4 PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2528/index.m3u
-#EXTINF:0 tvg-rec="3",SPORT TV 5 PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2529/index.m3u
-#EXTINF:0 tvg-rec="3",SPORT TV + PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2530/index.m3u
-#EXTINF:0 tvg-rec="3",Eleven Sports 1 HD PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2531/index.m3u
-#EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2532/index.m3u
-#EXTINF:0 tvg-rec="3",Eleven Sports 3 PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2533/index.m3u
-#EXTINF:0 tvg-rec="3",Eleven Sports 4 PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2534/index.m3u
-#EXTINF:0 tvg-rec="3",Eleven Sports 5 PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2535/index.m3u
-#EXTINF:0 tvg-rec="3",Eleven Sports 6 PT
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2536/index.m3u
-#EXTINF:0 tvg-rec="3",FOX Sports 1 HD NL
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2552/index.m3u
-#EXTINF:0 tvg-rec="3",FOX Sports 2 HD NL
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2553/index.m3u
-#EXTINF:0 tvg-rec="3",FOX Sports 4 HD NL
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2554/index.m3u
-#EXTINF:0 tvg-rec="3",Ziggo Sport Select HD NL
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2560/index.m3u
-#EXTINF:0 tvg-rec="3",Ziggo Sport Voetbal NL
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2561/index.m3u
-#EXTINF:0 tvg-rec="0",Eleven Sports 1 HD PL
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6083/index.m3u
-#EXTINF:0 tvg-rec="0",Eleven Sports 2 HD PL
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6082/index.m3u
-#EXTINF:0 tvg-rec="0",Movistar LaLiga HD ES
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6073/index.m3u
-#EXTINF:0 tvg-rec="0",Movistar Liga Campeones HD ES
-http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6074/index.m3u
+#EXTINF:0  group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Матч! Футбол 3
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/206/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Футбол 1 HD orig
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5073/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Футбол 2 HD orig
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5074/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",СТАРТ
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2154/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Телеканал Футбол
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5050/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Sky Sport 1 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2478/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Sky Sport 2 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2479/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Sky Sport Bundesliga 1 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2480/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Sky Sport Austria 1 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2492/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Bein Sports 1 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2499/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Bein Sports 2 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2500/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Bein Sports 3 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2501/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",RMC Sport 1 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2545/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",RMC Sport 2 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2546/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",RMC Sport 3 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2547/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",Canal+ Sport HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2502/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",DIGI Sport 1 HD RO
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2523/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប" tvg-rec="3",DIGI Sport 2 HD RO
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2522/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",DIGI Sport 3 HD RO
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2524/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",DIGI Sport 4 HD RO
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2538/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",SPORT TV 1 HD PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2525/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",SPORT TV 2 HD PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2526/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",SPORT TV 3 HD PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2527/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",SPORT TV 4 PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2528/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",SPORT TV 5 PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2529/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",SPORT TV + PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2530/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Eleven Sports 1 HD PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2531/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Eleven Sports 2 HD PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2532/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Eleven Sports 3 PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2533/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Eleven Sports 4 PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2534/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Eleven Sports 5 PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2535/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Eleven Sports 6 PT
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2536/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",FOX Sports 1 HD NL
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2552/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",FOX Sports 2 HD NL
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2553/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",FOX Sports 4 HD NL
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2554/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Ziggo Sport Select HD NL
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2560/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="3",Ziggo Sport Voetbal NL
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2561/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="0",Eleven Sports 1 HD PL
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6083/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="0",Eleven Sports 2 HD PL
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6082/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="0",Movistar LaLiga HD ES
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6073/index.m3u8
+#EXTINF:0 group-title="កីឡាអឺរ៉ុប"tvg-rec="0",Movistar Liga Campeones HD ES
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/6074/index.m3u8
 
 
 
