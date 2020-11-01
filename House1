@@ -205,6 +205,57 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 
 
 
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/124/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/530/index.m3u
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/522/index.m3u
+#EXTINF:0 tvg-rec="3",СТАРТ
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2154/index.m3u
+#EXTINF:0 tvg-rec="3",Телеканал Футбол
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/5050/index.m3u
+#EXTINF:0 tvg-rec="3",Sky Sport 1 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2478/index.m3u
+#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2479/index.m3u
+#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2480/index.m3u
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2492/index.m3u
+#EXTINF:0 tvg-rec="3",Bein Sports 1 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2499/index.m3u
+#EXTINF:0 tvg-rec="3",Bein Sports 2 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2500/index.m3u
+#EXTINF:0 tvg-rec="3",Bein Sports 3 HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2501/index.m3u
+#EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
+http://ventalii1.ottclub.xyz/iptv/UK3PQTDNADK45R/2502/index.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="channel3.th" group-title="ថៃ"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
