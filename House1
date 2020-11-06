@@ -92,56 +92,19 @@ https://livec.ali.huoxinglaike.com/live/pptv6_hd.m3u8?auth_key=1604326200-f243dc
 
 
 
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" ,Premier HD1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" ,Premier HD2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" ,Premier HD3
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" ,Premier HD4
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" ,Premier HD5
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png" group-title="កីឡា" , beIN1
 https://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png" group-title="កីឡា" , beIN2
 https://zalogi.xyz/exo/playlist/bein2-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="កីឡា",BEIN SPORT Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="កីឡា",Fox Sport1
-https://zalogi.xyz/exo/playlist/foxsport1-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="កីឡា",Fox Sport2
-https://zalogi.xyz/exo/playlist/foxsport2-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="កីឡា",Fox Sport3
-https://zalogi.xyz/exo/playlist/foxsport3-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="កីឡា",Astro SuperSport1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="កីឡា",AstroSuperSport1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Astro_Supersport_2_2015.png" group-title="កីឡា",Astro SuperSport2
-http://iptvtree.net:8080/F11868/cacb7376/196476
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="កីឡា",Astro SuperSport3
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="កីឡា",AstroSuperSport3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png" group-title="កីឡា",Astro SuperSport4
-http://185.59.222.189:25461/vKIzjhDdqf/bpegx3mcZP/110255?token=GRdRWUpbQV9BCwlUVlFUUAFZDVUKVVJQCgBXVAYFWwcHDQ0MDgZXU1URFEQQFxAGVQxnD1YVCVACU1YHBU8aRBFQS2dQV0FfQQIPUFJaU1cWTRoSW1pWQwlSUgICVwgCVQANFBtDCgFBCRpVUlNSQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1UCVRpKEFRcFF0XFksSWRp6KhcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRV1QFUhob
-#EXTINF: -1 tvg-id="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="កីឡា", TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://i.postimg.cc/zBptzZ5s/Astro-Arena.jpg",Astro Arena
-http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="កីឡា",NBCSN EPL
 http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",true Sport HD2
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065510.jpg",true Sport HD3
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013501.jpg",true Sport 2
-http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-032339.png",true Sport 5
-http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013732.jpg",true Sport 6
-http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="កីឡា"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013642.jpg",true Sport 7
-http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="កីឡា",Champion TV 1
 https://zalogi.xyz/exo/playlist/champion1-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8" group-title="កីឡា",Champion TV 2
@@ -150,14 +113,6 @@ https://zalogi.xyz/exo/playlist/champion2-mkctvMalingPlaylist.m3u8
 https://zalogi.xyz/exo/playlist/useesport-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="កីឡា",UseeSports2
 https://zalogi.xyz/exo/playlist/useesports2-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 1" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_1.jpg" group-title="កីឡា",J SPORTS 1
-http://193.42.99.130:23455/3640/playlist.m3u8
-#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 2" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG-2GHqKX-nTrgPpV_mX2bUsKeCoweMIEVYafBmdCJCaDz5BF6G-ceviR2k2HlQZjxjnDnmDsMePb_Fe1Yy-HJe-d1Bz1qOuF1HkJC93TLVTW7M8wm2RDU82vmIFN1Pv4RVAnIyJeWIk8W4vDiaiQ-YRqquWJDLOFok0ALMWt7l_uNZsQg04RToorXWKf15XEYY_zWJDaviygt7xprHkmPZj4TI2yhHjo3hJUCbvA2jWLYLZALWUl4SV2S8fxICOswA==/logo-65406-169-400x400.png?errorImage=false" group-title="កីឡា",J SPORTS 2
-http://193.42.99.130:23455/3650/playlist.m3u8
-#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 3" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xt-ACoeCN3MB9GAM7vzE_4QlB_g3_58-ihVutEq9IHzZ_r1TwdDaUwbAiaj_dFVlTIEbDpivAtAAX6xxx86yVdZkJzv_RthYZIVqXUhWmyRpXI8zagw7M7s6pqkyURoPOC4kQq-0JyAtosgEDtgPIw1_44KeBU13tP0nrCZimBQaiYEHk1DzXdYiEl3OkjxlwssBv4ySS7zYGoFDb6vK3aIH7URY2zAw1Hp7eLULJK/logo-65406-158-400x400.png?errorImage=false" group-title="កីឡា",J SPORTS 3
-http://193.42.99.130:23455/3660/playlist.m3u8
-#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 4" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG-2GHqKX-nTrgPpV_mX2bUsKeCoweMIEVYafBmdCJCaDz5BF6G-ceviR2k2HlQZjxkxUZ8zB30wHhrjk9TkQCIUYxpsl3gbznbxo8kbL2emS7M8wm2RDU82vmIFN1Pv4RYVsWppXN31FUKYPTlY68-0UMdFe7X7o07KLkKqviYPiGk7Z1olRbzJnj0EY3vHGY1Ao6UMX11eNAvpnz-1eUIdfpCF7IC8xGZLQMWLl7w1JnlYh1nJ4cdhTFaIBTe5iwMIpvke2-BBp7k3hauo3dNaDZNRaifXhNCs_BugWVA5o/logo-65534-132-400x400.png" group-title="កីឡា",J SPORTS 4
-http://193.42.99.130:23455/3670/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 2
