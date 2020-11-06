@@ -212,26 +212,26 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 
 
 #EXTINF:-0 tvg-logo="https://i2.wp.com/globalriskinsights.com/wp-content/uploads/2016/03/cnn-logo-square.png?ssl=1" group-title="NEWS",CNN
-https://tv4.chang55.com:446/live2/tv4ch27.stream/chunks.m3u8
+https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_2_1028000.m3u8
 #EXTINF:-0 tvg-logo="https://techpoint.africa/wp-content/uploads/2015/06/bbc-world-news.png" group-title="NEWS",BBC World News
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="NEWS",CNA (INTERNATIONAL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1nrjHKT/1280px-CNA-new-logo-svg.png" group-title="NEWS",CNA (INTERNATIONAL)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png" group-title="NEWS",Al Jazeera
+#EXTINF:-1tvg-logo="https://i.postimg.cc/7PF0MTF9/VVKcF-Y6.jpg" group-title="NEWS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rt.png" group-title="NEWS",RT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XwgYJkH/1200px-Russia-today-logo-svg.png" group-title="NEWS",RT
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/cgtn.png" group-title="NEWS",CGTN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P53qygLH/cgtn-logo.jpg" group-title="NEWS",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/nhkworldjp.png" group-title="NEWS",NHK World Japan
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MH6khG4F/nw-webapp-1500x1500.png" group-title="NEWS",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png" group-title="NEWS",TRT World
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63zb4fjM/thumbs-b-c-591f14a759c7c64f662e2f71bc4c49b1.jpg" group-title="NEWS",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/france24.png" group-title="NEWS",France24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCrhgy8J/AATXAJx-WCkxnpoe-CF3k-ASs-Hd-Mp-YDT-i-Rj-Ot-Yg-VXKBA-s900-c-k-c0xffffffff-no-rj-mo.jpg" group-title="NEWS",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="NEWS",Arirang TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR7XSVwG/AATXAJxg-t-Mc-W-Sq-TL-Lvgu-Dgzg-A-nv1-TYUS-K-NJh-Jo-Yg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="NEWS",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="NEWS",ABC News
+#EXTINF:-1tvg-logo="https://i.postimg.cc/vH55gQZc/abcnews-pearl-stacked.png" group-title="NEWS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
