@@ -129,6 +129,8 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="កីឡា",VTV 6
 http://220.158.149.14:9999/live/TV00000000000000000162@HHZT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQBTWJ3P/HTV-THETHAO-2014.png" group-title="កីឡា",HTV thể thao
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 
 
