@@ -110,20 +110,10 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 https://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png" group-title="កីឡា" , beIN2
 https://zalogi.xyz/exo/playlist/bein2-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="កីឡា",BEIN SPORT Extra
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="កីឡា",AstroSuperSport1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="កីឡា",Astro1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="កីឡា",AstroSuperSport3
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="កីឡា",Astro3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Np4GGZ4/1604796540992.jpg" group-title="កីឡា" ,Sky Premier League
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgZLSGPk/1280px-Sky-Sport-Football-Logo-2018-svg.png" group-title="កីឡា" ,Sky Football
-https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6zVq4mJ/Sky-Sports-Main-Events.jpg" group-title="កីឡា" , Sky Main Event
-https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png" group-title="កីឡា" ,Sky Bundesliga1
-https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="កីឡា",Champion TV 1
 https://zalogi.xyz/exo/playlist/champion1-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8" group-title="កីឡា",Champion TV 2
@@ -132,22 +122,6 @@ https://zalogi.xyz/exo/playlist/champion2-mkctvMalingPlaylist.m3u8
 https://zalogi.xyz/exo/playlist/useesport-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="កីឡា",UseeSports2
 https://zalogi.xyz/exo/playlist/useesports2-mkctvMalingPlaylist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️DUBAI SPORTS 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 1
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="កីឡា",⚽️AD Sport 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="កីឡា",VTV 6
-http://220.158.149.14:9999/live/TV00000000000000000162@HHZT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQBTWJ3P/HTV-THETHAO-2014.png" group-title="កីឡា",HTV thể thao
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
