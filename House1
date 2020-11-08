@@ -116,6 +116,10 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="កីឡា",AstroSuperSport3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Np4GGZ4/1604796540992.jpg" group-title="កីឡា" ,Sky Premier League
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgZLSGPk/1280px-Sky-Sport-Football-Logo-2018-svg.png" group-title="កីឡា" ,Sky Football
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png" group-title="កីឡា" ,Sky Bundesliga1
 https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="កីឡា",Champion TV 1
