@@ -96,8 +96,16 @@ https://livec.ali.huoxinglaike.com/live/aiqiyi3_hd.m3u8?auth_key=1604771400-34d1
 
 
 
-
-
+#EXTINF:-1 tvg-chno="51" tvg-id="premier1.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd1.png?rev=6",Premier HD1
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="premier2.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd2.png?rev=6",Premier HD2
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="premier3.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd3.png?rev=6",Premier HD3
+https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="premier4.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd4.png?rev=6",Premier HD4
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="premier5.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd5.png?rev=6",Premier HD5
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 
 
 
