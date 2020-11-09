@@ -66,9 +66,9 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", AS១
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",AS1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", AS២
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png", AS3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", TUDN MX
 http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
