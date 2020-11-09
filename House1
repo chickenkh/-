@@ -72,10 +72,10 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", TUDN MX
 http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx២
-http://appstv.us:25461/lozanos/tvmulti/106
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx៣
-http://appstv.us:25461/lozanos/tvmulti/107
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png", Bin1
+https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png", Bin2
+https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Win
 http://appstv.us:25461/lozanos/tvmulti/179
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", SkyBall
