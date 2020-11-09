@@ -65,12 +65,13 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", AS១
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", AS២
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", TUDN MX
 http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", TYC
-http://appstv.us:25461/lozanos/tvmulti/163
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx១
-http://appstv.us:25461/lozanos/tvmulti/105
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx២
 http://appstv.us:25461/lozanos/tvmulti/106
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx៣
