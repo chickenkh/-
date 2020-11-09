@@ -76,9 +76,9 @@ http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png", Bin2
 https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Cham1
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8", Cham1
 https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Cham2
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8", Cham2
 https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", SkyPL
 http://dx4.gcdn.co/UK1290/index.m3u8
