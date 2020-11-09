@@ -101,9 +101,25 @@ http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
 http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", T៥
 http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Polsat១
+http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Polsat២
+http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
 
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
 
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
 
 
 
@@ -174,33 +190,7 @@ https://livec.ali.huoxinglaike.com/live/PPTVtiyu_sudong_hd.m3u8?auth_key=1604853
 
 
 
-#EXTINF:-1 tvg-chno="51" tvg-id="premier1.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd1.png?rev=6",Premier HD1
-https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="premier2.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd2.png?rev=6",Premier HD2
-https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="premier3.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd3.png?rev=6",Premier HD3
-https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="premier4.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd4.png?rev=6",Premier HD4
-https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="premier5.iptv36.my.to" group-title="កីឡា" tvg-logo="https://iptv36.my.to/logo/premier_hd5.png?rev=6",Premier HD5
-https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png" group-title="កីឡា" , beIN1
-https://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png" group-title="កីឡា" , beIN2
-https://zalogi.xyz/exo/playlist/bein2-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="កីឡា",Astro1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" group-title="កីឡា",Astro3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="កីឡា",Champion TV 1
-https://zalogi.xyz/exo/playlist/champion1-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8" group-title="កីឡា",Champion TV 2
-https://zalogi.xyz/exo/playlist/champion2-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?id=8" group-title="កីឡា",UseeSports1
-https://zalogi.xyz/exo/playlist/useesport-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="កីឡា",UseeSports2
-https://zalogi.xyz/exo/playlist/useesports2-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQBTWJ3P/HTV-THETHAO-2014.png" group-title="កីឡា",HTV thể thao
+
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 
