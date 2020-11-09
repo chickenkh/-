@@ -69,22 +69,38 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://23.237.68.90:25461/EVENTO-03.LAMTV/I9YVOX36r2/175
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", TYC
 http://appstv.us:25461/lozanos/tvmulti/163
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx1
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx១
 http://appstv.us:25461/lozanos/tvmulti/105
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx2
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx២
 http://appstv.us:25461/lozanos/tvmulti/106
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx3
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Foxx៣
 http://appstv.us:25461/lozanos/tvmulti/107
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Win
 http://appstv.us:25461/lozanos/tvmulti/179
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", SkyBall
-http://appstv.us:25461/lozanos/tvmulti/474
+http://dx4.gcdn.co/UK1293/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", SkyPL
-http://appstv.us:25461/lozanos/tvmulti/192
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
+http://dx4.gcdn.co/UK1290/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", SkyMain
+http://dx4.gcdn.co/UK1286/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Eir
+http://dx4.gcdn.co/UK7742/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Laliga
+http://dx4.gcdn.co/UK4563/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Premium១
+http://dx4.gcdn.co/UK369/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", Premium២
+http://dx4.gcdn.co/UK370/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", T១
+http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", T២
+http://digitalxpress2.gcdn.co/live1/tsn22/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", T៣
+http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", T៤
+http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", T៥
+http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
 
 
