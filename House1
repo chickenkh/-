@@ -76,6 +76,13 @@ http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58695
 http://chu2.coolmyvip.club:8880/iptvtest034/657607876/51316
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png", Bin1
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Argentina", Fox1
+http://chu2.coolmyvip.club:8880/iptvtest034/657607876/49703
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino", Fox2
+http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57998
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino", Fox3
+http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57997
+
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png", Bin2
 https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8", Cham1
