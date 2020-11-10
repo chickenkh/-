@@ -70,12 +70,18 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png", AS3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png", Bin1
+https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png", Bin2
+https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8", Cham1
+https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8", Cham2
+https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png", TUDN MX
 http://chu2.coolmyvip.club:8880/iptvtest034/657607876/58695
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25TfJRrN/1200px-Win-Sports-logo-svg.png" group-title="ប៉ុស្តិ៍កីឡា", WIN+
 http://chu2.coolmyvip.club:8880/iptvtest034/657607876/51316
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png", Bin1
-https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="ប៉ុស្តិ៍កីឡា", Fox1
 http://chu2.coolmyvip.club:8880/iptvtest034/657607876/49703
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="ប៉ុស្តិ៍កីឡា", Fox2
@@ -83,12 +89,6 @@ http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57998
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="ប៉ុស្តិ៍កីឡា", Fox3
 http://chu2.coolmyvip.club:8880/iptvtest034/657607876/57997
 
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png", Bin2
-https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8", Cham1
-https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8", Cham2
-https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", SkyPL
 http://dx4.gcdn.co/UK1290/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", SkyMain
