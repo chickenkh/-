@@ -199,13 +199,13 @@ https://livec.ali.huoxinglaike.com/live/PPTVtiyu_sudong_hd.m3u8?auth_key=1604853
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=6",CH3 HD
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=5",5 HD
-https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
+https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=6",CH7 HD          	
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/mcot.png?rev=6",MCOT HD
 https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="nbt.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/nbt.png?rev=6",NBT HD
-https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="thairath.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=6",Thairath TV HD
 https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="amarin.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/amarin.png?rev=6",Amarin TV HD
@@ -219,7 +219,7 @@ http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="ch8.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/ch8.png?rev=6",CH8 HD
 https://streaming.livescorethai.net/iptv/hd-ch8.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="mono29.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=6",MONO29 HD
-https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
 
 
