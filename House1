@@ -166,7 +166,7 @@ https://livec.ali.huoxinglaike.com/live/PPTVtiyu_sudong_hd.m3u8?auth_key=1604853
 
 #EXTINF:-1 tvg-id="VTV6-VTV" group-title="វៀតណាម" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="វៀតណាម" tvg-name="HTV THE THAO" group-title="HTVC" tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTV THỂ THAO HD
+#EXTINF:-1 tvg-id="វៀតណាម" tvg-name="HTV THE THAO" group-title="វៀតណាម" tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTV THỂ THAO HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8?
 
 
