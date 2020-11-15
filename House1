@@ -69,18 +69,38 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
 http://156.96.44.13:8081/televall2021/245_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
-
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ២
+http://156.96.44.13:8081/televall2021/246_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ៣
+http://156.96.44.13:8081/televall2021/247_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ៤
+http://156.96.44.13:8081/televall2021/248_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ៥
+http://156.96.44.13:8081/televall2021/249_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ៦
+http://156.96.44.13:8081/televall2021/250_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ៧
+http://156.96.44.13:8081/televall2021/251_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ៨
+http://156.96.44.13:8081/televall2021/252_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ៩
+http://156.96.44.13:8081/televall2021/253_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១០
+http://156.96.44.13:8081/televall2021/254_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១១
+http://156.96.44.13:8081/televall2021/255_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១២
+http://156.96.44.13:8081/televall2021/256_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១៣
+http://156.96.44.13:8081/televall2021/257_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១៤
+http://156.96.44.13:8081/televall2021/246_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១៥
+http://156.96.44.13:8081/televall2021/246_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១៦
+http://156.96.44.13:8081/televall2021/262_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១៧
+http://156.96.44.13:8081/televall2021/261_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
 
 
 
@@ -119,12 +139,8 @@ http://156.96.44.13:8081/televall2021/245_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&exp
 
 
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
-https://lived.ali.huoxinglaike.com/live/streamcnhd75690.m3u8?auth_key=1605371700-23dda49176464b76aa797e417e5e42b1-0-000732de53b2bfc3b0ddea58b805c7c1
+
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៩:៣០
-https://lived.ali.huoxinglaike.com/live/streamhd25514.m3u8?auth_key=1605286200-723b751c1c4647fba34ee881e7c837a4-0-0baca357568fb1ce1db96246f11351b7
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ១០:០០
-https://livec.ali.huoxinglaike.com/live/weixingyuan6_hd.m3u8?auth_key=1605346500-0cbe4ae087ed4ac4a33c07471a0b2520-0-1aa1b68bc7d75fb65939bee1ab00953e
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
 
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
 
@@ -134,6 +150,7 @@ https://livec.ali.huoxinglaike.com/live/weixingyuan6_hd.m3u8?auth_key=1605346500
 
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
 
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
 
 
 
@@ -159,10 +176,6 @@ https://livec.ali.huoxinglaike.com/live/weixingyuan6_hd.m3u8?auth_key=1605346500
 
 
 
-#EXTINF:-1 tvg-id="VTV6-VTV" group-title="វៀតណាម" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="វៀតណាម" tvg-name="HTV THE THAO" group-title="វៀតណាម" tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTV THỂ THAO HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8?
 
 
 
@@ -193,30 +206,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=6",CH3 HD
-http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=5",5 HD
-https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=6",CH7 HD          	
-http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/mcot.png?rev=6",MCOT HD
-https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="nbt.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/nbt.png?rev=6",NBT HD
-http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="thairath.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/thairath.png?rev=6",Thairath TV HD
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="amarin.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/amarin.png?rev=6",Amarin TV HD
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="one.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/one.png?rev=6",ONE HD
-https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="pptv.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=6",PPTV HD
-https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="thaipbs.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/thaipbs.png?rev=6",Thai PBS HD
-http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="ch8.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/ch8.png?rev=6",CH8 HD
-https://streaming.livescorethai.net/iptv/hd-ch8.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="mono29.iptv36.my.to" group-title="ថៃ" tvg-logo="https://iptv36.my.to/logo/mono29.png?rev=6",MONO29 HD
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
 
 
@@ -237,28 +226,10 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 
 
 
-#EXTINF:-0 tvg-logo="https://i2.wp.com/globalriskinsights.com/wp-content/uploads/2016/03/cnn-logo-square.png?ssl=1" group-title="NEWS",CNN
-http://36.37.252.114:888/Apple/OneTV-118/playlist.m3u8
-#EXTINF:-0 tvg-logo="https://techpoint.africa/wp-content/uploads/2015/06/bbc-world-news.png" group-title="NEWS",BBC World News
-http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1nrjHKT/1280px-CNA-new-logo-svg.png" group-title="NEWS",CNA (INTERNATIONAL)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/7PF0MTF9/VVKcF-Y6.jpg" group-title="NEWS",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XwgYJkH/1200px-Russia-today-logo-svg.png" group-title="NEWS",RT
-https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P53qygLH/cgtn-logo.jpg" group-title="NEWS",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MH6khG4F/nw-webapp-1500x1500.png" group-title="NEWS",NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63zb4fjM/thumbs-b-c-591f14a759c7c64f662e2f71bc4c49b1.jpg" group-title="NEWS",TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCrhgy8J/AATXAJx-WCkxnpoe-CF3k-ASs-Hd-Mp-YDT-i-Rj-Ot-Yg-VXKBA-s900-c-k-c0xffffffff-no-rj-mo.jpg" group-title="NEWS",France24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR7XSVwG/AATXAJxg-t-Mc-W-Sq-TL-Lvgu-Dgzg-A-nv1-TYUS-K-NJh-Jo-Yg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="NEWS",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/vH55gQZc/abcnews-pearl-stacked.png" group-title="NEWS",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+
+
+
 
 
 
