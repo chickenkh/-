@@ -65,8 +65,8 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
+http://156.96.44.13:8081/televall2021/64_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ១
 http://156.96.44.13:8081/televall2021/245_.m3u8?md5=ATU4j%2FTNuCA32yZfzyQsvg&expires=1604118334
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា", ២
