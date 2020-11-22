@@ -71,10 +71,6 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png", AS3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png", Bein1 Arab
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png", Bein2 Arab
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Bein1 Asia
 https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png", Bein2 Asia
@@ -95,10 +91,20 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Fox Sports 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",BT SPORT HD1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BT SPORT HD2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Z Select
+http://0100.dyndns.tv:80/Wings4k/gghjja/32983
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Z Voetbal
+http://0100.dyndns.tv:80/Wings4k/gghjja/32984
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Fox NL1
+http://0100.dyndns.tv:80/Wings4k/gghjja/32991
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Fox NL2
+http://0100.dyndns.tv:80/Wings4k/gghjja/32992
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Fox NL3
+http://0100.dyndns.tv:80/Wings4k/gghjja/32993
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Fox NL4
+http://0100.dyndns.tv:80/Wings4k/gghjja/32994
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Fox NL5
+http://0100.dyndns.tv:80/Wings4k/gghjja/32995
 
 
 
