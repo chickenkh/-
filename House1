@@ -95,6 +95,25 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" , Bein 2 FR
 http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telesputnik.ru/upload/iblock/4ab/MATCH_-Futbol-1_b.jpg" group-title="ប៉ុស្តិ៍កីឡា",Матч! Футбол 1
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/124/index.m3u
+#EXTINF:-1 tvg-logo="https://telesputnik.ru/upload/iblock/0e6/MATCH_-Futbol-2_b.jpg" group-title="ប៉ុស្តិ៍កីឡា",Матч! Футбол 2
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/530/index.m3u
+#EXTINF:-1 tvg-logo="https://telesputnik.ru/upload/iblock/4f0/MATCH_-Futbol-3_b.jpg" group-title="ប៉ុស្តិ៍កីឡា",Матч! Футбол 3
+http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/522/index.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
 
 
 
