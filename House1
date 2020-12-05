@@ -92,9 +92,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Fox Sports 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" , Bein 1 FR
-http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" , Bein 2 FR
-http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
+http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
 
 
 
