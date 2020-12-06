@@ -71,9 +71,9 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.c4ca4238a0b923820dcc509a6f75849b.Coday" tvg-name"beIN Sport 1 (USEETV)",beIN Sport 1 (USEETV)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.c4ca4238a0b923820dcc509a6f75849b.Coday" ,beIN Sport 1
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=684dd6fcc268a122d3d8867a18e32164&cdy=efd691fcfb139570442e93d2d3af3ce6e42aca9854a83a01abbe05bd8d8f6f1b
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.aab3238922bcc25a6f606eb525ffdc56.Coday" tvg-name"beIN Sport 2 (USEETV)",beIN Sport 2 (USEETV)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.aab3238922bcc25a6f606eb525ffdc56.Coday" ,beIN Sport 2
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=684dd6fcc268a122d3d8867a18e32164&cdy=8492a79c13ef3e4c30f1872d75fd8e81e42aca9854a83a01abbe05bd8d8f6f1b
 #EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
