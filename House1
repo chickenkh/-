@@ -71,7 +71,31 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/tvqpsx1475246298.png", AS3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
 
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
 
 
 
