@@ -75,23 +75,30 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៤
 http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+http://140.238.16.178:9876/stream/channelid/1234084900
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+http://140.238.16.178:9876/stream/channelid/1180663980
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+http://140.238.16.178:9876/stream/channelid/148375996
 
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
 
 
@@ -122,9 +129,9 @@ http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
 http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
-
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
 
 
