@@ -71,75 +71,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/tvqpsx1475246298.png", AS3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" , Bein1 Asia
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png", Bein2 Asia
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",Premiere Football HD 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",Premiere Football HD 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",Premiere Football HD 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",Premiere Football HD 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",Premiere Football HD 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",Fox Sports HD
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",Fox Sports 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Fox Sports 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" , Bein 1 FR
-http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" , Bein 2 FR
-http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telesputnik.ru/upload/iblock/4ab/MATCH_-Futbol-1_b.jpg" group-title="ប៉ុស្តិ៍កីឡា",Матч! Футбол 1
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/124/index.m3u8
-#EXTINF:-1 tvg-logo="https://telesputnik.ru/upload/iblock/0e6/MATCH_-Futbol-2_b.jpg" group-title="ប៉ុស្តិ៍កីឡា",Матч! Футбол 2
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/530/index.m3u8
-#EXTINF:-1 tvg-logo="https://telesputnik.ru/upload/iblock/4f0/MATCH_-Futbol-3_b.jpg" group-title="ប៉ុស្តិ៍កីឡា",Матч! Футбол 3
-http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/522/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
-
-
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_select.jpg" , Z Select
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://sport-tv-guide.live/images/tv-station-ziggo-voetbal-286.png" , Z Voetbal
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_1_Netherlands.png" , Fox NL1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_2_Netherlands.png" , Fox NL2
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_3_Netherlands.png" , Fox NL3
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_4_Netherlands.png" , Fox NL4
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/hi3yzs1601808446.png" , Fox NL5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xo4k0rm.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YBnt6ZL.png" group-title="ប៉ុស្តិ៍កីឡា",SPORTV 3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNq94sQ.png" group-title="ប៉ុស្តិ៍កីឡា",ESPN BRaSIL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BA8oOAb.png" group-title="ប៉ុស្តិ៍កីឡា",Fox SPORTS
 
 
 
