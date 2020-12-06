@@ -67,34 +67,34 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/swwvwy1475246194.png",AS1
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" tvg-logo="https://www.thesportsdb.com/images/media/logo/tvqpsx1475246298.png", AS3
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៣
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
-
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៤
+http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៥
+http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៦
+http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៧
+http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៨
+http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៩
+http://39.134.66.66/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១០
+http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១១
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១២
+http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១៣
+http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១៤
+http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
 
 
