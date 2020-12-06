@@ -67,6 +67,23 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 http://tv.tangyuanya.com:8080/hls/ke9797/119
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២
