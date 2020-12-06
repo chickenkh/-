@@ -112,29 +112,29 @@ http://tv.tangyuanya.com:8080/hls/ke9797/156
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៨
 http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៩
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៩
 http://140.238.16.178:9876/stream/channelid/1234084900
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១០
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១០
 http://140.238.16.178:9876/stream/channelid/1180663980
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១១
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១១
 http://140.238.16.178:9876/stream/channelid/148375996
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១២
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១២
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៣
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៣
 http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៤
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៤
 http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៥
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៥
 http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៦
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៦
 http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៧
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៧
 http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៨
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៨
 http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៩
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៩
 http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,២០
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,២០
 http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២១
 http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
@@ -158,9 +158,9 @@ http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៣១
 http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣២
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣២
 http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣៣
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣៣
 http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
 
 
