@@ -71,13 +71,13 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://tv.tangyuanya.com:8080/hls/ke9797/119
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២
 http://tv.tangyuanya.com:8080/hls/ke9797/121
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣
 http://tv.tangyuanya.com:8080/hls/ke9797/123
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៤
 http://tv.tangyuanya.com:8080/hls/ke9797/125
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៥
 http://tv.tangyuanya.com:8080/hls/ke9797/131
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៦
 http://tv.tangyuanya.com:8080/hls/ke9797/138
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,១
 http://tv.tangyuanya.com:8080/hls/ke9797/144
@@ -108,67 +108,59 @@ http://tv.tangyuanya.com:8080/hls/ke9797/156
 
 
 
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៣
-http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៤
-http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://140.238.16.178:9876/stream/channelid/1234084900
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://140.238.16.178:9876/stream/channelid/1180663980
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://140.238.16.178:9876/stream/channelid/148375996
-
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៥
-http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៦
-http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៧
-http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៨
+http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៩
+http://140.238.16.178:9876/stream/channelid/1234084900
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១០
+http://140.238.16.178:9876/stream/channelid/1180663980
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១១
+http://140.238.16.178:9876/stream/channelid/148375996
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១២
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៣
+http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៤
+http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៥
+http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៦
+http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៧
+http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៨
+http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៩
+http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,២០
+http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២១
+http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២២
+http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៣
+http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៤
 http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៩
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៥
 http://39.134.66.66/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១០
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៦
 http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១១
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៧
 http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១២
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៨
 http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១៣
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៩
 http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",១៤
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៣០
 http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",AS1
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៣១
 http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣២
 http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
-EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣៣
 http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
 
 
