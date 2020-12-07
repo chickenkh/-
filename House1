@@ -94,6 +94,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/espnbrasil.png",ESPN BRASIL
+http://rec2.distv.net:80/magno/123456/452
+EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/foxsports.png",FOX SPORTS
+http://rec2.distv.net:80/magno/123456/462
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/foxsports2.png",FOX SPORTS 2
+http://rec2.distv.net:80/magno/123456/463
 
 
 
