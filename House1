@@ -75,13 +75,13 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=684dd6fcc268a122d3d8867a18e32164&cdy=efd691fcfb139570442e93d2d3af3ce6e42aca9854a83a01abbe05bd8d8f6f1b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.aab3238922bcc25a6f606eb525ffdc56.Coday" ,beIN Sport 2
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=684dd6fcc268a122d3d8867a18e32164&cdy=8492a79c13ef3e4c30f1872d75fd8e81e42aca9854a83a01abbe05bd8d8f6f1b
-#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png",TR: beIN Sport 1 HD
+#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://epg.beinsports.com/mena_sports/HD1.svg?2017",TR: beIN Sport 1 HD
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/469
-#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png",TR: beINSport 2 HD
+#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://epg.beinsports.com/mena_sports/HD2.svg?2017",TR: beINSport 2 HD
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1547
-#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png",TR: beINSport 3 HD
+#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://epg.beinsports.com/mena_sports/HD3.svg?2017",TR: beINSport 3 HD
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1549
-#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png",TR: beINSport 4 HD
+#EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://epg.beinsports.com/mena_sports/HD4.svg?2017",TR: beINSport 4 HD
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49946
 
 #EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
