@@ -83,6 +83,10 @@ http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@doo
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1549
 #EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://epg.beinsports.com/mena_sports/HD4.svg?2017",TR: beINSport 4 HD
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49946
+#EXTINF:-1 group-title="SPORTS" ,TR: Smart Sport 2 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48242
+#EXTINF:-1 group-title="SPORTS",TR: Smart Sport 1 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48243
 
 #EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
