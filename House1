@@ -87,7 +87,6 @@ http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@doo
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48242
 #EXTINF:-1 group-title="SPORTS",TR: Smart Sport 1 HD
 http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48243
-
 #EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="" group-title="SPORTS" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
@@ -108,100 +107,7 @@ http://rec2.distv.net:80/magno/123456/463
 
 
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-http://tv.tangyuanya.com:8080/hls/ke9797/119
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២
-http://tv.tangyuanya.com:8080/hls/ke9797/121
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣
-http://tv.tangyuanya.com:8080/hls/ke9797/123
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៤
-http://tv.tangyuanya.com:8080/hls/ke9797/125
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៥
-http://tv.tangyuanya.com:8080/hls/ke9797/131
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៦
-http://tv.tangyuanya.com:8080/hls/ke9797/138
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,១
-http://tv.tangyuanya.com:8080/hls/ke9797/144
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,២
-http://tv.tangyuanya.com:8080/hls/ke9797/145
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,៣
-http://tv.tangyuanya.com:8080/hls/ke9797/146
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,៤
-http://tv.tangyuanya.com:8080/hls/ke9797/147
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,៥
-http://tv.tangyuanya.com:8080/hls/ke9797/148
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,៦
-http://tv.tangyuanya.com:8080/hls/ke9797/149
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,៧
-http://tv.tangyuanya.com:8080/hls/ke9797/150
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,៨
-http://tv.tangyuanya.com:8080/hls/ke9797/151
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,៩
-http://tv.tangyuanya.com:8080/hls/ke9797/152
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,១០
-http://tv.tangyuanya.com:8080/hls/ke9797/153
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,១១
-http://tv.tangyuanya.com:8080/hls/ke9797/154
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,១២
-http://tv.tangyuanya.com:8080/hls/ke9797/155
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអារ៉ាប់" ,១៣
-http://tv.tangyuanya.com:8080/hls/ke9797/156
 
-
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៧
-http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៨
-http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៩
-http://140.238.16.178:9876/stream/channelid/1234084900
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១០
-http://140.238.16.178:9876/stream/channelid/1180663980
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១១
-http://140.238.16.178:9876/stream/channelid/148375996
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១២
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៣
-http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៤
-http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៥
-http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៦
-http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៧
-http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៨
-http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១៩
-http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,២០
-http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២១
-http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២២
-http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៣
-http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៤
-http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៥
-http://39.134.66.66/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៦
-http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៧
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៨
-http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",២៩
-http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៣០
-http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា",៣១
-http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣២
-http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,៣៣
-http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
 
 
 
