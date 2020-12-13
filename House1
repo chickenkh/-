@@ -71,6 +71,10 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="SPORTS", Bein 1
+https://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="SPORTS", Bein 2
+https://zalogi.xyz/exo/playlist/bein2-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mega-sat.net/log2/1HD1.png" group-title="SPORTS",Bein 1
 http://iptvworld.nl:2095/live/nh4632b3Cg/MXxtGTDG5v/14260.m3u8
 #EXTINF:-1 tvg-logo="http://www.mega-sat.net/log2/2HD1.png" group-title="SPORTS",Bein 2
