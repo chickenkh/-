@@ -101,6 +101,106 @@ http://witv.live:8880/live/88050/40843/2099.ts
 http://witv.live:8880/live/88050/40843/2100.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTV Thể Thao HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Deportes",#VAMOS HD
 http://195.181.162.102:7283/VAMOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c8c357a3d1b005e9a54bdf7424733de3c1491f4
 #EXTINF:0 tvg-id="ext" group-title="Deportes",AFFIZIONADO HD
@@ -133,13 +233,100 @@ http://195.181.162.102:7283/HY-707/index.m3u8?un=edgarcastillo&tm=1607919849&sn=
 http://195.181.162.102:7283/HY-705/index.m3u8?un=edgarcastillo&tm=1607919849&sn=00a1121046abe4ff1d4d1189363477493db0fafd
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports+ HD
 http://195.181.162.102:7283/HY-708/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5c0ea39ec0251b8b1a31a2a9b765b7d94cdb34f0
-
-
-
-
-
-
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Deportes",ESPN BRASIL
+http://195.181.162.102:7283/ESPN-BRASIL/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b72b414225a52848e9b6218c2f7c52534918f099
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS PY1
+http://195.181.162.102:7283/TIGO-SPORT-1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c897b7d150229200d7e62f07c2f7cf09f30b6e14
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX DEPORTES US HD
+http://195.181.162.102:7283/fox-deportes-us-hd/index.m3u8?un=edgarcastillo&tm=1607919849&sn=53e07efb34e549b00353bf509de8f5a50ff27578
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX FS1 HD
+http://195.181.162.102:7283/FOX-FS1-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=996f090e5c694a6a025a24f727afa067593cf093
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX FS2 HD
+http://195.181.162.102:7283/FOX-FS2-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=86d35a3d44e0fa139f35cea041309f8ef7fb9a6d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 1 Chile HD
+http://195.181.162.102:7283/HY-754/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3681a4e5d7fbeff716d8defc885ce9de89601ced
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 Central HD
+http://195.181.162.102:7283/HY-757/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0b39ff3e94c93eff15a6668460c99267b985b2f6
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Deportes",Fox Sports 2 HD
+http://195.181.162.102:7283/HY-755/index.m3u8?un=edgarcastillo&tm=1607919849&sn=91e47056eb38e0307a99f92c14f57549e1192829
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2 HD+
+http://195.181.162.102:7283/HY-756/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4096b32f5094a7340410c2b98e9aee9d800d7212
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Deportes",Fox Sports 3 HD
+http://195.181.162.102:7283/FOX-SPORTS-3-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2a1a1b7522d9b8506fe7341ab19957f92dd8e7d1
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 HD Central
+http://195.181.162.102:7283/FOX-SPORTS-3-CENTRAL-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=47c1f37c0f6af244f425a722670e220e47830b59
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Central HD
+http://195.181.162.102:7283/HY-763/index.m3u8?un=edgarcastillo&tm=1607919849&sn=77f3bd6a32b5cca5739cbe39afa8378059bf1537
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Deportes",Fox Sports HD
+http://195.181.162.102:7283/HY-761/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8e896e98ebe0003fa6d5bfb9ccdcedd04ead75e0
+#EXTINF:0 tvg-id="FoxSports.tr" group-title="Deportes",Fox Sports HD+
+http://195.181.162.102:7283/HY-762/index.m3u8?un=edgarcastillo&tm=1607919849&sn=235605fc6a7bcc6cbda290b84a745d60d5fcc96e
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Premium Arg HD
+http://195.181.162.102:7283/HY-25351/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f82646fcd551b90af9a762943ffe9a71d9de604d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Premium Arg HD+
+http://195.181.162.102:7283/HY-765/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7e9a0853d1f7b00cf14afa8a19d4b662a8db78e
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FUTV CR HD
+http://195.181.162.102:7283/FUTV-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=965a8ed30367881d8e2a854df178fafbf3e7fa39
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FUTV CR OPC 2 HD
+http://195.181.162.102:7283/FUTV-CR-2-HD-opc2/index.m3u8?un=edgarcastillo&tm=1607919849&sn=6fb1ba8124a1afd620305818707cfe377f832cb7
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Gol Peru HD
+http://195.181.162.102:7283/HY-777/index.m3u8?un=edgarcastillo&tm=1607919849&sn=366006ff392984deb3300ed1d4ed200616066824
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Deportes",Gol TV HD
+http://195.181.162.102:7283/HY-779/index.m3u8?un=edgarcastillo&tm=1607919849&sn=151d6aa154fd1c55e38307f37b1bcdc3ef40608c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Golf Latin America HD
+http://195.181.162.102:7283/GOLF-LATIN-AMERICA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c19a25fb1120411fc3958739ec6d34e2f32f69d3
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="Deportes",Movistar Deportes HD
+http://195.181.162.102:7283/HY-801/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4a0d09908133a60d297a4c5147b0f73cc476a916
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="Deportes",MOVISTAR F1 HD
+http://195.181.162.102:7283/MOVISTAR-FORMULA-1-HD/index.m3u8?un=edgarcas
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Movistar Liga De Campeones HD
+http://195.181.162.102:7283/MOVISTAR-LIGA-DE-CAMPEONES-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b3e2bdfc5bd5dd563bba2b15d540b13f06294510
+#EXTINF:0 tvg-id="ext" group-title="Deportes",MOVISTAR LA LIGA FHD
+http://195.181.162.102:7283/MOVISTAR-LA-LIGA-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=8a971054c65e5c5fb507f534b3c44acd4bc873e5
+#EXTINF:0 tvg-id="outdoor-hd" group-title="Deportes",Outdoor HD
+http://195.181.162.102:7283/HY-826/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3862978e047cd7321ab60ee250a387d8722b332a
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Deportes",REAL MADRID TV HD
+http://195.181.162.102:7283/REAL-MADRID-TV-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=ffeac2f1f8d0563e26c21b6a7931b8d86ca82fca
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Root Sports HD
+http://195.181.162.102:7283/HY-652/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3cf29a59a980e25935f2d53e5f7d5d44b5ce488b
+#EXTINF:0 tvg-id="ext" group-title="Deportes",SKY SPORTS 16 MX HD
+http://195.181.162.102:7283/SKY-SPORTS-16-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b7c6b9140edc17e08b18aadad6da36af946a83fe
+#EXTINF:0 tvg-id="ext" group-title="Deportes",SKY SPORTS 24 MX HD
+http://195.181.162.102:7283/SKY-SPORTS-24-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=76fef628044980f6cffcad2e2d4049e618efe774
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Sports Chicago
+http://195.181.162.102:7283/Sports-Chicago/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c2ceaad159588479651d434d160cc81aa5d3cb25
+#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="Deportes",Sportsman HD
+http://195.181.162.102:7283/HY-822/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d37b5691e4533fee1863b056b01048677b05ac96
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TD+ CR HD
+http://195.181.162.102:7283/TD-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=36732d8afa6cb097a12d1378110b3bf2d10dcb20
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORT CR HD
+http://195.181.162.102:7283/TIGO-SPORT-CR-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3457fa5e94c6e4bef8ee8be27d572d49d1bff7c0
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORTS 1 BO HD
+http://195.181.162.102:7283/TIGO-SPORTS-1-BO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=742cc0c511e471f10fc22a45c5364b04da52f92d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORT 3 HD
+http://195.181.162.102:7283/TIGO-SPORT-3-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=e73468f815f33557f44c773e081596263bb46d22
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports Arg HD
+http://195.181.162.102:7283/HY-1333/index.m3u8?un=edgarcastillo&tm=1607919849&sn=130b0a0edbf528c9b9494445ee41edd76ffa767c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports Arg HD+
+http://195.181.162.102:7283/HY-1334/index.m3u8?un=edgarcastillo&tm=1607919849&sn=be6776e92a72d9a174d51ff4c9e04fcbd8507025
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Deportes",TOROS TV FHD
+http://195.181.162.102:7283/TOROS-TV-FHD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=f117cfb7ff9e46c8901610c19fade57316992499
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN MX HD
+http://195.181.162.102:7283/TUDN-MX-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=4ae322f51cc70b11cd05f52a75c26a5599523162
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN USA HD
+http://195.181.162.102:7283/TUDN-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=08277b2259bf2096b6bc529254fd0e9df16d3460
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports HD
+http://195.181.162.102:7283/HY-1343/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9b47df8f2f105a6a0aa29b4d903effe6af81784c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",VTV Uruguay HD
+http://195.181.162.102:7283/HY-1353/index.m3u8?un=edgarcastillo&tm=1607919849&sn=86e8d3e3d970337452ba768009d0a1007d799389
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WIN Sports HD
+http://195.181.162.102:7283/HY-1356/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c4e2415681083b3a2195452e48300078aad65d08
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WIN SPORTS PLUS+ HD
+http://195.181.162.102:7283/WIN-SPORTS-PLUS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=0cb6f56ed00e32b800a2e8faf0910d3dd52465a1
+#EXTINF:0 tvg-id="WWEHD.ca" group-title="WWE",WWE HD
+http://195.181.162.102:7283/WWE-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=a740c2808a8cfef34dd80c3eb1e22b1bf08992f4
+#EXTINF:0 tvg-id="ext" group-title="WWE",WWE PLUS HD
+http://195.181.162.102:7283/WWE-PLUS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5891c424168a3f433f10e40392b645f15970449b
 
 
 
