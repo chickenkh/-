@@ -75,33 +75,38 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 https://zalogi.xyz/exo/playlist/bein1-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="SPORTS", Bein 2
 https://zalogi.xyz/exo/playlist/bein2-mkctvMalingPlaylist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mega-sat.net/log2/1HD1.png" group-title="SPORTS",Bein 1
-http://iptvworld.nl:2095/live/nh4632b3Cg/MXxtGTDG5v/14260.m3u8
-#EXTINF:-1 tvg-logo="http://www.mega-sat.net/log2/2HD1.png" group-title="SPORTS",Bein 2
-http://iptvworld.nl:2095/live/nh4632b3Cg/MXxtGTDG5v/14259.m3u8
-#EXTINF:-1 tvg-logo="http://www.mega-sat.net/log2/3HD1.png" group-title="SPORTS",Bein 3
-http://iptvworld.nl:2095/live/nh4632b3Cg/MXxtGTDG5v/14258.m3u8
-#EXTINF:-1 tvg-logo="http://www.mega-sat.net/log2/4HD1.png" group-title="SPORTS",Bein 4
-http://iptvworld.nl:2095/live/nh4632b3Cg/MXxtGTDG5v/14257.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="SPORTS",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="SPORTS",Fox Sport 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="SPORTS",Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 group="SPORTS",Star Sports Select 1 HD
+http://witv.live:8880/live/88050/40843/1070.ts
+#EXTINF:-1 group="SPORTS",Star Sports Select 2 HD
+http://witv.live:8880/live/88050/40843/1071.ts
+#EXTINF:-1 group="SPORTS",Sky Sports Main Event
+http://witv.live:8880/live/88050/40843/2091.ts
+#EXTINF:-1 group="SPORTS",Sky Sports Premier League
+http://witv.live:8880/live/88050/40843/2092.ts
+#EXTINF:-1 group="SPORTS",Sky Sports Football
+http://witv.live:8880/live/88050/40843/2093.ts
+#EXTINF:-1 group="SPORTS",BT Sport 1
+http://witv.live:8880/live/88050/40843/2097.ts
+#EXTINF:-1 group="SPORTS",BT Sport 2
+http://witv.live:8880/live/88050/40843/2098.ts
+#EXTINF:-1 group="SPORTS",BT Sport 3
+http://witv.live:8880/live/88050/40843/2099.ts
+#EXTINF:-1 group="SPORTS",BT Sport ESPN
+http://witv.live:8880/live/88050/40843/2100.ts
 
-#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv" group-title="SPORTS" tvg-logo="https://vnplay.tv/dist/logo/37.png?ver=4" ,VTVCab3
-http://cdn2.thanden.cf/live/3uw6Q4EuS-zYJhw1elYZeA/1607613456/vtvcab3.m3u8
-#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv" group-title="SPORTS" tvg-logo="https://imgstatic.vtvcab.vn/logos/BONG_DA_TV_SD_M.png" ,VTVCab16
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w913268349_b2692000.m3u8?uid=y244c4a4s29474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1600085231&mytokenhash=B3Eo4jgzrqb6qalJ-f53LZcLvs3HT7pC2Rzdyvu3PaM%3D
+
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTV Thể Thao HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
-https://lived.ali.huoxinglaike.com/live/streamcnhd4040.m3u8?auth_key=1607878200-c6c31f6d306a4ee78eb4ca281dbb3ad1-0-f1360ddb2f5f852648f292e23004b025
 
 
 
@@ -140,12 +145,6 @@ https://lived.ali.huoxinglaike.com/live/streamcnhd4040.m3u8?auth_key=1607878200-
 
 
 
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
-https://lived.ali.huoxinglaike.com/live/streamhd8496.m3u8?auth_key=1606657800-f82ec4cd32634cc4b87abb11d833a6e5-0-cbbefbe65d5b66308b65d1143552365e
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៩:៣០
-https://livec.ali.huoxinglaike.com/live/aiqiyi3_hd.m3u8?auth_key=1605981000-24f8a975acb74671b4b14827fbb94183-0-8eb69dbe4f2da84398d9889799bfa708
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu8_hd.m3u8?auth_key=1605978300-08588e717ffc4a99b2f56ada7efb6d66-0-0f57b95d617a6ecc6d6dd822ce5781ce
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
 
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់ ០៧-១១", ៧:៣០
