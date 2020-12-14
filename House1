@@ -99,12 +99,45 @@ http://witv.live:8880/live/88050/40843/2098.ts
 http://witv.live:8880/live/88050/40843/2099.ts
 #EXTINF:-1 group="SPORTS",BT Sport ESPN
 http://witv.live:8880/live/88050/40843/2100.ts
-
-
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTV Thể Thao HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",#VAMOS HD
+http://195.181.162.102:7283/VAMOS-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2c8c357a3d1b005e9a54bdf7424733de3c1491f4
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AFFIZIONADO HD
+http://195.181.162.102:7283/AFFIZIONADO-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9274f3eaf2d1e9f895ea1909aa511b87bd2a61f6
+#EXTINF:0 tvg-id="ext" group-title="Deportes",BEIN SPORT USA HD
+http://195.181.162.102:7283/BEIN-SPORT-USA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=79d72a06041da0bcba475e141d5da60a4cdad173
+EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports ñ HD
+http://195.181.162.102:7283/BEIN-SPORT-N-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=24e85734f5ccaa569162543cb30cb0bea6604add
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CABLE ONDA SPORTS FC PAN HD
+http://195.181.162.102:7283/CABLE-ONDA-SPORTS-FC-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=3b9d2c739607dbf53ce5a76140d2d358bf87e5fa
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CABLE ONDA SPORTS PAN HD
+http://195.181.162.102:7283/CABLE-ONDA-SPORTS-PAN-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=dccc7982d1e9cc70372cda7f7c6b140d4e83824d
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Canal Caza & Pezca HD
+http://195.181.162.102:7283/CANAL-CAZA-PEZCA-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=7f7621f555754c5272fe43a3155d01828c342148
+#EXTINF:0 tvg-id="SportsNetHD.ca" group-title="Deportes",CBS SPORTS NETWORK HD
+http://195.181.162.102:7283/CBS-SPORTS-NETWORK-HD/index.m3u8?un=edgarcastillo&tm=1607919849&sn=b44bb90a18f7aecbc4a65621ef75675cacc39908
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CDF ESTADIO HD
+http://195.181.162.102:7283/HIPODROMO-PRESIDENTE-REMON-PAN/index.m3u8?un=edgarcastillo&tm=1607919849&sn=2489ea2ebdb1cde63fec896fc4c030cf8581b25a
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Deportes",CDF HD
+http://195.181.162.102:7283/HY-692/index.m3u8?un=edgarcastillo&tm=1607919849&sn=63cd90cda01a3ff441aa5962a951f7a3e0f11ad4
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Deportes",CDF HD+
+http://195.181.162.102:7283/HY-693/index.m3u8?un=edgarcastillo&tm=1607919849&sn=c05099005fb3252a3ee6c299525ebc6959f101ec
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Claro Sports HD
+http://195.181.162.102:7283/HY-745/index.m3u8?un=edgarcastillo&tm=1607919849&sn=9d937d83695e3e3a996a011db3a411532895ca23
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Direct tv Sports plus
+http://195.181.162.102:7283/Direct-tv-Sports-plus/index.m3u8?un=edgarcastillo&tm=1607919849&sn=69ea4eab84a128bfa3702544e4fb89e702e16757
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports HD
+http://195.181.162.102:7283/HY-707/index.m3u8?un=edgarcastillo&tm=1607919849&sn=d8f35dd0a05a7877f6df0f5ab574799d8bf57df7
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports 2 HD
+http://195.181.162.102:7283/HY-705/index.m3u8?un=edgarcastillo&tm=1607919849&sn=00a1121046abe4ff1d4d1189363477493db0fafd
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports+ HD
+http://195.181.162.102:7283/HY-708/index.m3u8?un=edgarcastillo&tm=1607919849&sn=5c0ea39ec0251b8b1a31a2a9b765b7d94cdb34f0
+
+
+
+
+
 
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡា" ,១
 
