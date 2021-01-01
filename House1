@@ -363,6 +363,13 @@ https://livec.ali.huoxinglaike.com/live/aiqiyi10_hd.m3u8?auth_key=1609437000-2d2
 
 #EXTINF:0 tvg-rec="0",CANAL+2 PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6099/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven 1 HD PL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2518/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven 2 HD PL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2517/index.m3u8
+#EXTINF:0 tvg-rec="3",nSport+ PL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2519/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/124/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 2
@@ -381,6 +388,12 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2478/index.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Bundesliga 1 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2480/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Austria 1 HD DE
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2492/index.m3u8
+#EXTINF:0 tvg-rec="3",C More HD SE
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2515/index.m3u8
+
+
 
 
 #EXTINF:0 tvg-rec="3",Телеканал Футбол
