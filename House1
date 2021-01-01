@@ -361,63 +361,61 @@ https://livec.ali.huoxinglaike.com/live/aiqiyi10_hd.m3u8?auth_key=1609437000-2d2
 
 
 
-#EXTINF:0 tvg-rec="0",CANAL+2 PL
+#EXTINF:0 group-title="កីឡា" tvg-rec="0",CANAL+2 PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6099/index.m3u8
-#EXTINF:0 tvg-rec="3",Eleven 1 HD PL
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Eleven 1 HD PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2518/index.m3u8
-#EXTINF:0 tvg-rec="3",Eleven 2 HD PL
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Eleven 2 HD PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2517/index.m3u8
-#EXTINF:0 tvg-rec="3",nSport+ PL
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",nSport+ PL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2519/index.m3u8
-#EXTINF:0 tvg-rec="3",DIGI 1 HD RO
+#EXTINF:0 group-title="កីឡា" tvg-rec="0",PREMIER UK
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6555/index.m3u8
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",DIGI 1 HD RO
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2523/index.m3u8
-#EXTINF:0 tvg-rec="3",DIGI 2 HD RO
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",DIGI 2 HD RO
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2522/index.m3u8
-#EXTINF:0 tvg-rec="3",DIGI 4 HD RO
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",DIGI 4 HD RO
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2538/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 2 HD NO
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",TV 2 HD NO
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2540/index.m3u8
-#EXTINF:0 tvg-rec="3",ČT HD CZ
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",ČT HD CZ
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2551/index.m3u8
-#EXTINF:0 tvg-rec="3",FOX 1 HD NL
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",FOX 1 HD NL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2552/index.m3u8
-#EXTINF:0 tvg-rec="3",FOX 2 HD NL
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",FOX 2 HD NL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2553/index.m3u8
-#EXTINF:0 tvg-rec="3",FOX 4 HD NL
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",FOX 4 HD NL
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2554/index.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Ziggo Select HD NL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2560/index.m3u8
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Ziggo Voetbal NL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2561/index.m3u8
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Матч! Футбол 1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/124/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Матч! Футбол 2
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/530/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Матч! Футбол 3
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/522/index.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-rec="7" timeshift="7",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="កីឡា" tvg-rec="7" timeshift="7",Футбол 3 HD
 http://myott.top/stream/6MWDGPDGB1/297.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-rec="7" timeshift="7",Setanta Sport 1 HD
 http://myott.top/stream/6MWDGPDGB1/234.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-rec="7" timeshift="7",Setanta Sport 2 HD
 http://myott.top/stream/6MWDGPDGB1/235.m3u8
-#EXTINF:0 tvg-rec="3",Sky 1 HD DE
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Sky 1 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2478/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky 2 HD DE
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Sky 2 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Bundesliga 1 HD DE
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Sky Bundesliga 1 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2480/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Austria 1 HD DE
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Sky Austria 1 HD DE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2492/index.m3u8
-#EXTINF:0 tvg-rec="3",C More HD SE
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",C More HD SE
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2515/index.m3u8
-#EXTINF:0 tvg-rec="3",C More 1 HD FI
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",C More 1 HD FI
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2541/index.m3u8
-
-
-
-#EXTINF:0 tvg-rec="3",Телеканал Футбол
+#EXTINF:0 group-title="កីឡា" tvg-rec="3",Телеканал Футбол
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/5050/index.m3u8
 
 
