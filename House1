@@ -72,9 +72,9 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="SPORTS", Bein 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8?Live-TV
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="SPORTS", Bein 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8?Live-TV
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="SPORTS",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="SPORTS",Fox Sport 2
@@ -85,29 +85,29 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Bein",beIN SPORTS 1 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/671.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/671.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 2 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/672.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/672.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 3 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/673.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/673.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 4 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/674.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/674.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 5 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/675.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/675.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 6 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/676.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/676.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 7 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/677.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/677.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 8 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/678.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/678.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 9 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/679.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/679.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 10 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/680.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/680.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 11 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/681.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/681.m3u8
 #EXTINF:-1 group-title="Bein",beIN SPORTS 12 HD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/682.ts
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/682.m3u8
 
 
 
