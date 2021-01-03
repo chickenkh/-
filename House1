@@ -67,19 +67,19 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="កីឡា",Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="កីឡា",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="SPORTS", Bein 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Bein 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="SPORTS", Bein 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="កីឡា", Bein 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="SPORTS",Fox Sport 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="កីឡា",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="SPORTS",Fox Sport 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="កីឡា",Fox Sport 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="SPORTS",Fox Sport 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="កីឡា",Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
@@ -111,11 +111,11 @@ http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/682.m3u8
 
 
 
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់",Super Sport Premier Leuage
+#EXTINF:-1 group-title="កីឡា",Super Sport Premier Leuage
 http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/34418
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់",Super Sport Laliga
+#EXTINF:-1 group-title="កីឡា",Super Sport Laliga
 http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/34426
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់",Super Sport Football
+#EXTINF:-1 group-title="កីឡា",Super Sport Football
 http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/34424
 
 
@@ -397,7 +397,7 @@ http://mr4k.pk:8080/H0LVYsqgU0/uPJrmb0SZM/34424
 
 
 #EXTINF:0 group-title="កីឡា" tvg-rec="3",Матч! Футбол 3
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/522/index.m3u8
+
 #EXTINF:-1 group-title="កីឡា" tvg-rec="7" timeshift="7",Футбол 3 HD
 http://myott.top/stream/6MWDGPDGB1/297.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-rec="7" timeshift="7",Setanta 1 HD
