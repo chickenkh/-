@@ -369,9 +369,38 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:0 group-title="កីឡា" tvg-rec="3",Матч! Футбол 3
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 1
+http://srvx.io:80/live/7885037935/fireurl.co/71860.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 2
+http://srvx.io:80/live/7885037935/fireurl.co/72630.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 3
+http://srvx.io:80/live/7885037935/fireurl.co/71861.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 4
+http://srvx.io:80/live/7885037935/fireurl.co/71859.m3u8
