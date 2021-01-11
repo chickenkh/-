@@ -426,41 +426,41 @@ https://livec.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1610287500-b3dd4
 
 
 
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 1
-http://srvx.io:80/live/7885037935/fireurl.co/71860.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 2
-http://srvx.io:80/live/7885037935/fireurl.co/72630.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 3
-http://srvx.io:80/live/7885037935/fireurl.co/71861.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="បាល់ទាត់",DAZN 4
-http://srvx.io:80/live/7885037935/fireurl.co/71859.ts
-#EXTINF:-1 tvg-logo="" group-title="បាល់ទាត់",Eleven 1
-http://srvx.io:80/live/7885037935/fireurl.co/73254.ts
-#EXTINF:-1 tvg-logo="" group-title="បាល់ទាត់",Eleven 2
-http://srvx.io:80/live/7885037935/fireurl.co/73255.ts
-#EXTINF:-1 tvg-logo="" group-title="បាល់ទាត់",Eleven 3
-http://srvx.io:80/live/7885037935/fireurl.co/73256.ts
-#EXTINF:-1 tvg-logo="" group-title="បាល់ទាត់",Eleven 4
-http://srvx.io:80/live/7885037935/fireurl.co/73257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="បាល់ទាត់",Eleven 5
-http://srvx.io:80/live/7885037935/fireurl.co/73258.ts
-#EXTINF:-1 tvg-logo="" group-title="បាល់ទាត់",Eleven 6
-http://srvx.io:80/live/7885037935/fireurl.co/73259.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="បាល់ទាត់",SporTV
-http://srvx.io:80/live/7885037935/fireurl.co/72332.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="បាល់ទាត់",SporTV 2
-http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="បាល់ទាត់",SporTV 3
-http://srvx.io:80/live/7885037935/fireurl.co/72327.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="បាល់ទាត់",FoxSpots 2
-http://srvx.io:80/live/7885037935/fireurl.co/71952.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="បាល់ទាត់",Fox Spots
-http://srvx.io:80/live/7885037935/fireurl.co/71957.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="បាល់ទាត់",ESPN 2
-http://srvx.io:80/live/7885037935/fireurl.co/71907.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="បាល់ទាត់",ESPN Brasil
-http://srvx.io:80/live/7885037935/fireurl.co/71911.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="បាល់ទាត់",ESPN Extra
-http://srvx.io:80/live/7885037935/fireurl.co/71915.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="បាល់ទាត់",ESPN
-http://srvx.io:80/live/7885037935/fireurl.co/71919.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cpng.pikpng.com/pngl/s/200-2005313_juventus-moderniza-escudo-para-2017-2018-bein-sport.png",BEINSPORT_1HD
+http://itking.online:8080/livetv/live/43
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png",BEINSPORT_2HD
+http://itking.online:8080/livetv/live/44
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png",BEINSPORT_3HD
+http://itking.online:8080/livetv/live/45
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD4.png",BEINSPORT_4HD
+http://itking.online:8080/livetv/live/46
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD5.png",BEINSPORT_5HD
+http://itking.online:8080/livetv/live/47
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD6.png",BEINSPORT_6HD
+http://itking.online:8080/livetv/live/48
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD7.png",BEINSPORT_7HD
+http://itking.online:8080/livetv/live/49
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/beinsports8_color.png",BEINSPORT_8HD
+http://itking.online:8080/livetv/live/50
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png",BEINSPORT_9HD
+http://itking.online:8080/livetv/live/51
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://i.ibb.co/1Q5k6sz/10.png",BEINSPORT_10HD
+http://itking.online:8080/livetv/live/52
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png",BEINSPORT_11HD
+http://itking.online:8080/livetv/live/53
