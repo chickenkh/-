@@ -464,3 +464,5 @@ http://itking.online:8080/livetv/live/51
 http://itking.online:8080/livetv/live/52
 #EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png",BEINSPORT_11HD
 http://itking.online:8080/livetv/live/53
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://www.liveonlinetv247.com/images/beinsports12.png",BEINSPORT_12HD
+http://mcsh.xyz:8080/abcdef/800900/51745
