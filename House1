@@ -96,7 +96,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="ផ្សាយផ្ទាល់", 1
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1610287500-b3dd4ae468f74791b3cbf9084853b2d0-0-261188b11d94efb7fbec18a15897a468
 
 
 
@@ -441,6 +440,43 @@ https://livec.ali.huoxinglaike.com/live/PPTVtiyu3.m3u8?auth_key=1610287500-b3dd4
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="" group-title="បាល់",Arena 1 HD
+http://admin-mainpanel.club:8080/KA/KA/2505
+#EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="" group-title="បាល់",Arena 2 HD
+http://admin-mainpanel.club:8080/KA/KA/2503
+#EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="" group-title="បាល់",Arena 3 HD
+http://admin-mainpanel.club:8080/KA/KA/2501
+#EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="[" group-title="បាល់",Arena 4 HD
+http://admin-mainpanel.club:8080/KA/KA/2499
+#EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="បាល់",Arena 5 HD
+http://admin-mainpanel.club:8080/KA/KA/2497
 
 #EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cpng.pikpng.com/pngl/s/200-2005313_juventus-moderniza-escudo-para-2017-2018-bein-sport.png",BEINSPORT_1HD
 http://itking.online:8080/livetv/live/43
