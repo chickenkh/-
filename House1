@@ -69,8 +69,12 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="កីឡា",Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071045.jpg",Astro Supersport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="កីឡា",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro Supersport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Bein 1
 http://cekker.masuk.web.id/exo/playlist/bein1-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="កីឡា", Bein 2
