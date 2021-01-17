@@ -472,7 +472,53 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cpng.pikpng.com/pngl/s/200-2005313_juventus-moderniza-escudo-para-2017-2018-bein-sport.png",beIN Sports 1 FHD
 
+http://mcsh.xyz:8080/abcdef/800900/51747
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png",beIN Sports 2 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51748
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png",beIN Sports 3 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51749
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD4.png",beIN Sports 4 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51750
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD5.png",beIN Sports 5 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51751
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD6.png",beIN Sports 6 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51752
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD7.png",beIN Sports 7 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51753
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/beinsports8_color.png",beIN Sports 8 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51754
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png",beIN Sports 9 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51755
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://i.ibb.co/1Q5k6sz/10.png",beIN Sports 10 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51756
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png",beIN Sports 11 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51744
+
+#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://www.liveonlinetv247.com/images/beinsports12.png",beIN Sports 12 FHD
+
+http://mcsh.xyz:8080/abcdef/800900/51745
 
 
 
