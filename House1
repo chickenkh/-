@@ -90,15 +90,15 @@ https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
 http://cekker.masuk.web.id/exo/playlist/bein1-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="កីឡា", Bein 2
 http://cekker.masuk.web.id/exo/playlist/bein2-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Sky EPL
+#EXTINF:-1 tvg-logo="http://tny.im/nKD" group-title="កីឡា", Sky EPL
 https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Sky Football
+#EXTINF:-1 tvg-logo="http://tny.im/nKE" group-title="កីឡា", Sky Football
 https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", BT1
+#EXTINF:-1 tvg-logo="http://tny.im/nKF" group-title="កីឡា", BT1
 https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", BT2
+#EXTINF:-1 tvg-logo="http://tny.im/nKG" group-title="កីឡា", BT2
 https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", BT3
+#EXTINF:-1 tvg-logo="http://tny.im/nKH" group-title="កីឡា", BT3
 https://laos-tech-live.b-cdn.net/uk-btsport3hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="កីឡា",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
