@@ -556,3 +556,8 @@ http://admin-mainpanel.club:8080/KA/KA/2501
 http://admin-mainpanel.club:8080/KA/KA/2499
 #EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="បាល់",Arena 5 HD
 http://admin-mainpanel.club:8080/KA/KA/2497
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Kpop",KPop TV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
