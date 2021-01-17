@@ -467,6 +467,35 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="VIP DE: Sky Bundesliga 1 HD" tvg-logo="[" group-title="Bundesliga",VIP DE: Sky Bundesliga 1 HD
+http://admin-mainpanel.club:8080/KA/KA/11475
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="VIP DE: Sky Bundesliga 2 HD(Games only )" tvg-logo="[" group-title="Bundesliga",VIP DE: Sky Bundesliga 2 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9182
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="VIP DE: Sky Bundesliga 3 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 3 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9181
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="VIP DE: Sky Bundesliga 4 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 4 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9180
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="VIP DE: Sky Bundesliga 5 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 5 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9179
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="VIP DE: Sky Bundesliga 6 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 6 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9178
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="VIP DE: Sky Bundesliga 7 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 7 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9177
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="VIP DE: Sky Bundesliga 8 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 8 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9176
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="VIP DE: Sky Bundesliga 9 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 9 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9175
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="VIP DE: Sky Bundesliga 10 HD(Games only )" tvg-logo="" group-title="Bundesliga",VIP DE: Sky Bundesliga 10 HD(Games only )
+http://admin-mainpanel.club:8080/KA/KA/9174
+
 #EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="" group-title="បាល់",Arena 1 HD
 http://admin-mainpanel.club:8080/KA/KA/2505
 #EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="" group-title="បាល់",Arena 2 HD
@@ -477,28 +506,3 @@ http://admin-mainpanel.club:8080/KA/KA/2501
 http://admin-mainpanel.club:8080/KA/KA/2499
 #EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="[" group-title="បាល់",Arena 5 HD
 http://admin-mainpanel.club:8080/KA/KA/2497
-
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cpng.pikpng.com/pngl/s/200-2005313_juventus-moderniza-escudo-para-2017-2018-bein-sport.png",BEINSPORT_1HD
-http://itking.online:8080/livetv/live/43
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png",BEINSPORT_2HD
-http://itking.online:8080/livetv/live/44
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6592.1491350506.png",BEINSPORT_3HD
-http://itking.online:8080/livetv/live/45
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD4.png",BEINSPORT_4HD
-http://itking.online:8080/livetv/live/46
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD5.png",BEINSPORT_5HD
-http://itking.online:8080/livetv/live/47
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD6.png",BEINSPORT_6HD
-http://itking.online:8080/livetv/live/48
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD7.png",BEINSPORT_7HD
-http://itking.online:8080/livetv/live/49
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/beinsports8_color.png",BEINSPORT_8HD
-http://itking.online:8080/livetv/live/50
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png",BEINSPORT_9HD
-http://itking.online:8080/livetv/live/51
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://i.ibb.co/1Q5k6sz/10.png",BEINSPORT_10HD
-http://itking.online:8080/livetv/live/52
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://1.bp.blogspot.com/-pPktm5R8tTQ/WpKWWzdKisI/AAAAAAAACM0/erJcZTuy4VMhDeNkravjGSk9UzdiPeZGgCLcBGAs/s1600/dz%2Bprokora%2Bkooora%2Bkora%2Byallashoot_11-HD.png",BEINSPORT_11HD
-http://itking.online:8080/livetv/live/53
-#EXTINF:-1 group-title="BeIn Sports" tvg-logo="https://www.liveonlinetv247.com/images/beinsports12.png",BEINSPORT_12HD
-http://mcsh.xyz:8080/abcdef/800900/51745
