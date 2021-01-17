@@ -77,13 +77,13 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKv" group-title="កីឡា", Premier1
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Premier2
+#EXTINF:-1 tvg-logo="http://tny.im/nKw" group-title="កីឡា", Premier2
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Premier3
+#EXTINF:-1 tvg-logo="http://tny.im/nKx" group-title="កីឡា", Premier3
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Premier4
+#EXTINF:-1 tvg-logo="http://tny.im/nKy" group-title="កីឡា", Premier4
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Premier5
+#EXTINF:-1 tvg-logo="http://tny.im/nKz" group-title="កីឡា", Premier5
 https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Bein 1
