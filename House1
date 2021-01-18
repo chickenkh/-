@@ -520,6 +520,62 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 1
+https://live.5gbet.live/edge_app/ch1/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 2
+https://live.5gbet.live/edge_app/ch2/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 3
+https://live.5gbet.live/edge_app/ch3/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 4
+https://live.5gbet.live/edge_app/ch4/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 5
+https://live.5gbet.live/edge_app/ch5/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 6
+https://live.5gbet.live/edge_app/ch6/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 7
+https://live.5gbet.live/edge_app/ch7/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 8
+https://live.5gbet.live/edge_app/ch8/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 9
+https://live.5gbet.live/edge_app/ch9/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 10
+https://live.5gbet.live/edge_app/ch10/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 11
+https://live.5gbet.live/edge_app/ch11/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 12
+https://live.5gbet.live/edge_app/ch12/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 13
+https://live.5gbet.live/edge_app/ch13/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 14
+https://live.5gbet.live/edge_app/ch14/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 15
+https://live.5gbet.live/edge_app/ch15/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 16
+https://live.5gbet.live/edge_app/ch16/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 17
+https://live.5gbet.live/edge_app/ch17/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 18
+https://live.5gbet.live/edge_app/ch18/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 19
+https://live.5gbet.live/edge_app/ch19/playlist.m3u8?
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់", Sports Live 20
+https://live.5gbet.live/edge_app/ch20/playlist.m3u8?
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Music",KPop TV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
