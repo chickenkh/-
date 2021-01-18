@@ -70,11 +70,11 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="កីឡា",Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071045.jpg",Astro Supersport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="កីឡា",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro Supersport 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+https://laos-tech-live.b-cdn.net/my-asp4_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKv" group-title="កីឡា", Premier1
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKw" group-title="កីឡា", Premier2
@@ -520,5 +520,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Kpop",KPop TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Music",KPop TV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
+http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/stingray-iconcerts.png",iConcert
+http://27.254.142.14/iconcert.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-060948.jpg",Channel V
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
