@@ -85,7 +85,8 @@ https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKz" group-title="កីឡា", Premier5
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Skynet HD
+http://4digital.ddns.net:11223/ts/0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Bein 1
 https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="កីឡា", Bein 2
