@@ -554,15 +554,15 @@ http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A10
 http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE FA CUP", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup1
+#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup1
 https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup2
+#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup2
 https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup3
+#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup3
 https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup4
+#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup4
 https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup5
+#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup5
 https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Music",KPop TV
