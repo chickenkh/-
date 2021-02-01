@@ -553,8 +553,16 @@ http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A10
 http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="LIVE FA CUP",01
+https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LIVE FA CUP",02
+https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LIVE FA CUP",03
+https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LIVE FA CUP",04
+https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LIVE FA CUP",05
+https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Music",KPop TV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
