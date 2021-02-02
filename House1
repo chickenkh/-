@@ -39,7 +39,7 @@ http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GkPYCL9/BTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|BTV
 http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTV8
-http://220.158.149.14:9999/live/TV00000000000000000037@HHZT;LIVE
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m4FzpD9/SEA.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|SeaTV
 http://36.37.252.114:888/Apple/OneTV-016/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Bywy9JK/MSJ.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|MSJTV
@@ -47,7 +47,7 @@ http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TPVpPpcM/16195687-978198268947178-3272296313869324786-n.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|NTV
 http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tJir5IG.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Nice TV
-http://220.158.149.26:8182/hls/TV00000000000000000124@HHZT.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hHbQ9F3/TV3.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV3
 http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVzWrpB/TVK.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TVK
@@ -85,8 +85,6 @@ https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKz" group-title="កីឡា", Premier5
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Skynet HD
-http://4digital.ddns.net:11223/ts/0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQG35hT/bein1.png" group-title="កីឡា", Bein 1
 https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGDYJrd/bein2.png" group-title="កីឡា", Bein 2
@@ -559,10 +557,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="កីឡា",Футбол 1
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" group-title="កីឡា",Футбол 2
-https://95-213-224-183.livesports24.online/fooootball2.m3u8
+
+
+
+
 
 
 
