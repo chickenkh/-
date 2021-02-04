@@ -595,6 +595,16 @@ https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500
 https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup5
 https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
+http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="LIVE FA CUP", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
+http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
+https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 9
+https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 10
+https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Music",KPop TV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
