@@ -599,7 +599,7 @@ https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500
 https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
 http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="LIVE FA CUP", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
+#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
 http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
 https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
