@@ -606,11 +606,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_1080p/chunks.m3u8
 
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deporte" ,[latino]  TUDN USA [Club]
-https://tv.teleclub.xyz/noah/live-channel?smartv=TUDN_USA&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Music",KPop TV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
+
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
 http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-060948.jpg",Channel V
