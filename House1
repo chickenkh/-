@@ -593,7 +593,7 @@ http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28408.ts
 #EXTINF:-1 logo="logo" group-title="SPOT", VIP ESPN 6
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28409.ts
 #EXTINF:-1 logo="logo" group-title="SPOT", VIP Ziggo Select
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28412.ts
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28412.m3u8
 
 
 #EXTINF:0 tvg-id="vtvcab3_the_thao_tv_sd"group-title="VN SPOT" tvg-logo="https://i.ibb.co/F4YB7wH/thethaotv-BEARTV.png" ,VTVCab3
@@ -606,47 +606,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_1080p/chunks.m3u8
 
 
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A1
-http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A2
-http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A3
-http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A4
-http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A5
-http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A6
-http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A7
-http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A8
-http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A9
-http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE SERIE A" tvg-logo="https://i.postimg.cc/xCrDwDyH/SERIE-A.jpg",Serie A10
-http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup1
-https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup2
-https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup3
-https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup4
-https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup5
-https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
-http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
-http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
-https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 9
-https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="LIVE FA CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 10
-https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcAbOkq.png" group-title="Music",KPop TV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
