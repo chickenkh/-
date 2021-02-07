@@ -552,6 +552,33 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 logo="logo" group-title="SPOT", VIP Sky Bundesliga 1
 http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/28403.ts
 #EXTINF:-1 logo="logo" group-title="SPOT", VIP Sky Serie A IT
@@ -606,7 +633,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_1080p/chunks.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
+https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/master.m3u8
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
