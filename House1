@@ -627,7 +627,26 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_1080p/chunks.m3u8
 
 
-
+#EXTINF;-1 ,ch1
+http://uotv.gearhostpreview.com/av.php?id=1
+#EXTINF;-1 ,ch2
+http://uotv.gearhostpreview.com/av.php?id=2
+#EXTINF;-1 ,ch3
+http://uotv.gearhostpreview.com/av.php?id=3
+#EXTINF;-1 ,ch4
+http://uotv.gearhostpreview.com/av.php?id=4
+#EXTINF;-1 ,ch5
+http://uotv.gearhostpreview.com/av.php?id=5
+#EXTINF;-1 ,ch6
+http://uotv.gearhostpreview.com/av.php?id=6
+#EXTINF;-1 ,ch7
+http://uotv.gearhostpreview.com/av.php?id=7
+#EXTINF;-1 ,ch8
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF;-1 ,ch9
+http://uotv.gearhostpreview.com/av.php?id=9
+#EXTINF;-1 ,ch10
+http://uotv.gearhostpreview.com/av.php?id=10
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
