@@ -558,8 +558,14 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",1
+https://vdo.plathong.net/wowza/flash7481/flash7481/playlist.m3u8
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",2
+https://vdo.plathong.net/wowza/flash6509/flash6509/playlist.m3u8
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",3
+https://vdo.plathong.net/wowza/flash6541/flash6541/playlist.m3u8
+#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",4
+https://vdo.plathong.net/wowza/flash7482/flash7482/playlist.m3u8
 
 
 
