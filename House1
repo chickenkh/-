@@ -558,14 +558,22 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",1
-https://vdo.plathong.net/wowza/flash7481/flash7481/playlist.m3u8
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",2
-https://vdo.plathong.net/wowza/flash6509/flash6509/playlist.m3u8
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",3
-https://vdo.plathong.net/wowza/flash6541/flash6541/playlist.m3u8
-#EXTINF:-1 group-title="ផ្សាយផ្ទាល់បាល់ទាត់",4
-https://vdo.plathong.net/wowza/flash7482/flash7482/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",1 AU
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports1au/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",2 AU
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports2au/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",3
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",4
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",5
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",6
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",7
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",8
+
 
 
 
