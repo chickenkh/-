@@ -608,6 +608,8 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/pfc/playlist.m3u8
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/gol/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",Esn
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/espnus/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",Esn BR
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/espnbrazil/playlist.m3u8
 
 
 
@@ -640,9 +642,21 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/playlis
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal11 PT
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",TV3Max
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",TV3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Visat
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal11 PT
 
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal11 PT
 
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal11 PT
 
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal11 PT
+
+#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal11 PT
 
 
 
