@@ -128,11 +128,14 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="កីឡា",Super Sport Premier Leuage
-
-
-
-
+#EXTINF:-1 tvg-chno="17" tvg-id="ch3" group-title="THAI" tvg-logo="https://iptvthai.my.to/logo/ch3.png?rev=8",CH3 HD
+http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="tv5" group-title="ดิจิตอลทีวี 2021-02-12T22:24" tvg-logo="https://iptvthai.my.to/logo/hd-ch5.png?rev=8",TV5 HD
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2tv5_480p/playlist.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="ch7" group-title="ดิจิตอลทีวี 2021-02-12T22:24" tvg-logo="https://iptvthai.my.to/logo/hd-ch7.png?rev=8",CH7 HD
+http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="pptv" group-title="ดิจิตอลทีวี 2021-02-12T22:24" tvg-logo="https://iptvthai.my.to/logo/hd-pptv.png?rev=8",PPTV HD
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/pptv_480p/playlist.m3u8
 
 
 
