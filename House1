@@ -47,8 +47,8 @@ http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TPVpPpcM/16195687-978198268947178-3272296313869324786-n.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|NTV
 http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tJir5IG.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|Nice TV
-https://r4---sn-i3belney.c.drive.google.com/videoplayback?expire=1613294526&ei=frMoYI6fJ56NmvUP6r6y-Ak&ip=116.212.150.199&cp=QVRGVUNfU1VQR1hPOmVKNWJULTBpM0dEWXBPcm1BeG8wN2dhZEtYaEdhcXp4S0VhOUtzcndXeU4&id=c62bd8887d69b3ef&itag=59&source=webdrive&requiressl=yes&mh=d5&mm=32&mn=sn-i3belney&ms=su&mv=m&mvi=4&pl=27&ttl=transient&susc=dr&driveid=1l__l-DQJxo0loE1D4vlN4_YblGVU_Mpn&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=7521.872&lmt=1565736847756801&mt=1613280018&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgU1goE8Et2hszaXF5kfWjNYhIqGgdSysfuuoJjurrFesCIQCGb3zRPEm_CMgPP5gO5nm0wCZgmbTBiyHaPnhNJKlhpA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgdgrZx-RWVAC540-4zmNIY-KAqKg3o-yEgVkH__Sn-UsCIC0P1lPDu9oWq-YVhaRLWjpqgL_sp06RlYseDEEIeKSr&cpn=0sp_-r4-ELeuOq8B&c=WEB_EMBEDDED_PLAYER&cver=1.20210210.1.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hHbQ9F3/TV3.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV3
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hHbQ9F3/TV3.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TV3
 http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yVzWrpB/TVK.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|TVK
 http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
@@ -68,13 +68,13 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports1au/chunk
 
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="កីឡា",Astro Supersport
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52859
 #EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071045.jpg",Astro Supersport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52860
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="កីឡា",Astro Supersport 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52861
 #EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro Supersport 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52863
 #EXTINF:-1 tvg-logo="http://tny.im/nKv" group-title="កីឡា", Premier1
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKw" group-title="កីឡា", Premier2
