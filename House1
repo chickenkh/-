@@ -67,18 +67,11 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports1au/chunk
 
 
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="កីឡា",Astro Supersport
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52859
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071045.jpg",Astro Supersport 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52860
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="កីឡា",Astro Supersport 3
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52861
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro Supersport 4
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52863
+
 #EXTINF:-1 tvg-logo="http://tny.im/nKv" group-title="កីឡា", Premier1
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKw" group-title="កីឡា", Premier2
-https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKx" group-title="កីឡា", Premier3
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/nKy" group-title="កីឡា", Premier4
