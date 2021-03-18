@@ -124,6 +124,10 @@ https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="កីឡា",Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi Sport 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/a011f8838b76e78ef1d8fa53720f05ce.jpeg",Digi Sport 2
