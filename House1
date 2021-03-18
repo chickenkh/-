@@ -124,8 +124,8 @@ https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://tenfield.com.uy.s3.amazonaws.com/uploads/2018/08/Logo-GOLTV-blanco-635x426-635x426.jpg" group-title="កីឡា",GolTV
+http://tv.iptv5latino.cl:8000/HansUrrutia8/VUPAC74F/58273
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="កីឡា",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi Sport 1
