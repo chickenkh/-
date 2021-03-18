@@ -124,13 +124,13 @@ https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 1
+#EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi Sport 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 2
+#EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/a011f8838b76e78ef1d8fa53720f05ce.jpeg",Digi Sport 2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 3
+#EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/b42b50c8a57ac34c81ddcc29e133b063.jpeg",Digi Sport 3
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 4
+#EXTINF:-1 group-title="កីឡា" tvg-logo="http://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a.jpeg",Digi Sport 4
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="កីឡា",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
