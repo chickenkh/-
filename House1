@@ -132,7 +132,6 @@ http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oez" group-title="កីឡា",Astro 4
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://tenfield.com.uy.s3.amazonaws.com/uploads/2018/08/Logo-GOLTV-blanco-635x426-635x426.jpg" group-title="កីឡា",GolTV
 http://tv.iptv5latino.cl:8000/HansUrrutia8/VUPAC74F/58273
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="កីឡា",Arena
@@ -596,7 +595,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oeC" group-title="ប៊ីអីុន",1 Tur
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="ប៊ីអីុន",1 Tur
 http://live.netstreaming.cf/hls/201.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="ប៊ីអីុន",2 Tur
 http://live.netstreaming.cf/hls/202.m3u8
