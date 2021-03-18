@@ -66,28 +66,8 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?564bad76-a347-4c2
 
 
 
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",SPORT​S TV 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",SPORT​S TV 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg",SPORT​S TV 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv3/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg",SPORT​S TV 4
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv4/chunks.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 4
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="កីឡា",Fox Sport 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="កីឡា",Fox Sport 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="កីឡា",Fox Sport 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+
 
 
 
@@ -142,6 +122,22 @@ https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="vtv9hd"group-title="VIETNAM" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV9_HD_M.png",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 1
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 2
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
+#EXTINF:-1 group-title="កីឡា" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg",Digi Sport 4
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="កីឡា",Fox Sport 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="កីឡា",Fox Sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="កីឡា",Fox Sport 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
