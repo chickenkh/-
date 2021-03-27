@@ -117,8 +117,6 @@ http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oez" group-title="កីឡា",Astra 4
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tenfield.com.uy.s3.amazonaws.com/uploads/2018/08/Logo-GOLTV-blanco-635x426-635x426.jpg" group-title="កីឡា",GolTV
-https://livec.ali.huoxinglaike.com/live/weixingyuan1.m3u8?auth_key=1616676900-e4ad044ea67f4532b7e5c89d7b364f48-0-384109873c123d623dbe2eeb63629ecb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="កីឡា",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi 1
@@ -573,7 +571,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="បាល់អង់គ្លេស",1
-http://ip2121.com:8081/4kweb/true1/chunks.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="បាល់អង់គ្លេស",2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="បាល់អង់គ្លេស",3
@@ -647,20 +645,6 @@ http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/ojh" group-title="LIVE MATCH", 1
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ojh" group-title="LIVE MATCH", 2
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ojh" group-title="LIVE MATCH", 3
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ojh" group-title="LIVE MATCH", 4
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ojh" group-title="LIVE MATCH", 5
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ojh" group-title="LIVE MATCH", 6
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ojh" group-title="LIVE MATCH", 7
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
 
 
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",1 AU
