@@ -696,27 +696,15 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports5nl/playli
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Z Votbal
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",C More
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorelivehd/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",C More Fobol
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorefootball/chunks.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Eleven
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal9 DE
+#EXTINF:-1 tvg-logo="http://tny.im/okb" group-title="SPOTS", Canal 9 De
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal9denmark/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Dima1 BG
+#EXTINF:-1 tvg-logo="http://tny.im/oka" group-title="SPOTS", Diema
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",FreSpot1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Canal11 PT
+#EXTINF:-1 tvg-logo="http://tny.im/ok8" group-title="SPOTS", 11 PT
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",TV3Max
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",TV3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Visat
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS", Arena 1
+#EXTINF:-1 tvg-logo="http://tny.im/ok4" group-title="SPOTS", Arena 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/ok5" group-title="SPOTS", Arena 2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8
@@ -724,13 +712,13 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport2serbia/p
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/ok7" group-title="SPOTS", Arena 4
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi 1
+#EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/a011f8838b76e78ef1d8fa53720f05ce.jpeg",Digi 2
+#EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/a011f8838b76e78ef1d8fa53720f05ce.jpeg",Digi 2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="http://oklivetv.com/wp-content/uploads/media/b42b50c8a57ac34c81ddcc29e133b063.jpeg",Digi 3
+#EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/b42b50c8a57ac34c81ddcc29e133b063.jpeg",Digi 3
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
-#EXTINF:-1 group-title="កីឡា" tvg-logo="http://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a.jpeg",Digi 4
+#EXTINF:-1 group-title="SPOTS" tvg-logo="http://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a.jpeg",Digi 4
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
 
 
