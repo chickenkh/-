@@ -639,29 +639,23 @@ http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",1 AU
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 1 AU
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports1au/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",2 AU
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 2 AU
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports2au/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",1 FR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 1 FR
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport1fr/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",2 FR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 2 FR
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport2fr/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",Max 4 FR
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinmax4fr/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",Max 5 FR
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinmax5fr/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",Max 6 FR
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinmax6fr/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",1 TU
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 1 TU
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports1tu/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",2 TU
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 2 TU
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports2tu/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",1 AR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 1 AR
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia1hd/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",2 AR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 2 AR
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",3 AR
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="BEN SPOTS", 3 AR
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia3hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="LATIN SPOTS", F1
