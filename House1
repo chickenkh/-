@@ -692,9 +692,9 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports3nl/playli
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports4nl/playlist.m3u8
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Esn 5
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports5nl/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Z Select
+#EXTINF:-1 tvg-logo="http://tny.im/okp" group-title="SPOTS", Z Select
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Z Votbal
+#EXTINF:-1 tvg-logo="http://tny.im/okq" group-title="SPOTS", Z Votbal
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/okb" group-title="SPOTS", Canal 9 De
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal9denmark/playlist.m3u8
@@ -702,7 +702,7 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal9denmark/playl
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/ok8" group-title="SPOTS", 11 PT
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាអឺរ៉ុប",Visat
+#EXTINF:-1 tvg-logo="http://tny.im/oko" group-title="SPOTS", Viasat
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/ok4" group-title="SPOTS", Arena 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8
