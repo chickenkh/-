@@ -664,19 +664,15 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd
 #EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាប៊ីអុីន",3 AR
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia3hd/playlist.m3u8
 
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",F1
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="LATIN SPOTS", F1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports1usa/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",F2
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3bjs4r5t" group-title="LATIN SPOTS", F2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2usa/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",SpoV
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportv/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",PFC
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5dz3z3en" group-title="LATIN SPOTS", PFC
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/pfc/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",Gol
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4ne26y7b" group-title="LATIN SPOTS", Gol
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/gol/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",Esn
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/espnus/playlist.m3u8
-#EXTINF:-1 group-title="ប៉ុស្តិ៍កីឡាឡាទីន",Esn BR
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/sxvypw1437611411.png" group-title="LATIN SPOTS", ESN BR
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/espnbrazil/playlist.m3u8
 
 
