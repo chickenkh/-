@@ -105,25 +105,25 @@ http://27.254.130.61/live01/ch14.m3u8?p=st
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="កីឡា",Be 1
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="ASIA SPOTS",Be 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsport1_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="កីឡា",Be 2
+#EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="ASIA SPOTS",Be 2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd2_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ofr" group-title="កីឡា",Astra 1
+#EXTINF:-1 tvg-logo="http://tny.im/ofr" group-title="ASIA SPOTS",Astra 1
 http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeA" group-title="កីឡា", Astra 2
+#EXTINF:-1 tvg-logo="http://tny.im/oeA" group-title="ASIA SPOTS", Astra 2
 http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ofs" group-title="កីឡា",Astra 3
+#EXTINF:-1 tvg-logo="http://tny.im/ofs" group-title="ASIA SPOTS",Astra 3
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oez" group-title="កីឡា",Astra 4
+#EXTINF:-1 tvg-logo="http://tny.im/oez" group-title="ASIA SPOTS",Astra 4
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="កីឡា",Arena
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPOTS",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="កីឡា",Fox 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="ASIA SPOTS",Fox 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="កីឡា",Fox 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="ASIA SPOTS",Fox 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="កីឡា",Fox 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="ASIA SPOTS",Fox 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
@@ -577,7 +577,16 @@ http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="ASIA SPOTS", Usee 1
+https://fikrulmkc.my.id/bagus/usee-useesport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="ASIA SPOTS", Usee 2
+https://fikrulmkc.my.id/bagus/usee-useesports2.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="ASIA SPOTS", Champions 1
+https://livestreaming-swiftserve-etslive.vidio.com/live/6685/master.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="ASIA SPOTS", Champions 2
+https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="ASIA SPOTS", Champions 3
+https://livestreaming-swiftserve-etslive.vidio.com/live/6786/master.m3u8
 
 
 
