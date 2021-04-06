@@ -126,16 +126,16 @@ https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8
 https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",True Film Asia
 https://mediasv.online/tvchannel_x1/truefilmasia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
-
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
-
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
-
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
-
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
-
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",True Movie Hit
+https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Werner TV
+https://mediasv.online/live/warner/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Paramount 
+https://mediasv.online/tvchannel_x1/paramount/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Celestial Movie
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",AXN
+https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
 
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
