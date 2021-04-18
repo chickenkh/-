@@ -604,31 +604,27 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="បាល់អង់គ្លេស",1
+#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="បាល់អង់គ្លេស",2
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="បាល់អង់គ្លេស",3
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="បាល់អង់គ្លេស",4
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="English Premier League",4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U5260-L.jpg" group-title="បាល់អង់គ្លេស",5
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U5260-L.jpg" group-title="English Premier League",5
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="ASIA SPOTS", Usee 1
-https://fikrulmkc.my.id/bagus/usee-useesport.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="ASIA SPOTS", Usee 2
-https://fikrulmkc.my.id/bagus/usee-useesports2.m3u8
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="ASIA SPOTS", Champions 1
 https://livestreaming-swiftserve-etslive.vidio.com/live/6685/master.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="ASIA SPOTS", Champions 2
 https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="ASIA SPOTS", Champions 3
-https://livestreaming-swiftserve-etslive.vidio.com/live/6786/master.m3u8
+
 
 
 
