@@ -158,7 +158,7 @@ https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="ASIA SPOTS",Be 1
 https://node11.cloud-streaming.com/ball8k_t1/beinsport1_480p/chunks.m3u8?nimblesessionid=4534560&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDEwOjIxOjEwIEFNJmhhc2hfdmFsdWU9SEJpVXJoeUhGSzQxNWlwbUFKNTQyUT09JnZhbGlkbWludXRlcz0xJmlkPTM3NjkxMA==
 #EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="ASIA SPOTS",Be 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd2_480p/playlist.m3u8
+https://node11.cloud-streaming.com/ball8k_t1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=4535540&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDExOjAwOjA2IEFNJmhhc2hfdmFsdWU9TXYvMFpMNS9PbHlzWWs2aHhQZzMwUT09JnZhbGlkbWludXRlcz0xJmlkPTk5MjQwNA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPOTS",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="ASIA SPOTS",Fox 1
