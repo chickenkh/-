@@ -605,9 +605,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://node11.cloud-streaming.com/ball8k_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=4542625&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDEyOjU1OjU0IFBNJmhhc2hfdmFsdWU9TTNybmEyOGNYN2gvWk40aC84cDh5UT09JnZhbGlkbWludXRlcz0xJmlkPTczMjI2Mw==
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+https://node11.cloud-streaming.com/ball8k_t1/trueepl2_480p/chunks.m3u8?nimblesessionid=4542744&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDEyOjU2OjU2IFBNJmhhc2hfdmFsdWU9MTZESDJLVW8raEIvejF6bFBsUStvdz09JnZhbGlkbWludXRlcz0xJmlkPTMxNjc2Mg==
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
 https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="English Premier League",4
@@ -735,13 +735,13 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport3serbia/p
 #EXTINF:-1 tvg-logo="http://tny.im/ok7" group-title="SPOTS", Arena 4
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
 #EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
+https://node11.cloud-streaming.com/ball8k_t4/digisport1romania/chunks.m3u8?nimblesessionid=4543006&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDEyOjU4OjMxIFBNJmhhc2hfdmFsdWU9Mzc1QlU2cFBHeUFEajZXNStZTEpWZz09JnZhbGlkbWludXRlcz0xJmlkPTEwMDI3OQ==
 #EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/a011f8838b76e78ef1d8fa53720f05ce.jpeg",Digi 2
 https://node11.cloud-streaming.com/ball8k_t4/digisport2romania/chunks.m3u8?nimblesessionid=4536317&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDExOjEzOjQyIEFNJmhhc2hfdmFsdWU9bEl5U0hQVmRTM3pENFRZY0w1K0YrZz09JnZhbGlkbWludXRlcz0xJmlkPTM2MzEzMA==
 #EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/b42b50c8a57ac34c81ddcc29e133b063.jpeg",Digi 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
+https://node11.cloud-streaming.com/ball8k_t4/digisport3romania/chunks.m3u8?nimblesessionid=4543186&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDE6MDA6MDAgUE0maGFzaF92YWx1ZT1YbFRmejFZVmVTcEF3NmRZSXY5eUxRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjQyMzAw
 #EXTINF:-1 group-title="SPOTS" tvg-logo="http://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a.jpeg",Digi 4
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
+https://node11.cloud-streaming.com/ball8k_t4/digisport4romania/chunks.m3u8?nimblesessionid=4543282&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDE6MDA6MzcgUE0maGFzaF92YWx1ZT1FcElhbkN0UVdld1A4d0ZzUnE1a0xBPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTU3MDI1
 
 
 
