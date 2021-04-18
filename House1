@@ -605,11 +605,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8
+https://mediasv.online/live/trueepl1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/playlist.m3u8
+https://mediasv.online/live/trueepl2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/playlist.m3u8
+https://mediasv.online/live/trueepl3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="English Premier League",4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U5260-L.jpg" group-title="English Premier League",5
