@@ -688,60 +688,34 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ytp67uww" group-title="LATIN SPOTS", F1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports1usa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/3bjs4r5t" group-title="LATIN SPOTS", F2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2usa/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 FR
+http://185.71.64.6:80/307245711337/307245711337/79044
+#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 FR
+http://185.71.64.6:80/307245711337/307245711337/79043
+#EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="SPOTS",3 FR
+http://185.71.64.6:80/307245711337/307245711337/79042
+
+
+
+
+
+
+
 
 #EXTINF:0 group-title="SPOTS",Матч! Футбол 1
 http://astr2-filmax.tk:8880/play/a00h/index.m3u8?auth=filmax:chatoprovayderah12
 #EXTINF:0 group-title="SPOTS",Матч! Футбол 2
 http://astr4-filmax.tk:8880/play/a00j/index.m3u8?auth=filmax:chatoprovayderah12
-#EXTINF:0 group-title="SPOTS",Матч! Футбол 3
-http://gzjpydka.tvclub.xyz/iptv/6FC59FASZEP5M6/522/index.m3u
-#EXTINF:0 group-title="SPOTS",Setanta 1 HD
-http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/347
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/h9vb493w" group-title="SPOTS", ESN 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports1nl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/3rjbsuk3" group-title="SPOTS", ESN 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2nl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9zfyczs" group-title="SPOTS", ESN 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports3nl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/caen4d3h" group-title="SPOTS", ESN 4
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports4nl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/f3m738v6" group-title="SPOTS", ESN 5
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports5nl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/h3t3nbrc" group-title="SPOTS", Z Select
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/79yfer6y" group-title="SPOTS", Z Votbal
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/okb" group-title="SPOTS", Canal 9 De
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal9denmark/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oka" group-title="SPOTS", Diema
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ok8" group-title="SPOTS", 11 PT
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oko" group-title="SPOTS", Viasat
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ok4" group-title="SPOTS", Arena 1
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ok5" group-title="SPOTS", Arena 2
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ok6" group-title="SPOTS", Arena 3
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ok7" group-title="SPOTS", Arena 4
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
-#EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0f53229947046aa37260dd3d57ac94cb-320x180.jpeg",Digi 1
-https://node11.cloud-streaming.com/ball8k_t4/digisport1romania/chunks.m3u8?nimblesessionid=4543006&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDEyOjU4OjMxIFBNJmhhc2hfdmFsdWU9Mzc1QlU2cFBHeUFEajZXNStZTEpWZz09JnZhbGlkbWludXRlcz0xJmlkPTEwMDI3OQ==
-#EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/a011f8838b76e78ef1d8fa53720f05ce.jpeg",Digi 2
-https://node11.cloud-streaming.com/ball8k_t4/digisport2romania/chunks.m3u8?nimblesessionid=4536317&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDExOjEzOjQyIEFNJmhhc2hfdmFsdWU9bEl5U0hQVmRTM3pENFRZY0w1K0YrZz09JnZhbGlkbWludXRlcz0xJmlkPTM2MzEzMA==
-#EXTINF:-1 group-title="SPOTS" tvg-logo="http://oklivetv.com/wp-content/uploads/media/b42b50c8a57ac34c81ddcc29e133b063.jpeg",Digi 3
-https://node11.cloud-streaming.com/ball8k_t4/digisport3romania/chunks.m3u8?nimblesessionid=4543186&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDE6MDA6MDAgUE0maGFzaF92YWx1ZT1YbFRmejFZVmVTcEF3NmRZSXY5eUxRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjQyMzAw
-#EXTINF:-1 group-title="SPOTS" tvg-logo="http://okteve.com/wp-content/uploads/media/0c13643a502908d2e242725433a43f3a.jpeg",Digi 4
-https://node11.cloud-streaming.com/ball8k_t4/digisport4romania/chunks.m3u8?nimblesessionid=4543282&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDE6MDA6MzcgUE0maGFzaF92YWx1ZT1FcElhbkN0UVdld1A4d0ZzUnE1a0xBPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTU3MDI1
+
+
 
 
 
