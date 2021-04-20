@@ -719,6 +719,15 @@ http://185.71.64.6:80/307245711337/307245711337/164032
 http://my.odtv.uk:80/iptvlover/128996/494
 #EXTINF:-1 tvg-logo="http://tny.im/oxw" group-title="SPOTS",FS2
 http://my.odtv.uk:80/iptvlover/128996/495
+#EXTINF:-1 tvg-logo="http://tny.im/oxz" group-title="SPOTS",AS1
+http://my.odtv.uk:80/iptvlover/128996/126
+#EXTINF:-1 tvg-logo="http://tny.im/oxA" group-title="SPOTS",AS2
+http://my.odtv.uk:80/iptvlover/128996/127
+#EXTINF:-1 tvg-logo="http://tny.im/oxB" group-title="SPOTS",AS3
+http://my.odtv.uk:80/iptvlover/128996/128
+#EXTINF:-1 tvg-logo="http://tny.im/oxC" group-title="SPOTS",AS4
+http://my.odtv.uk:80/iptvlover/128996/129
+#EXTINF:-1 tvg-logo="http://tny.im/oxw" group-title="SPOTS",FS2
 
 
 
