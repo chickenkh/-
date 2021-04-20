@@ -715,7 +715,10 @@ http://185.71.64.6:80/307245711337/307245711337/164038
 http://185.71.64.6:80/307245711337/307245711337/164035
 #EXTINF:-1 tvg-logo="http://tny.im/oxv" group-title="SPOTS",7 AR
 http://185.71.64.6:80/307245711337/307245711337/164032
-
+#EXTINF:-1 tvg-logo="http://tny.im/oxx" group-title="SPOTS",FS1
+http://my.odtv.uk:80/iptvlover/128996/494
+#EXTINF:-1 tvg-logo="http://tny.im/oxw" group-title="SPOTS",FS2
+http://my.odtv.uk:80/iptvlover/128996/495
 
 
 
