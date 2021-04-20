@@ -729,6 +729,8 @@ http://my.odtv.uk:80/iptvlover/128996/128
 http://my.odtv.uk:80/iptvlover/128996/129
 #EXTINF:-1 tvg-logo="http://tny.im/oxD" group-title="SPOTS",PL
 http://my.odtv.uk:80/iptvlover/128996/134
+#EXTINF:-1 tvg-logo="http://tny.im/oxE" group-title="SPOTS",NBSN
+http://my.odtv.uk:80/iptvlover/128996/536
 
 
 
