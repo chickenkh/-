@@ -605,15 +605,14 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-https://node11.cloud-streaming.com/ball8k_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=4542625&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDEyOjU1OjU0IFBNJmhhc2hfdmFsdWU9TTNybmEyOGNYN2gvWk40aC84cDh5UT09JnZhbGlkbWludXRlcz0xJmlkPTczMjI2Mw==
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-https://node11.cloud-streaming.com/ball8k_t1/trueepl2_480p/chunks.m3u8?nimblesessionid=4542744&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIxIDEyOjU2OjU2IFBNJmhhc2hfdmFsdWU9MTZESDJLVW8raEIvejF6bFBsUStvdz09JnZhbGlkbWludXRlcz0xJmlkPTMxNjc2Mg==
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="English Premier League",4
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U5260-L.jpg" group-title="English Premier League",5
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+
+
 
 
 
