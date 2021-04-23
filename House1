@@ -67,7 +67,7 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?564bad76-a347-4c2
 
 
 #EXTINF:-1 tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/T-Sport-channel-live.jpg" group-title="THAI", T Sports
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="17" tvg-id="ch3" group-title="THAI" tvg-logo="http://tny.im/ofh",CH3 HD
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5" group-title="THAI" tvg-logo="http://tny.im/ofi",TV5 HD
@@ -96,53 +96,7 @@ http://27.254.130.61/live01/ch13.m3u8?p=st
 http://27.254.130.61/live01/ch14.m3u8?p=st
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/ooC" group-title="MOVIES",Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ooF" group-title="MOVIES",Fox Movies
-https://mediasv.online/tvchannel_x1/hd-foxpremium/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ooG" group-title="MOVIES",Fox Family Movies
-https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ooH" group-title="MOVIES",Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/ooI" group-title="MOVIES",Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",HBO
-https://mediasv.online/tvchannel_x1/hd-hbo-thai/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",HBO Hits
-https://mediasv.online/tvchannel_x1/hd-hbo-hit/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",HBO signature
-https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",HBO Family
-https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Red HBO
-https://boxmovielive.com/live/red.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Cinemax
-https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox Action Movies
-https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",True Film
-https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",True Film 2
-https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",True Film Asia
-https://mediasv.online/tvchannel_x1/truefilmasia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",True Movie Hit
-https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Werner TV
-https://mediasv.online/live/warner/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Paramount 
-https://mediasv.online/tvchannel_x1/paramount/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Celestial Movie
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",AXN
-https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
 
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
-
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
-
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="MOVIES",Fox HD
 
 
 
