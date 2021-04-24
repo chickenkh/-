@@ -688,13 +688,13 @@ http://my.odtv.uk:80/iptvlover/128996/536
 http://my.odtv.uk:80/iptvlover/128996/551
 #EXTINF:-1 tvg-logo="http://tny.im/ozE" group-title="SPOTS",Voetbal
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
-
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
-
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
-
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
+#EXTINF:-1 tvg-logo="http://tny.im/ozQ" group-title="SPOTS",SK1
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/117
+#EXTINF:-1 tvg-logo="http://tny.im/ozP" group-title="SPOTS",SK2
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/118
+#EXTINF:-1 tvg-logo="http://tny.im/ozT" group-title="SPOTS",SK3
+http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/119
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",SK4
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
 
