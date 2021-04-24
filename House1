@@ -686,15 +686,23 @@ http://my.odtv.uk:80/iptvlover/128996/134
 http://my.odtv.uk:80/iptvlover/128996/536
 #EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
 http://my.odtv.uk:80/iptvlover/128996/551
+#EXTINF:-1 tvg-logo="http://tny.im/ozE" group-title="SPOTS",Voetbal
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
+
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
+
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
+
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
+
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
+
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
 
 
 
 
-
-#EXTINF:0 group-title="SPOTS",Матч! Футбол 1
-http://astr2-filmax.tk:8880/play/a00h/index.m3u8?auth=filmax:chatoprovayderah12
-#EXTINF:0 group-title="SPOTS",Матч! Футбол 2
-http://astr4-filmax.tk:8880/play/a00j/index.m3u8?auth=filmax:chatoprovayderah12
 
 
 
