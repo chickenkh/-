@@ -684,8 +684,8 @@ http://my.odtv.uk:80/iptvlover/128996/129
 http://my.odtv.uk:80/iptvlover/128996/134
 #EXTINF:-1 tvg-logo="http://tny.im/oxE" group-title="SPOTS",NBSN
 http://my.odtv.uk:80/iptvlover/128996/536
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
-http://my.odtv.uk:80/iptvlover/128996/551
+#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="LATIN SPOTS",TUN
+http://kstv.xyz:8080/Najera/1234/47140
 #EXTINF:-1 tvg-logo="http://tny.im/ozE" group-title="SPOTS",Voetbal
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/ozQ" group-title="SPOTS",SK1
@@ -694,12 +694,12 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/117
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/118
 #EXTINF:-1 tvg-logo="http://tny.im/ozT" group-title="SPOTS",SK3
 http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/119
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",SK4
-
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
-
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="SPOTS",TUN
-
+#EXTINF:-1 tvg-logo="http://tny.im/oAf" group-title="LATIN SPOTS",TVC
+http://kstv.xyz:8080/Najera/1234/47141
+#EXTINF:-1 tvg-logo="http://tny.im/oAg" group-title="LATIN SPOTS",WIN
+http://kstv.xyz:8080/Najera/1234/46837
+#EXTINF:-1 tvg-logo="http://tny.im/oAh" group-title="LATIN SPOTS",TYC
+http://kstv.xyz:8080/Najera/1234/46750
 
 
 
