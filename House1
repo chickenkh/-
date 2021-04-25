@@ -643,8 +643,10 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 ENG
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/640
+#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 ENG
+http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/641
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 FR
 http://185.71.64.6:80/307245711337/307245711337/79044
