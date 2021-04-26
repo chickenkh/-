@@ -706,8 +706,8 @@ http://kstv.xyz:8080/Najera/1234/47141
 http://kstv.xyz:8080/Najera/1234/46837
 #EXTINF:-1 tvg-logo="http://tny.im/oAh" group-title="LATIN SPOTS",TYC
 http://kstv.xyz:8080/Najera/1234/46750
-
-
+#EXTINF:-1 tvg-logo="http://tny.im/oAZ" group-title="LATIN SPOTS",DIRECT+
+http://23.227.145.10:128/budTV/3232/1645_.m3u8
 
 
 
