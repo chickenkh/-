@@ -67,7 +67,7 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?564bad76-a347-4c2
 
 
 #EXTINF:-1 tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/T-Sport-channel-live.jpg" group-title="THAI", T Sports
-https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+
 #EXTINF:-1 tvg-chno="17" tvg-id="ch3" group-title="THAI" tvg-logo="http://tny.im/ofh",CH3 HD
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5" group-title="THAI" tvg-logo="http://tny.im/ofi",TV5 HD
@@ -559,11 +559,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu8_hd.m3u8?auth_key=1619440500-03a37b956f0e4a0fa7cc60d1b1b158c9-0-20e373c5be03f01f746ecb6dcb8f2f7f
+https://livec.ali.huoxinglaike.com/live/CCTV5jiaHD_hd.m3u8?auth_key=1619447700-3b56d880a0974d118ae14f54f3046eb6-0-45caa0f8730b9c41a891de44cb7c9ac6
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu_sfj_hd.m3u8?auth_key=1619364900-feba114b8d9a4377912002e08d4199fb-0-dbd55d7b5dec96777d3f6ac36ea311f9
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-https://livec.ali.huoxinglaike.com/live/aiqiyi6_hd.m3u8?auth_key=1619369400-aa0eb8753eda46be89ec4099de4aa87e-0-c90691a41a003f281fd6aa7b015e715b
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="English Premier League",4
 
 
