@@ -110,7 +110,7 @@ http://27.254.130.61/live01/ch14.m3u8?p=st
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="ASIA SPOTS",Be 1
-https://livec.ali.huoxinglaike.com/live/weixingyuan2.m3u8?auth_key=1619609700-d3d802011f454a389023df96ea08b226-0-842d70837977327fe3b67144f0f458ae
+https://livec.ali.huoxinglaike.com/live/tengxuntiyu10_hd.m3u8?auth_key=1619620500-a9e4887a944248ef8779b95bb96198be-0-1b929d90954c6ac550075151e2fe6e60
 #EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="ASIA SPOTS",Be 2
 https://livec.ali.huoxinglaike.com/live/CCTV5HD_hd.m3u8?auth_key=1619613300-c723d4b7c1cb4963a5285b47d1b55bc1-0-0bbfeeddda0066a22767c28fe3253295
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPOTS",Arena
