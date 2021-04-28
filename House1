@@ -700,14 +700,16 @@ http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/119
 
 #EXTINF:-1 tvg-logo="http://tny.im/oAn" group-title="LATIN SPOTS",ESN BR
 http://tv.factoryiptv.com:80/iran01/iran01/37104
+#EXTINF:-1 tvg-logo="http://tny.im/oBS" group-title="LATIN SPOTS",AYM
+http://kstv.xyz:8080/Najera/1234/47088
 #EXTINF:-1 tvg-logo="http://tny.im/oAf" group-title="LATIN SPOTS",TVC
 http://kstv.xyz:8080/Najera/1234/47141
 #EXTINF:-1 tvg-logo="http://tny.im/oAg" group-title="LATIN SPOTS",WIN
 http://kstv.xyz:8080/Najera/1234/46837
 #EXTINF:-1 tvg-logo="http://tny.im/oAh" group-title="LATIN SPOTS",TYC
 http://kstv.xyz:8080/Najera/1234/46750
-#EXTINF:-1 tvg-logo="http://tny.im/oAZ" group-title="LATIN SPOTS",DIRECT+
-http://23.227.145.10:128/budTV/3232/1645_.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oBT" group-title="LATIN SPOTS",TIGO
+http://kstv.xyz:8080/Najera/1234/46831
 
 
 
