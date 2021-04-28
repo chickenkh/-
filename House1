@@ -112,7 +112,7 @@ http://27.254.130.61/live01/ch14.m3u8?p=st
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="ASIA SPOTS",Be 1
 https://livec.ali.huoxinglaike.com/live/weixingyuan2.m3u8?auth_key=1619609700-d3d802011f454a389023df96ea08b226-0-842d70837977327fe3b67144f0f458ae
 #EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="ASIA SPOTS",Be 2
-https://nonton.site:8443/provision/pp/729
+https://livec.ali.huoxinglaike.com/live/CCTV5HD_hd.m3u8?auth_key=1619613300-c723d4b7c1cb4963a5285b47d1b55bc1-0-0bbfeeddda0066a22767c28fe3253295
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPOTS",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="ASIA SPOTS",Fox 1
