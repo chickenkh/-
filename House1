@@ -121,8 +121,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="ASIA SPOTS",Fox 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oBV" group-title="ASIA SPOTS",VTVCap16
+#EXTINF:-1 tvg-logo="http://tny.im/oBV" group-title="ASIA SPOTS",S16
 http://14.232.214.220:8888/udp/239.2.100.2:5000
+#EXTINF:-1 tvg-logo="http://tny.im/oBW" group-title="ASIA SPOTS",BTV5
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 
 
