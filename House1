@@ -662,6 +662,12 @@ http://185.71.64.6:80/307245711337/307245711337/79042
 http://209.205.221.74:128/budTV/3232/1609_.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oCq" group-title="SPOTS",Liga Depotes
 http://209.205.221.74:128/budTV/3232/1614_.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oCr" group-title="SPOTS",Liga Decampeone
+http://209.205.221.74:128/budTV/3232/1615_.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://tny.im/oCp" group-title="SPOTS",N SPOT
 http://209.205.221.74:128/budTV/3232/1606_.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 AR
