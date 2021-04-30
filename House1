@@ -563,13 +563,13 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?ui
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-https://livec.ali.huoxinglaike.com/live/CCTV5jiaHD_hd.m3u8?auth_key=1619447700-3b56d880a0974d118ae14f54f3046eb6-0-45caa0f8730b9c41a891de44cb7c9ac6
+https://sorsportstv.shortcm.li/T-EPL1/sor@zola.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-
+https://sorsportstv.shortcm.li/T-EPL2/sor@zola.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-
+https://sorsportstv.shortcm.li/T-EPL3/sor@zola.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="English Premier League",4
-
+https://sorsportstv.shortcm.li/T-EPL4/sor@zola.m3u8
 
 
 
