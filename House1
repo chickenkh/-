@@ -110,9 +110,9 @@ http://27.254.130.61/live01/ch14.m3u8?p=st
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="ASIA SPOTS",Be 1
-https://livec.ali.huoxinglaike.com/live/tengxuntiyu10_hd.m3u8?auth_key=1619620500-a9e4887a944248ef8779b95bb96198be-0-1b929d90954c6ac550075151e2fe6e60
+
 #EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="ASIA SPOTS",Be 2
-https://livec.ali.huoxinglaike.com/live/CCTV5HD_hd.m3u8?auth_key=1619613300-c723d4b7c1cb4963a5285b47d1b55bc1-0-0bbfeeddda0066a22767c28fe3253295
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPOTS",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="ASIA SPOTS",Fox 1
@@ -563,13 +563,11 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?ui
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-https://sorsportstv.shortcm.li/T-EPL1/sor@zola.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-https://sorsportstv.shortcm.li/T-EPL2/sor@zola.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-https://sorsportstv.shortcm.li/T-EPL3/sor@zola.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U4110-L.jpg" group-title="English Premier League",4
-https://sorsportstv.shortcm.li/T-EPL4/sor@zola.m3u8
+
 
 
 
