@@ -563,11 +563,11 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?ui
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-
+http://119.161.100.50:9999/live/test123/test123/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-
+http://119.161.100.50:9999/live/test123/test123/2.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-
+http://119.161.100.50:9999/live/test123/test123/3.m3u8
 
 
 
