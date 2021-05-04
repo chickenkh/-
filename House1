@@ -563,11 +563,11 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?ui
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-http://119.161.100.50:9999/live/test123/test123/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-http://119.161.100.50:9999/live/test123/test123/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-http://119.161.100.50:9999/live/test123/test123/3.m3u8
+
 
 
 
@@ -645,10 +645,10 @@ https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 TURK
-http://zero2.site:8080/zero/zero/3?
-#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 TURK
-http://zero2.site:8080/zero/zero/25?
+#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 ENG
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 ENG
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 FR
 http://185.71.64.6:80/307245711337/307245711337/79044
@@ -719,9 +719,9 @@ http://kstv.xyz:8080/Najera/1234/47141
 #EXTINF:-1 tvg-logo="http://tny.im/oAg" group-title="LATIN SPOTS",WIN
 http://kstv.xyz:8080/Najera/1234/46837
 #EXTINF:-1 tvg-logo="http://tny.im/oAh" group-title="LATIN SPOTS",TYC
-https://lived.ali.huoxinglaike.com/live/stream29570.m3u8?auth_key=1619967900-b55d2b57edcf498cabcda691f2f00cf9-0-a462fa8020fb6ae2d718891eb86d96f3
+
 #EXTINF:-1 tvg-logo="http://tny.im/oBT" group-title="LATIN SPOTS",TIGO
-https://lived.ali.huoxinglaike.com/live/streamcnhd101358.m3u8?auth_key=1619969700-68d20c8f38064a7d961aec420e42db4a-0-d0d71b1d5fa902eb2d916a7c3c8ed538
+
 
 
 
