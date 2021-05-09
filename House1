@@ -67,7 +67,7 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?564bad76-a347-4c2
 
 
 #EXTINF:-1 tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/T-Sport-channel-live.jpg" group-title="THAI", T Sports
-https://lived.ali.huoxinglaike.com/live/streamhd9844.m3u8?auth_key=1620276600-0831ba0d16f641f0b40a24424abffa32-0-b821bc7b89d3fb9b4a2ad72111e46901
+https://lived.ali.huoxinglaike.com/live/streamhd8516.m3u8?auth_key=1620564600-87ede4b9f8e94a51b2d6b27dc4a01350-0-db1157f3403f6b6895406df524af4e83
 #EXTINF:-1 tvg-chno="17" tvg-id="ch3" group-title="THAI" tvg-logo="http://tny.im/ofh",CH3 HD
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5" group-title="THAI" tvg-logo="http://tny.im/ofi",TV5 HD
