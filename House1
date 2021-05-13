@@ -645,10 +645,12 @@ https://lived.ali.huoxinglaike.com/live/streamhd7112.m3u8?auth_key=1620574500-dc
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 ENG
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 ENG
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1
+http://ferrarico.referrari.com/live/60091_.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 
+http://ferrarico.referrari.com/live/60092_.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="SPOTS",3 
+http://ferrarico.referrari.com/live/60093_.m3u8
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 FR
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/544
