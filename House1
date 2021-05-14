@@ -4,7 +4,7 @@ https://hls.shqianhan.com/live/22710_1/playlist.m3u8?sign=2a284ca19d8feda02d3765
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
 https://standard-pull.lsr-glue.com/sm/10021_428419_lhd.m3u8?auth_key=1621080006-0-0-c0a3f1fcfc97312f91723fcf901fe163
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
-http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+https://lived.ali.huoxinglaike.com/live/streamcnhd88406.m3u8?auth_key=1621002900-c5ce29b4acb24af1969bf92121a8eed7-0-782df76641b783713c522cb1fd39cc0c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFb3k2RN/ONETV-KIDS-logo-19-05-2018-5.png" group-title="កម្ពុជា|Cambodia",OneTv Kids
 http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtVCJ03s/IMG-20200621-084736.jpg" group-title="កម្ពុជា|Cambodia",OneTv Discovery
