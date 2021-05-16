@@ -28,7 +28,7 @@ http://167.99.65.12:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yRYK0nJ/MYTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|MYTV
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="កម្ពុជា|Cambodia",កម្ពុជា|ហង្សមាស
+#EXTINF:-1 tvg-logo="http://tny.im/oM4" group-title="កម្ពុជា|Cambodia",កម្ពុជា|ហង្សមាស
 http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nsf7hpH/RHM.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|រស្មីហង្សមាស
 http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
