@@ -108,22 +108,19 @@ http://27.254.130.61/live01/ch14.m3u8?p=st
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="ASIA SPOTS",Be 1
+#EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="SPOTS",Be 1
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105
-#EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="ASIA SPOTS",Be 2
+#EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="SPOTS",Be 2
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPOTS",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="ASIA SPOTS",Fox 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="SPOTS",Fox 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="ASIA SPOTS",Fox 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="SPOTS",Fox 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="ASIA SPOTS",Fox 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_cl.png" group-title="SPOTS",Fox 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tny.im/oBV" group-title="ASIA SPOTS",S16
 
-#EXTINF:-1 tvg-logo="http://tny.im/oBW" group-title="ASIA SPOTS",BTV5
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
 
 
 
@@ -562,13 +559,13 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new1.smil/playlist.m3u8?ui
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
 
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="ASIA SPOTS", Champions 2
+
 
 
 
@@ -637,40 +634,36 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1
-http://ferrarico.referrari.com/live/60091_.m3u8
+
 #EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 
-http://ferrarico.referrari.com/live/60092_.m3u8
+
 #EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="SPOTS",3 
-http://ferrarico.referrari.com/live/60093_.m3u8
 
-#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 FR
+
+#EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="BIEN",1 FR
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/544
-#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 FR
+#EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="BIEN",2 FR
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/543
-#EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="SPOTS",3 FR
+#EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="BIEN",3 FR
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/542
-#EXTINF:-1 tvg-logo="http://tny.im/oxq" group-title="SPOTS",La Liga
-
-#EXTINF:-1 tvg-logo="http://tny.im/oCq" group-title="SPOTS",Liga Depotes
-
-#EXTINF:-1 tvg-logo="http://tny.im/oCr" group-title="SPOTS",Liga Decampeone
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oCp" group-title="SPOTS",N SPOT
+
+
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="SPOTS",1 AR
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="SPOTS",2 AR
 
-#EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="SPOTS",3 ARPOTS",4 AR
+#EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="SPOTS",3 AR
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxx" group-title="SPOTS",FS1
-http://my.odtv.uk:80/iptvlover/128996/494
+
 #EXTINF:-1 tvg-logo="http://tny.im/oxw" group-title="SPOTS",FS2
-http://my.odtv.uk:80/iptvlover/128996/495
+
 #EXTINF:-1 tvg-logo="http://tny.im/oxz" group-title="SPOTS",AS1
 http://my.odtv.uk:80/iptvlover/128996/126
 #EXTINF:-1 tvg-logo="http://tny.im/oxA" group-title="SPOTS",AS2
@@ -679,10 +672,7 @@ http://my.odtv.uk:80/iptvlover/128996/127
 http://my.odtv.uk:80/iptvlover/128996/128
 #EXTINF:-1 tvg-logo="http://tny.im/oxC" group-title="SPOTS",AS4
 http://my.odtv.uk:80/iptvlover/128996/129
-#EXTINF:-1 tvg-logo="http://tny.im/oxD" group-title="SPOTS",PL
-http://my.odtv.uk:80/iptvlover/128996/134
-#EXTINF:-1 tvg-logo="http://tny.im/oxE" group-title="SPOTS",NBSN
-https://freeball100.com/arena/3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="LATIN SPOTS",TUN
 http://kstv.xyz:8080/Najera/1234/47140
 
