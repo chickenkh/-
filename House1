@@ -571,11 +571,24 @@ https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 1 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11543
+#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 2
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11545
+#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 3
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11546
+#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 4
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11548
+#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 5
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11550
+#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",KSBN
+http://121.176.2.26:9981/stream/channelid/90
+#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",SBS
+http://121.176.2.26:9981/stream/channelid/44
+#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",SPOTV
+http://121.176.2.26:9981/stream/channelid/46
+#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",SPOTV2
+http://121.176.2.26:9981/stream/channelid/77
 
 
 
