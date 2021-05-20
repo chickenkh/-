@@ -558,10 +558,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="English Premier League",1
-
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="English Premier League",2
-
+#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",True Premier 1
+https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="SPOTS",True Premier 2
+https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
 
 
