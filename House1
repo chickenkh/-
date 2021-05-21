@@ -111,7 +111,8 @@ http://27.254.130.61/live01/ch14.m3u8?p=st
 #EXTINF:-1 tvg-logo="http://tny.im/oeE" group-title="SPOTS",Be 1
 https://mediasv.online/premium/bein1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDIxIDI6NDU6MTIgUE0maGFzaF92YWx1ZT0zcWZFNlY1U3UyaDF3Zkh2M0pqcDR3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTEzJmlkPWNoXzgzNzAy
 #EXTINF:-1 tvg-logo="http://tny.im/oeD" group-title="SPOTS",Be 2
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073
+https://mediasv.online/premium/bein2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIxIDExOjA5OjM4IFBNJmhhc2hfdmFsdWU9YVFmVmZBM2lCTERCdFNqbHllNXdYZz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0xMyZpZD1jaF82MjMyMQ==
+#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPOTS",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="SPOTS",Fox 1
