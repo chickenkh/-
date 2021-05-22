@@ -572,24 +572,6 @@ https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 1 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11543
-#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 2
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11545
-#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 3
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11546
-#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 4
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11548
-#EXTINF:0 tvg-id="ext" group-title="SPOTS",NL | ESPN 5
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11550
-#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",KSBN
-http://121.176.2.26:9981/stream/channelid/90
-#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",SBS
-http://121.176.2.26:9981/stream/channelid/44
-#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",SPOTV
-http://121.176.2.26:9981/stream/channelid/46
-#EXTINF:-1 tvg-logo="http://tny.im/ofp" group-title="SPOTS",SPOTV2
-http://121.176.2.26:9981/stream/channelid/77
 
 
 
@@ -655,11 +637,11 @@ http://121.176.2.26:9981/stream/channelid/77
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/oxm" group-title="BIEN",1 FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/544
+
 #EXTINF:-1 tvg-logo="http://tny.im/oxo" group-title="BIEN",2 FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/543
+
 #EXTINF:-1 tvg-logo="http://tny.im/oxp" group-title="BIEN",3 FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/542
+
 
 
 
@@ -687,22 +669,11 @@ http://my.odtv.uk:80/iptvlover/128996/128
 #EXTINF:-1 tvg-logo="http://tny.im/oxC" group-title="SPOTS",AS4
 http://my.odtv.uk:80/iptvlover/128996/129
 
-#EXTINF:-1 tvg-logo="http://tny.im/oxF" group-title="LATIN SPOTS",TUN
-http://kstv.xyz:8080/Najera/1234/47140
 
 
 
-#EXTINF:-1 tvg-logo="http://tny.im/oAn" group-title="LATIN SPOTS",ESN BR
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/76023
-#EXTINF:-1 tvg-logo="http://tny.im/oBS" group-title="LATIN SPOTS",AYM
 
-#EXTINF:-1 tvg-logo="http://tny.im/oAf" group-title="LATIN SPOTS",TVC
-http://kstv.xyz:8080/Najera/1234/47141
-#EXTINF:-1 tvg-logo="http://tny.im/oAg" group-title="LATIN SPOTS",WIN
-http://kstv.xyz:8080/Najera/1234/46837
-#EXTINF:-1 tvg-logo="http://tny.im/oAh" group-title="LATIN SPOTS",TYC
 
-#EXTINF:-1 tvg-logo="http://tny.im/oBT" group-title="LATIN SPOTS",TIGO
 
 
 
@@ -724,9 +695,9 @@ http://kstv.xyz:8080/Najera/1234/46837
 
 
 #EXTINF:-1  group-title="LIVE MATCH",1
-https://lived.ali.huoxinglaike.com/live/streamcnhd165470.m3u8?auth_key=1621521300-a9dab4affb5b4f6480e7d3d10f9e0487-0-3608855e420adf8e40d145e40be36e26
+
 #EXTINF:-1  group-title="LIVE MATCH",2
-https://livec.ali.huoxinglaike.com/live/Bein_Sports_1_hd.m3u8?auth_key=1621170300-5ef86167f87747f4bfd26b66888fc89c-0-03c81b5483b8d6c24eff54daec5d0c01
+
 #EXTINF:-1  group-title="LIVE MATCH",3
 
 #EXTINF:-1  group-title="LIVE MATCH",4
